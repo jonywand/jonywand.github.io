@@ -36,7 +36,7 @@ http://1.iplaytv.applinzi.com/iptv/YS/15.php
 
 
 #EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/hnws.jpg" group-title="2>CN卫视", 湖南卫视
-http://1.iplaytv.applinzi.com/iptv/WS/01hnws.php
+http://eshare.live.otvcloud.com/otv/nyz/live/channel89/700.m3u8
 #EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/bjws.jpg" group-title="2>CN卫视", 北京卫视
 http://1.iplaytv.applinzi.com/iptv/WS/02bjws.php
 #EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/jsws.jpg" group-title="2>CN卫视", 江苏卫视
