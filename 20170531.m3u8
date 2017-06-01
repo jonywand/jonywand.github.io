@@ -4,7 +4,7 @@ http://pull3.a8.com/live/jade/playlist.m3u8
 #EXTINF:-1 tvg-logo="http://ac-HSNl7zbI.clouddn.com/AbEqSpBvNsDtJu3JBVyGHdTJWWjyLhCUqqpFbPIO.jpg" group-title="1>TVB高清", TVB高清
 http://live.microsoft.sd.cn/jade.m3u8
 #EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv1.jpg" group-title="1>CCTV", CCTV 1-综合
-http://1.iplaytv.applinzi.com/iptv/YS/01.php
+http://iptv.ac.cn/migu.m3u8?id=608807420
 #EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv2.jpg" group-title="1>CCTV", CCTV 2-财经
 http://1.iplaytv.applinzi.com/iptv/YS/02.php
 #EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv3.jpg" group-title="1>CCTV", CCTV 3-综艺
@@ -65,8 +65,6 @@ http://1.iplaytv.applinzi.com/iptv/WS/13tjws.php
 http://1.iplaytv.applinzi.com/iptv/WS/14lyws.php
 #EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/btws.jpg" group-title="2>CN卫视", 兵团卫视
 http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
-
-
 
 
 #EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-tiyu.jpg" group-title="5>乐视轮播台", Letv-乐视体育
