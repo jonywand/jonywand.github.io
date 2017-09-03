@@ -1,71 +1,132 @@
-#EXTM3U
-#EXTINF:-1 tvg-logo="http://ac-HSNl7zbI.clouddn.com/RWhiNaBPzFcDNH3GI84dmzuyW3B5QC5yzJNWkxll.jpg" group-title="1>TVB", TVB
-http://pull3.a8.com/live/jade/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://ac-HSNl7zbI.clouddn.com/AbEqSpBvNsDtJu3JBVyGHdTJWWjyLhCUqqpFbPIO.jpg" group-title="1>TVB高清", TVB高清
-http://live.microsoft.sd.cn/jade.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv1.jpg" group-title="1>CCTV", CCTV 1-综合
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227518/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv2.jpg" group-title="1>CCTV", CCTV 2-财经
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227582/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv3.jpg" group-title="1>CCTV", CCTV 3-综艺
-http://60.214.208.202:9222/mweb/cmv/cctv3.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv4.jpg" group-title="1>CCTV", CCTV 4-中文国际
-http://60.214.208.202:9222/mweb/cmv/cctv4.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv5.jpg" group-title="1>CCTV", CCTV 5-体育
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227505/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv6.jpg" group-title="1>CCTV", CCTV 6-电影
-http://60.214.208.202:9222/mweb/cmv/cctv6.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv7.jpg" group-title="1>CCTV", CCTV 7-军事农业
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227579/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv8.jpg" group-title="1>CCTV", CCTV 8-电视剧
-http://cctv8.vtime.cntv.cloudcdn.net:8500/cache/227_/seg0/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv9.jpg" group-title="1>CCTV", CCTV 9-记录
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227623/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv10.jpg" group-title="1>CCTV", CCTV 10-科教
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227626/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv11.jpg" group-title="1>CCTV", CCTV 11-戏曲
-http://60.214.208.202:9222/mweb/cmv/cctv11.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv12.jpg" group-title="1>CCTV", CCTV 12-社会与法
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227640/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv13.jpg" group-title="1>CCTV", CCTV 13-新闻
-http://60.214.208.202:9222/mweb/cmv/cctv13.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv14.jpg" group-title="1>CCTV", CCTV 14-少儿
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227637/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/cctv15.jpg" group-title="1>CCTV", CCTV 15-音乐
-http://60.214.208.202:9222/mweb/cmv/cctv15.m3u8
+#EXTM3U thanh51
 
+#EXTINF:-1  group-title="Sports",SKYNET SPORTS HD
+http://183.88.212.205:8010/play/a00r?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",SKYNET SPORTS-1
+http://183.88.212.205:8010/play/a02j?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",SKYNET SPORTS-2
+http://183.88.212.205:8010/play/a02k?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",SKYNET SPORTS-3
+http://183.88.212.205:8010/play/a02l?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",SKYNET SPORTS-4
+http://183.88.212.205:8010/play/a00a?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",SKYNET SPORTS-5
+http://183.88.212.205:8010/play/a00b?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",SKYNET SPORTS-6
+http://183.88.212.205:8010/play/a00c?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",FOX SPORTS 1
+http://183.88.212.205:8010/play/a02m?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",FOX SPORTS 2
+http://183.88.212.205:8010/play/a02n?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",FOX SPORTS 3
+http://183.88.212.205:8010/play/a02o?User-Agent=Mozilla/5.0
+#EXTINF:-1  group-title="Sports",EURO SPORTS
+http://183.88.212.205:8010/play/a00d?User-Agent=Mozilla/5.0
 
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/hnws.jpg" group-title="2>CN卫视", 湖南卫视
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227483/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/bjws.jpg" group-title="2>CN卫视", 北京卫视
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227508/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/jsws.jpg" group-title="2>CN卫视", 江苏卫视
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227492/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/zjws.jpg" group-title="2>CN卫视", 浙江卫视
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227511/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/szws.jpg" group-title="2>CN卫视", 深圳卫视
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227489/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/sdws.jpg" group-title="2>CN卫视", 山东卫视
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227514/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/dfws.jpg" group-title="2>CN卫视", 东方卫视
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227520/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/ahws.jpg" group-title="2>CN卫视", 安徽卫视
-http://61.129.131.65/live.aishang.ctlcdn.com/00000110240256_1/encoder/0/playlist.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/hubws.jpg" group-title="2>CN卫视", 湖北卫视
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227495/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/gdws.jpg" group-title="2>CN卫视", 广东卫视
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227499/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/hljws.jpg" group-title="2>CN卫视", 黑龙江卫视
-http://183.207.249.15/PLTV/3/224/3221225652/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/lnws.jpg" group-title="2>CN卫视", 辽宁卫视
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227628/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/tjws.jpg" group-title="2>CN卫视", 天津卫视
-http://zb4.iptv.gd.cn/PLTV/88888905/224/3221227498/index.m3u8
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/lyws.jpg" group-title="2>CN卫视", 旅游卫视
-http://1.iplaytv.applinzi.com/iptv/WS/14lyws.php
-#EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/btws.jpg" group-title="2>CN卫视", 兵团卫视
-http://v.btzx.com.cn:1935/live/weishi.stream/playlist.m3u8
-
+#EXTINF:-1 group-title="AsiaTV",HBO HD
+http://183.88.212.205:8010/play/a00u?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",HBO
+http://183.88.212.205:8010/play/a00m?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",RED BY HBO
+http://183.88.212.205:8010/play/a03c?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",AXN
+http://183.88.212.205:8010/play/a00i?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",CINEMAX
+http://183.88.212.205:8010/play/a00n?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",WORLD MOVIES
+http://183.88.212.205:8010/play/a01k?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",SKYNET MOVIES HD
+http://183.88.212.205:8010/play/a00v?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",MYANMAR MOVIES
+http://183.88.212.205:8010/play/a01h?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",ZEE CINEMA ME
+http://183.88.212.205:8010/play/a01n?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",FOX ACTION MOVIES HD
+http://183.88.212.205:8010/play/a010?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",WORLD DRAMA
+http://183.88.212.205:8010/play/a01x?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",FOX MOVIES PREMIUM
+http://183.88.212.205:8010/play/a01l?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",STAR CHINESE MOVIES
+http://183.88.212.205:8010/play/a02e?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",ASIAN MOVIES
+http://183.88.212.205:8010/play/a01j?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",FOX CRIME
+http://183.88.212.205:8010/play/a020?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",FOX FAMILY MOVIES
+http://183.88.212.205:8010/play/a01m?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",NGC
+http://183.88.212.205:8010/play/a02x?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",NGC WILD
+http://183.88.212.205:8010/play/a02y?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",NAT GEO PEOPLE
+http://183.88.212.205:8010/play/a02z?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DISCOVERY
+http://183.88.212.205:8010/play/a031?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DISCOVERY HD WORLD
+http://183.88.212.205:8010/play/a00t?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DISCOVERY SCIENCE
+http://183.88.212.205:8010/play/a034?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DISCOVERY TLC
+http://183.88.212.205:8010/play/a032?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",ANIMAL PLANET
+http://183.88.212.205:8010/play/a030?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",OUTDOOR CHANNEL
+http://183.88.212.205:8010/play/a03d?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",BBC EARTH
+http://183.88.212.205:8010/play/a03e?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DIVA UNIVERSAL
+http://183.88.212.205:8010/play/a03n?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",FYI 
+http://183.88.212.205:8010/play/a00k?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",CI
+http://183.88.212.205:8010/play/a00j?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",CCTV 9
+http://183.88.212.205:8010/play/a02b?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DMAX
+http://183.88.212.205:8010/play/a035?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",HISTORY HD
+http://183.88.212.205:8010/play/a00y?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",E!
+http://183.88.212.205:8010/play/a03o?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",BBC WORLD NEWS
+http://183.88.212.205:8010/play/a03g?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",CNN
+http://183.88.212.205:8010/play/a00l?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",SKY NEWS
+http://183.88.212.205:8010/play/a00e?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",CNBC
+http://183.88.212.205:8010/play/a02c?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",FRANCE 24
+http://183.88.212.205:8010/play/a02h?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",NHK WORLD TV
+http://183.88.212.205:8010/play/a028?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",NHK WORLD PREMIUM
+http://183.88.212.205:8010/play/a027?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",KBS WORLD
+http://183.88.212.205:8010/play/a025?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",CCTV 4
+http://183.88.212.205:8010/play/a02a?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",STAR WORLD
+http://183.88.212.205:8010/play/a021?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",PHOENIX INFO NEWS
+http://183.88.212.205:8010/play/a02i?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",BLOOMBERG
+http://183.88.212.205:8010/play/a02d?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DISNEY JUNIOR ASIA
+http://183.88.212.205:8010/play/a02u?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",CARTOON NETWORK
+http://183.88.212.205:8010/play/a01b?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",SKYNET CARTOON
+http://183.88.212.205:8010/play/a01d?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",ANIMAX
+http://183.88.212.205:8010/play/a00h?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",NICKELODEON
+http://183.88.212.205:8010/play/a01f?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DISNEY CHANNEL ASIA
+http://183.88.212.205:8010/play/a02t?User-Agent=Mozilla/5.0
+#EXTINF:-1 group-title="AsiaTV",DISNEY XD
+http://183.88.212.205:8010/play/a00x?User-Agent=Mozilla/5.0
 
 #EXTINF:-1 tvg-logo="http://7xsk44.com2.z0.glb.clouddn.com/LETV-tiyu.jpg" group-title="5>乐视轮播台", Letv-乐视体育
 http://live.g3proxy.lecloud.com/gslb?stream_id=lb_sports_720p&tag=live&ext=m3u8&sign=live_tv&platid=10&splatid=1009&format=letv&expect=1
