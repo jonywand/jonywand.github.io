@@ -1,7 +1,7 @@
 #EXTM3U name="重庆电信IPTV"
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="央视卫视",CCTV-1
 rtp://235.254.197.1:7980
-#EXTINF:CCTV-2
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="央视卫视",CCTV-2
 rtp://235.254.197.2:7980
 #EXTINF:CCTV-3高清
 rtp://235.254.199.53:7980
