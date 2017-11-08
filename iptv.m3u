@@ -1,34 +1,4 @@
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="央视",CCTV-1
-http://121.31.20.139:8114/itv/cctv1?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM1=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="央视",CCTV-2
-http://121.31.20.139:8114/itv/cctv2?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM2=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="央视",CCTV-3
-http://121.31.20.139:8114/itv/cctv3?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM3=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png",group-title="央视",CCTV-4
-http://121.31.20.139:8114/itv/cctv4a?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM4=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="央视",CCTV-5
-http://121.31.20.139:8114/itv/cctv5HD?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM6=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-6a.png",group-title="央视",CCTV-6
-http://121.31.20.139:8114/itv/cctv6?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM8=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-7a.png",group-title="央视",CCTV-7
-http://121.31.20.139:8114/itv/cctv7?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM9=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-8a.png",group-title="央视",CCTV-8
-http://121.31.20.139:8114/itv/cctv8?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM10=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-9a.png",group-title="央视",CCTV-9
-http://121.31.20.139:8114/itv/cctv9?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM11=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-10a.png",group-title="央视",CCTV-10
-http://121.31.20.139:8114/itv/cctv10?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM12=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-11a.png",group-title="央视",CCTV-11
-http://121.31.20.139:8114/itv/cctv11?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM13=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="央视",CCTV-12
-http://121.31.20.139:8114/itv/cctv12?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM14=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-13a.png",group-title="央视",CCTV-13
-http://121.31.20.139:8114/itv/cctv13?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM15=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png",group-title="央视",CCTV-14
-http://121.31.20.139:8114/itv/cctv14?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM16=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-15a.png",group-title="央视",CCTV-15
-http://121.31.20.139:8114/itv/cctv15?Fsv_otype=1&FvSeid=&Fsv_filetype=&Fsv_ctype=&Fsv_cid=&Fsv_chan_hls_se_idx=&Fsv_rate_id=&Fsv_TBt=&Fsv_ShiftEnable=&Fsv_ShiftTsp=&Fsv_SV_PARAM17=&Provider_id=&Pcontent_id=
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="媲美有线央视卫视",CCTV-1
+EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="媲美有线央视卫视",CCTV-1
 http://183.252.176.40//PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="超清央视卫视4M",CCTV-1
 http://183.252.176.40//PLTV/88888888/224/3221225829/index.m3u8
