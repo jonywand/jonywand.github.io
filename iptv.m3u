@@ -1254,6 +1254,8 @@ p2p://107.167.13.70:6003/5949254f0007c10e148ae74c5cf51ee6&link=hxyaishi
 http://tvb8-i.akamaihd.net/hls/live/224490/C8Live/C8Live-1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbyule.png",group-title="港台境外",TVB娱乐新闻台
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvblip.png",group-title="港台境外",TVBlip音乐频道
+http://www2.patrz.pl/u/f/77/52/14/775214.flv
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbjingdian.png",group-title="港台境外",TVB经典
 http://hls1.plu.cn/live/tvbjd/playlist.m3u8 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbgongfu.png",group-title="港台境外",TVB功夫
@@ -1264,8 +1266,12 @@ http://www.onetv.pub/live/lxsh_hk.php?id=TVBXH
 http://60.199.188.6/HLS/WG_TVBS-N/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="港台境外",东森新闻
 http://60.199.188.6/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Knews24.png",group-title="港台境外",Knews24新闻
+http://hls.live.kksmg.com/live/live24h/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/feifanxinwen.png",group-title="港台境外",非凡新闻
 http://60.199.188.6/HLS/WG_USTV-N/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/happytv.png",group-title="港台境外",快乐电视
+http://61.218.59.193/live/ch104/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/mingshixinwen.png",group-title="港台境外",民视新闻
 p2p://107.167.13.70:6003/594925630001cb9b148b33e521985d72&link=hxyaishi
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tianyingpindao.png",group-title="港台境外",天映频道/翡翠台
@@ -1288,6 +1294,8 @@ rtmp://wv4.tp33.net/sat/tv051
 p2p://107.167.13.70:6003/5949255d00018e97148b1c651d7654b2&link=hxyaishi
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/gongshi1",group-title="港台境外",公视HD
 p2p://107.167.13.70:6003/59492562000db7dd148b330a0ecf50e3&link=hxyaishi
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hgws.png",group-title="港台境外",宏观卫视
+http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/nowxinwen.png",group-title="港台境外",NOW新闻
 http://hktv.ga/now.php?id=2
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/nowzhibo.png",group-title="港台境外",NOW直播
@@ -1350,6 +1358,8 @@ http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8
 p2p://107.167.13.70:6003/594925aa000d3ebe148c4c2b47580c1a&link=hxyaishi
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huanyuxinwen.png",group-title="港台境外",环宇新闻1
 http://61.219.11.159/origin/live/ch2017091940/hls0/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yccj.png",group-title="港台境外",耀才财经
+rtmp://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huanyuxinwen.png",group-title="港台境外",环宇新闻2
 http://61.219.11.159/origin/live/ch2017091941/hls0/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/taishixinwen.png",group-title="港台境外",台视新闻
@@ -1390,6 +1400,88 @@ http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 http://origina.streaming.sk/liveedge/tvfashion/chunklist_w1323605783.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/bbc.jpg",group-title="港台境外",美国中文台
 http://media3.sinovision.net:1935/live/livestream/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",壹电视新闻 
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",亚太第一卫视
+http://v1.one-tv.com:1935/live/mpegts.stream/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",中天新闻台
+http://220.228.49.31/live/fet006/chunklist.m3u
+#EXTINF:0 tvg-logo="",group-title="港台境外",三立台湾电视台
+http://14.17.70.49:5021/live/437
+#EXTINF:0 tvg-logo="",group-title="港台境外",东森财经新闻
+http://220.228.49.31/live/fet004/chunklist.m3u
+#EXTINF:0 tvg-logo="",group-title="港台境外",生命电视
+http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E?fmt=x264_500K_ts&cpid=admin&size=1280X720&toflv=15
+#EXTINF:0 tvg-logo="",group-title="港台境外",慧津电视
+mms://down.fodizi.com/tv
+#EXTINF:0 tvg-logo="",group-title="港台境外",大爱
+http://14.17.70.49:5021/live/442
+#EXTINF:0 tvg-logo="",group-title="港台境外",中经电视
+http://116.213.200.53/tslsChannelLive/PCG0DuD.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",华藏卫星电视
+rtmp://61.160.254.37/liveedge/cult
+#EXTINF:0 tvg-logo="",group-title="港台境外",纬来电影台
+rtsp://2.itvitv.com/vlm.dekjpkmarygtdnhgb
+#EXTINF:0 tvg-logo="",group-title="港台境外",星空国际
+rtsp://c.itvitv.com/sm3.vcxulhdgfhfgns/
+#EXTINF:0 tvg-logo="",group-title="港台境外",新闻综合HD
+http://visit.jjbctv.com:1935/live/xwzhpc/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",星卫电影台HD
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",壹新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",证券资讯
+http://web-play.pptv.com/web-m3u8-300747
+m3u8?type=m3u8.web.phone&playback=0&kk=&o=pub.pptv.com
+#EXTINF:0 tvg-logo="",group-title="港台境外",唐人电视
+http://174.127.67.246/live200/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",HBOHD
+http://183.88.212.205:8010/play/a02m
+#EXTINF:0 tvg-logo="",group-title="港台境外",港台番薯TVHD
+http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555?fmt=x264_500K_ts&cpid=admin&size=720X480&toflv=1&start=
+#EXTINF:0 tvg-logo="",group-title="港台境外",VIP电影1
+http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/10/1433923712941_962055/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",VIP电影2
+http://chyd-wsvod.wasu.tv/data9/ott/344/2013-06/07/1370600803122_737204/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",VIP电影3
+http://chyd-wsvod.wasu.tv/data13/ott/344/2015-05/28/1432782476341_377935/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",VIP电影4
+http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",VIP电影5
+http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/01/1433146056644_381163/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",新加坡Toggle LIVE
+http://tgllive-lh.akamaihd.net/i/toggle_live@334524/master.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",FOX家庭電影
+http://64.140.164.226:8066/HLS/live/226004/index.m3u8?mid=64&pwd=mars
+#EXTINF:0 tvg-logo="",group-title="港台境外",MBC宝莱坞
+http://63.237.48.3/ios/MBC_BOLLYWOOD/MBC_BOLLYWOOD.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",佛教
+rtmp://hk2.hwadzan.com/liveedgelist/livetv#rtmp://hk2.hwadzan.com/liveedge/amtb
+http://61.160.254.6/channels/jingzong/video_channel_01/flv:hd/live?1378017858945
+#EXTINF:0 tvg-logo="",group-title="港台境外",唯心宗教卫星台
+mms://118.163.182.167/wxtv300k
+#EXTINF:0 tvg-logo="",group-title="港台境外",迪士尼动画频道
+rtsp://c.itvitv.com/disney.rinujhtgfv
+#EXTINF:0 tvg-logo="",group-title="港台境外",地理野生台
+rtsp://c.itvitv.com/ngwhd.aowmtdsydhr
+#EXTINF:0 tvg-logo="",group-title="港台境外",美国探索台
+rtsp://c.itvitv.com/dshd.geyutrkugh
+#EXTINF:0 tvg-logo="",group-title="港台境外",美国探索科学台
+rtsp://c.itvitv.com/dssc.ujk##
+#EXTINF:0 tvg-logo="",group-title="港台境外",唯心卫视(亚洲)
+rtsp://118.163.182.167/wxtv300k
+#EXTINF:0 tvg-logo="",group-title="港台境外",CGNTV中文台
+http://cgntv-glive.ofsdelivery.net/live/_definst_/cgntv_ch/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",NewsAsia
+http://imtcnai-lh.akamaihd.net/i/cnai_main@334572/master.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",CBN
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",CBS 47
+http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",DW Asia
+http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:0 tvg-logo="",group-title="港台境外",CHING连续剧 M-tv
+rtmp://edge1.everyon.tv/etv1sb/phd783?country=CN&quality=0&channel=phd783&player=web&network=pc&p2pupuser=on&domain=everyon&bitrate=896&ser
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171022期
 http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=C81D9354731E25896DA7D0984B9AEE42&file=/internettv/c1/2017/10/22/C81D9354731E25896DA7D0984B9AEE42.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171021期
