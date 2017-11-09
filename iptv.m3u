@@ -904,8 +904,6 @@ p2p://107.167.13.70:6003/594925630001515a148b33c656a3153d&link=hxyaishi
 rtmp://wv4.tp33.net/sat/tv111
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huashi.png",group-title="港台境外",华视HD
 p2p://107.167.13.70:6003/59492562000e32d6148b33292227554f&link=hxyaishi
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huashi.png",group-title="港台境外",华视HD(YouTube)
-http://iptv.wangjiuling.com/youtube.php?id=tVAUF93hrVQ
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="港台境外",民视
 rtmp://wv4.tp33.net/sat/tv051
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="港台境外",民视HD
@@ -1088,6 +1086,24 @@ http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
 http://cmghlslive-i.akamaihd.net:80/hls/live/224714/WJAX/904k/prog.m3u8
 #EXTINF:0 tvg-logo="",group-title="港台境外",DW Asia
 http://www.metafilegenerator.de/DWelle/tv-asia/ios/master.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huashi.png",group-title="YouTube",华视HD
+http://iptv.wangjiuling.com/youtube.php?id=tVAUF93hrVQ
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianxinwena.png",group-title="YouTube",中天新闻HD
+http://iptv.wangjiuling.com/youtube.php?id=wUPPkSANpyo
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="YouTube",東森新聞HD
+http://iptv.wangjiuling.com/youtube.php?id=ZADZPdUbRzU
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="YouTube",東森经济新聞HD
+http://iptv.wangjiuling.com/youtube.php?id=PoHEf59ybtY
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanlixingwen.png",group-title="YouTube",三立LIVE新聞HD
+http://iptv.wangjiuling.com/youtube.php?id=xA3ytb4LXtY
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="YouTube",民视HD
+http://iptv.wangjiuling.com/youtube.php?id=XxJKnDLYZz4
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/taishizonghe.png",group-title="YouTube",台视HD
+http://iptv.wangjiuling.com/youtube.php?id=yk2CUjbyyQY
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongshi.png",group-title="YouTube",中视HD
+http://iptv.wangjiuling.com/youtube.php?id=Ab0fcJNJTFI
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/national.png",group-title="YouTube",国家地理
+http://iptv.wangjiuling.com/youtube.php?id=T2glAL1hj3U
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171022期
 http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=C81D9354731E25896DA7D0984B9AEE42&file=/internettv/c1/2017/10/22/C81D9354731E25896DA7D0984B9AEE42.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingshijiaodiana.png",group-title="【点播】经视焦点",经视焦点20171021期
