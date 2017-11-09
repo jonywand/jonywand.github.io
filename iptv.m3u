@@ -905,7 +905,7 @@ rtmp://wv4.tp33.net/sat/tv111
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huashi.png",group-title="港台境外",华视HD
 p2p://107.167.13.70:6003/59492562000e32d6148b33292227554f&link=hxyaishi
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huashi.png",group-title="港台境外",华视HD(YouTube)
-https://www.youtube.com/embed/tVAUF93hrVQ?autoplay=1
+http://iptv.wangjiuling.com/youtube.php?id=tVAUF93hrVQ
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="港台境外",民视
 rtmp://wv4.tp33.net/sat/tv051
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="港台境外",民视HD
