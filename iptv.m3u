@@ -84,15 +84,15 @@ http://live.aikan.miguvideo.com/ws_v/gefwq/gefwq711/711/01.m3u8
 http://live.aikan.miguvideo.com/ws_v/ysjp/ysjp711/711/01.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CGTN.png",group-title="咪咕源",CGTN
 http://live.aikan.miguvideo.com/envivo_x/SD/cctvnews/711/01.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CGTN_jl.png",group-title="咪咕源",CGTN纪录
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CGTN-jl.png",group-title="咪咕源",CGTN纪录
 http://live.aikan.miguvideo.com/envivo_v/SD/cctv/doc/711/01.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CGTN.png",group-title="咪咕源",CGTN法语
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CGTN-fy.png",group-title="咪咕源",CGTN法语
 http://live.aikan.miguvideo.com/envivo_v/SD/cctv/fayu/711/01.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CGTN_xy.png",group-title="咪咕源",CGTN西语
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CGTN-xy.png",group-title="咪咕源",CGTN西语
 http://live.aikan.miguvideo.com/envivo_v/SD/cctv/xibanya/711/01.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CGTN_ay.png",group-title="咪咕源",CGTN阿语
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CGTN-ay.png",group-title="咪咕源",CGTN阿语
 http://live.aikan.miguvideo.com/envivo_v/SD/cctv/alabo/711/01.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CGTN_e.png",group-title="咪咕源",CGTN俄语
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CGTN-e.png",group-title="咪咕源",CGTN俄语
 http://live.aikan.miguvideo.com/envivo_v/SD/cctv/eyu/711/01.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhejiangweishi.png",group-title="咪咕源",浙江卫视
 http://live.aikan.miguvideo.com/envivo_w/SD/zhejiang/711/01.m3u8
