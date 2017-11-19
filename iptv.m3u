@@ -1,3 +1,36 @@
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="官方源",CCTV-1
+http://cctv1.vtime.cntv.dnion.com:8000/live/no/14_/seg0/index.m3u8?amode=1&AUTH=cntv000120170623X/SXjriAkAiwcf7eL4ayEtlS9icQZ8bcSw6aj8GNK3o3kPjGBOjxNI80NfsyAUtP+4X6HAs/XJtaRmqk3VvFlQ==&uid=default
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="官方源",CCTV-2
+http://cctv2.vtime.cntv.wscdns.com:8000/live/no/204_/seg0/index.m3u8?amode=1&AUTH=cntv000120170623aGj3ufsCDxnId8duSgVY7QHTijd4fJwC8QhE2uHttqYksMsb1R6qxoleyrQj+vebalk/y/obb8SpCa+ujw+HMg==&uid=default
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="官方源",CCTV-3
+http://cctv.timeshift.cntv.liveplay.myqcloud.com:8000/live/no/209_/seg0/index.m3u8?amode=1&AUTH=cntv000120170623ny+CqwlifcE5fo/P2AVIBSn6HqfDMIIL3d2bZVPgjrdk4fkjBSumpNWtUxZoEHf5Go7lTinA+Xr8wRPlXT/VCQ==&uid=default
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png",group-title="官方源",CCTV-4
+http://cctv4.vtime.cntv.wscdns.com:8000/live/no/19_/seg0/index.m3u8?amode=1&AUTH=cntv000120170623JMJH6X36Sp0ZUkhcvbcH3WOwl22B1wbexMGdFGZ0UDRCOWJ2mNJK4nt916pvt0Akq2iOjzmxC//ZYl5b6BOqrg==&uid=default
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="官方源",CCTV-5
+http://cctv5.vtime.cntv.dnion.com:8000/live/no/214_/seg0/index.m3u8?amode=1&AUTH=cntv0001201706233CtOxROs81nU06iRgQcpBXs9yC60aj+z5DkJ58I0Qke6BzCVJx6i6ZRA8yGAHP4Ui/l7YQWaxtSsv092q3cExA==&uid=default
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5b.png",group-title="官方源",CCTV-5+
+http://cctv.timeshift.cntv.liveplay.myqcloud.com:8000/live/no/259_/seg0/index.m3u8?amode=1&AUTH=cntv000120170623GftLFhQH5JGJxjpAWZTTyzHxK33Q7Jm7XvA5z3gJOWraH3fErhMwByMR1Sqi2J133HpafVkaKyfDypd6d2GoCg==&uid=default
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-6a.png",group-title="官方源",CCTV-6
+http://cctv.timeshift.cntv.liveplay.myqcloud.com:8000/live/no/219_/seg0/index.m3u8?amode=1&AUTH=cntv000120170623MEUZCi6BibntXsqx6C2Ig7tIwYp4oeN49J8DxHNAs9sTqUXfIoA8HuKGq3ELBpf4XZ1+dynKvV8qbeM7BUayqQ==&uid=default
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-7a.png",group-title="官方源",CCTV-7
+http://cctv.timeshift.cntv.liveplay.myqcloud.com:8000/live/no/224_/seg0/index.m3u8?amode=1&AUTH=cntv000120170623Qn6pfmKsWY/mRyBDZ+KpHB5TpCgMUZc6/D9A1d/rVZHjL5qLqToZLnLTah56w0D150yhFz0eD4sdUyrhornRVg==&uid=default
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-8a.png",group-title="官方源",CCTV-8
+http://cctv8.vtime.cntv.dnion.com:8000/live/no/229_/seg0/index.m3u8?amode=1&AUTH=cntv000120170623HpzSaD10j+HQFxxS/3nDViQsBPhO4iydpxWPqM//sJO9EZ/0GxLAmHfEXLlbEabiZEcDp+9Py0GxnDcuZVeZ9g==&uid=default
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-9a.png",group-title="官方源",CCTV-9
+http://cctvjilu.vtime.cntv.dnion.com:8000/live/no/294_/seg0/index.m3u8?amode=1&AUTH=cntv000120170623p5KoECk2X5AJPxiw42X5/HIeQMku0lTaWkYHYAsXA7ZyR2HHaeCB8E113pT9yaK2cF7MtsTbwCMfRPpus+aklw==&uid=default
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-10a.png",group-title="官方源",CCTV-10
+http://cctv.cntv.cdnpe.com/cntvlive/cctv10.m3u8?adapt=0&BR=md&AUTH=UpKXjz33yINh28SUgKrMpVPtgHCX8nwNmYVQsM5bLAEV5A/lIeBQWm4eTzwgp9wNfAIeOyrYkq0hj9x7s5VUVg==&uid=default
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-11a.png",group-title="官方源",CCTV-11
+http://cctv.timeshift.cntv.liveplay.myqcloud.com:8000/live/no/239_/seg0/index.m3u8?amode=1&AUTH=cntv000120170623IhjvZF8g9Dw2cXtkeM6XOdtA/E1vjffMrWTeQAQgAdzrtq62VApoBjnFGnS4fUuZI/knUxZmeqczfKHxPf7LJA==&uid=default
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="官方源",CCTV-12
+http://cctv.timeshift.cntv.liveplay.myqcloud.com:8000/live/no/244_/seg0/index.m3u8?amode=1&AUTH=cntv000120170623xZKeSuWNJaLhct1Lm2byQk1M7A6Mh2m4AN7Xv0Y3zGx7JUBBrxtYnH7lgXDANSdYylFxg7vX/U6PPbXh0RYIVg==&uid=default
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-13a.png",group-title="官方源",CCTV-13
+http://cctv13.vtime.cntv.wscdns.com:8000/live/no/24_/seg0/index.m3u8?amode=1&AUTH=cntv000120170623Uxx2WP9ufUdnzc80g+4J/R5TpCgMUZc6/D9A1d/rVZEJSx5g6anEZem81tzp8/6gxKHcLP3pWv/BY/vScWg3Vw==&uid=default
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png",group-title="官方源",CCTV-14
+http://cctv.cntv.cdnpe.com/cntvlive/cctvchild.m3u8?adapt=0&BR=md&AUTH=Iin1daSK35dt+wDNwNjU951w5WNFRs0U2O5rYrmQUTXu4SwtSMwFsUACZBtaHPDnRRJbeXzzLxH50nUxGFlzEQ==&uid=default
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-15a.png",group-title="官方源",CCTV-15
+http://cctv.cntv.cdnpe.com/cntvlive/cctv15.m3u8?adapt=0&BR=md&AUTH=D+j40tlP4/2OyEXrLSrqU78WkpOeXbF8wJkKTLYpMctUdsn8cGIBXWLdmpYCKt4PCUio6QhUGzl2zJbef6b90g==&uid=default
+
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="媲美有线央视卫视",CCTV-1
 http://183.252.176.40//PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="媲美有线央视卫视",CCTV-1
