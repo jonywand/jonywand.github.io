@@ -1744,7 +1744,7 @@ http://iptv.wangjiuling.com/youtube.php?id=yk2CUjbyyQY
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongshi.png",group-title="YouTube",中视HD
 http://iptv.wangjiuling.com/youtube.php?id=Ab0fcJNJTFI
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/national.png",group-title="YouTube",国家地理
-http://iptv.wangjiuling.com/tube.php?id=T2glAL1hj3U
+http://iptv.wangjiuling.com/youtube.php?id=T2glAL1hj3U
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png" group-title="好消息频道", 好消息综合台
 http://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png" group-title="好消息频道", 好消息真理台
