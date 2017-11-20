@@ -2036,7 +2036,7 @@ http://live.alicdn.com/live/cjzb_cctv5hd.m3u8
 http://live.alicdn.com/live/cjzb_cctv6hd.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-8a.png",group-title="超级直播源",CCTV-8
 http://live.alicdn.com/live/cjzb_cctv8hd.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="超级直播源",cctv1
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="超级直播源",CCTV-1
 http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/hdcctv01/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhejiangweishi.png",group-title="超级直播源",浙江卫视
 http://icantv.cn/hls/zjtv/zjws.m3u8
