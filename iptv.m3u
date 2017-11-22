@@ -1360,14 +1360,6 @@ https://58ada6ee80845.streamlock.net/ios/-goldentvcartoon-0832/playlist.m3u8
 https://58ada6ee80845.streamlock.net/ios/-jydrama-0832/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianguoji.png",group-title="港台境外",靖天国际
 https://58ada6ee80845.streamlock.net/ios/-familyfun-0832/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuadianying.png",group-title="港台境外",龙华电影
-http://61.219.11.159/origin/live/ch2017091917/hls0/index.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuarihan.png",group-title="港台境外",龙华日韩
-http://61.219.11.159/origin/live/ch2017091907/hls0/index.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuaouxiang.png",group-title="港台境外",龙华偶像
-http://61.219.11.159/origin/live/ch2017091906/hls0/index.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuaxiju.png",group-title="港台境外",龙华戏剧
-http://61.219.11.159/origin/live/ch2017091905/hls0/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Catchplay.png",group-title="港台境外",Catchplay电影
 http://tc3akts.tv-bar.net/live/9501.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yuanshi.png",group-title="港台境外",原视频道
