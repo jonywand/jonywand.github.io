@@ -2227,33 +2227,33 @@ http://61.216.177.73/sta/ch1764006.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="超级直播源",CCTV-1_720P
 http://cg01.hrtn.net:9090/live/cctv1hd_4000.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="超级直播源",CCTV-2_720P
-http://cg01.hrtn.net:9090/live/cctv2hd_4000.m3u8
+http://cg01.hrtn.net:9090/live/cctv2_1500.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="超级直播源",CCTV-3_720P
 http://cg01.hrtn.net:9090/live/cctv3hd_4000.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png",group-title="超级直播源",CCTV-4_720P
-http://cg01.hrtn.net:9090/live/cctv4hd_4000.m3u8
+http://cg01.hrtn.net:9090/live/cctv4_1500.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="超级直播源",CCTV-5_720P
 http://cg01.hrtn.net:9090/live/cctv5hd_4000.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-6a.png",group-title="超级直播源",CCTV-6_720P
 http://cg01.hrtn.net:9090/live/cctv6hd_4000.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-7a.png",group-title="超级直播源",CCTV-7_720P
-http://cg01.hrtn.net:9090/live/cctv7hd_4000.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-8a.png",group-title="超级直播源",CCTV-9_720P
+http://cg01.hrtn.net:9090/live/cctv7_1500.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-8a.png",group-title="超级直播源",CCTV-8_720P
 http://cg01.hrtn.net:9090/live/cctv8hd_4000.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-9a.png",group-title="超级直播源",CCTV-10_720P
-http://cg01.hrtn.net:9090/live/cctv9hd_4000.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-10a.png",group-title="超级直播源",CCTV-12_720P
-http://cg01.hrtn.net:9090/live/cctv10hd_4000.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-11a.png",group-title="超级直播源",CCTV-12_720P
-http://cg01.hrtn.net:9090/live/cctv11hd_4000.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-9a.png",group-title="超级直播源",CCTV-9_720P
+http://cg01.hrtn.net:9090/live/cctv9_1500.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-10a.png",group-title="超级直播源",CCTV-10_720P
+http://cg01.hrtn.net:9090/live/cctv10_1500.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-11a.png",group-title="超级直播源",CCTV-11_720P
+http://cg01.hrtn.net:9090/live/cctv11_1500.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="超级直播源",CCTV-12_720P
-http://cg01.hrtn.net:9090/live/cctv12hd_4000.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-13a.png",group-title="超级直播源",CCTV-12_720P
-http://cg01.hrtn.net:9090/live/cctv13hd_4000.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png",group-title="超级直播源",CCTV-12_720P
-http://cg01.hrtn.net:9090/live/cctv14hd_4000.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-15a.png",group-title="超级直播源",CCTV-12_720P
-http://cg01.hrtn.net:9090/live/cctv15hd_4000.m3u8
+http://cg01.hrtn.net:9090/live/cctv12_1500.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-13a.png",group-title="超级直播源",CCTV-13_720P
+http://cg01.hrtn.net:9090/live/cctv13_1500.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png",group-title="超级直播源",CCTV-14_720P
+http://cg01.hrtn.net:9090/live/cctv14_1500.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-15a.png",group-title="超级直播源",CCTV-15_720P
+http://cg01.hrtn.net:9090/live/cctv15_1500.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="超级直播源",CCTV-1高清
 http://183.252.176.10/PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="超级直播源",CCTV-2高清
