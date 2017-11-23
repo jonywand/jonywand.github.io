@@ -1,45 +1,45 @@
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="媲美有线央视卫视",CCTV-1
-http://183.252.176.40//PLTV/88888888/224/3221225922/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="媲美有线央视卫视",CCTV-1
 http://183.59.241.163:30001/PLTV/88888905/224/3221227270/10000100000000060000000001141346_0.smil
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="超清央视卫视4M",CCTV-1
-http://183.252.176.40//PLTV/88888888/224/3221225829/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225829/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="媲美有线央视卫视",CCTV-2
-http://183.252.176.40//PLTV/88888888/224/3221225923/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225923/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="超清央视卫视4M",CCTV-2
 http://183.58.12.83:30001/PLTV/88888905/224/3221227634/10000100000000060000000004662503_0.smil
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="媲美有线央视卫视",CCTV-3
-http://183.252.176.40//PLTV/88888888/224/3221225924/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225924/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="超清央视卫视4M",CCTV-3
-http://183.252.176.40//PLTV/88888888/224/3221225801/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225801/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png",group-title="超清央视卫视4M",CCTV-4
-http://api_p.tll888.com/v/iptv.php?id=cctv4hd
+http://61.166.153.32:1180/play/playback/90000001000000050000000000000199/live100001.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="媲美有线央视卫视",CCTV-5
-http://183.252.176.40//PLTV/88888888/224/3221225925/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225925/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="超清央视卫视4M",CCTV-5
-http://183.252.176.40//PLTV/88888888/224/3221225803/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225803/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5b.png",group-title="媲美有线央视卫视",CCTV-5+
-http://183.252.176.40//PLTV/88888888/224/3221225939/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225939/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5b.png",group-title="超清央视卫视4M",CCTV-5+
-http://183.252.176.40//PLTV/88888888/224/3221225821/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225821/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-6a.png",group-title="媲美有线央视卫视",CCTV-6
-http://183.252.176.40//PLTV/88888888/224/3221225926/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225926/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-6a.png",group-title="超清央视卫视4M",CCTV-6
-http://183.252.176.40//PLTV/88888888/224/3221225804/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225804/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-7a.png",group-title="媲美有线央视卫视",CCTV-7
-http://183.252.176.40//PLTV/88888888/224/3221225927/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225927/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-7a.png",group-title="超清央视卫视4M",CCTV-7
-http://httpdvb.slave.bfgd.com.cn:13164/playurl?playtype=live&accesstoken=R5880762CU3D674B25KB2D1DDADM36D6FEEW556709&programid=4200000089&playtoken=31604AAZZAEAPZZ1&auth=no
+http://183.251.61.207/PLTV/88888888/224/3221225927/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-8a.png",group-title="媲美有线央视卫视",CCTV-8
-http://183.252.176.40//PLTV/88888888/224/3221225928/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225928/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-8a.png",group-title="超清央视卫视4M",CCTV-8
-http://183.252.176.40//PLTV/88888888/224/3221225806/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225806/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-9a.png",group-title="媲美有线央视卫视",CCTV-9
-http://183.252.176.40//PLTV/88888888/224/3221225929/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225929/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-9a.png",group-title="超清央视卫视4M",CCTV-9
 http://api_p.tll888.com/v/iptv.php?id=cctv9hd
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-10a.png",group-title="媲美有线央视卫视",CCTV-10
-http://183.252.176.40//PLTV/88888888/224/3221225931/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225931/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-10a.png",group-title="超清央视卫视4M",CCTV-10
 http://183.58.12.203:30001/PLTV/88888905/224/3221227626/2.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-11a.png",group-title="超清央视卫视4M",CCTV-11
@@ -47,83 +47,83 @@ http://117.169.120.217:8080/PLTV/88888888/224/3221225640/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="媲美有线央视卫视",CCTV-12
 http://183.251.61.207/PLTV/88888888/224/3221225932/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="媲美有线央视卫视",CCTV-12
-http://183.252.176.40//PLTV/88888888/224/3221225931/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225931/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-13a.png",group-title="媲美有线央视卫视",CCTV-13
 http://183.252.176.44/PLTV/88888888/224/3221225911/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png",group-title="媲美有线央视卫视",CCTV-14
-http://183.252.176.40//PLTV/88888888/224/3221225933/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225933/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png",group-title="超清央视卫视4M",CCTV-14
 http://125.88.91.20:30001/PLTV/88888905/224/3221227637/2.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-15a.png",group-title="超清央视卫视4M",CCTV-15
 http://117.169.120.217:8080/PLTV/88888888/224/3221225644/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hunanweishi.png",group-title="媲美有线央视卫视",湖南卫视
-http://183.252.176.40//PLTV/88888888/224/3221225935/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225935/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hunanweishi.png",group-title="媲美有线央视卫视",湖南卫视
 http://183.58.12.83:30001/PLTV/88888905/224/3221227325/10000100000000060000000001141345_0.smil
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hunanweishi.png",group-title="超清央视卫视4M",湖南卫视
-http://183.58.12.204:30001/PLTV/88888905/224/3221227483/2.m3u8
+http://183.58.12.83:30001/PLTV/88888905/224/3221227483/2.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hunanweishi.png",group-title="超清央视卫视4M",湖南卫视_720P
 http://111.12.130.67/PLTV/88888888/224/3221225652/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhejiangweishi.png",group-title="媲美有线央视卫视",浙江卫视
-http://183.252.176.40//PLTV/88888888/224/3221225934/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225934/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhejiangweishi.png",group-title="超清央视卫视4M",浙江卫视
-http://183.252.176.40//PLTV/88888888/224/3221225825/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225825/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingweishia.png",group-title="超清央视卫视4M",北京卫视
-http://183.252.176.40//PLTV/88888888/224/3221225826/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225826/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingweishia.png",group-title="超清央视卫视4M",北京卫视
 http://221.179.217.94/PLTV/88888888/224/3221225874/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongfangweishi.png",group-title="媲美有线央视卫视",东方卫视
-http://183.252.176.40//PLTV/88888888/224/3221225936/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225936/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongfangweishi.png",group-title="超清央视卫视4M",东方卫视
 http://221.179.217.94/PLTV/88888888/224/3221225875/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangsuweishi.png",group-title="媲美有线央视卫视",江苏卫视
-http://183.252.176.40//PLTV/88888888/224/3221225930/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225930/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangsuweishi.png",group-title="超清央视卫视4M",江苏卫视
-http://183.252.176.40//PLTV/88888888/224/3221225847/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225847/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hubeiweishi.png",group-title="媲美有线央视卫视",湖北卫视
-http://183.252.176.40//PLTV/88888888/224/3221225948/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225948/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hubeiweishi.png",group-title="超清央视卫视4M",湖北卫视
-http://183.252.176.40//PLTV/88888888/224/3221225840/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225840/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongweishi.png",group-title="媲美有线央视卫视",广东卫视
-http://183.252.176.40//PLTV/88888888/224/3221225942/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225942/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongweishi.png",group-title="超清央视卫视4M",广东卫视
 http://221.179.217.94/PLTV/88888888/224/3221225878/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shandongweishi.png",group-title="媲美有线央视卫视",山东卫视
-http://183.252.176.40//PLTV/88888888/224/3221225943/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225943/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shandongweishi.png",group-title="超清央视卫视4M",山东卫视
-http://183.252.176.40//PLTV/88888888/224/3221225843/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225843/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhengweishi.png",group-title="超清央视卫视4M",深圳卫视
-http://183.252.176.40//PLTV/88888888/224/3221225848/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225848/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhengweishi.png",group-title="超清央视卫视4M",深圳卫视
 http://221.179.217.94/PLTV/88888888/224/3221225897/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangxiweishi.png",group-title="媲美有线央视卫视",江西卫视
-http://183.252.176.40//PLTV/88888888/224/3221225868/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225868/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangxiweishi.png",group-title="超清央视卫视4M",江西卫视
-http://183.252.176.40//PLTV/88888888/224/3221225834/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225834/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tianjingweishi.png",group-title="媲美有线央视卫视",天津卫视
-http://183.252.176.40//PLTV/88888888/224/3221225941/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225941/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tianjingweishi.png",group-title="超清央视卫视4M",天津卫视
-http://183.252.176.40//PLTV/88888888/224/3221225830/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225830/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/heilongjiangweishi.png",group-title="媲美有线央视卫视",黑龙江卫视
-http://183.252.176.40//PLTV/88888888/224/3221225940/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225940/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/liaoningweishi.png",group-title="媲美有线央视卫视",辽宁卫视
-http://183.252.176.40//PLTV/88888888/224/3221225947/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225947/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chongqingweishi.png",group-title="媲美有线央视卫视",重庆卫视
-http://183.252.176.40//PLTV/88888888/224/3221225949/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225949/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guizhouweishi.png",group-title="超清央视卫视4M",贵州卫视
 http://27.148.240.201/PLTV/88888888/224/3221226147/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingjishia.png",group-title="媲美有线央视卫视",BTV纪实
-http://183.252.176.40//PLTV/88888888/224/3221225944/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225944/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shanghaijilu.png",group-title="媲美有线央视卫视",上海纪实
-http://183.252.176.40//PLTV/88888888/224/3221225946/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225946/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/wuxingtiyu.png",group-title="媲美有线央视卫视",五星体育
-http://183.252.176.40//PLTV/88888888/224/3221225905/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225905/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jisuqiche.png",group-title="媲美有线央视卫视",极速汽车
-http://183.252.176.40//PLTV/88888888/224/3221225913/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225913/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangweishihd.png",group-title="超清央视卫视4M",凤凰卫视中文台-720P-2M
 http://218.207.213.135/PLTV/88888888/224/3221225900/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="超清央视卫视4M",凤凰卫视资讯台-720P-2M
-http://183.252.176.40//PLTV/88888888/224/3221225901/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225901/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangxianggang.png",group-title="超清央视卫视4M",凤凰卫视香港台
 http://221.179.217.94/PLTV/88888888/224/3221225954/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-dyjc.png",group-title="超清央视卫视4M",CCTV第一剧场
@@ -143,25 +143,151 @@ http://221.179.217.94/PLTV/88888888/224/3221226081/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-sjdl.png",group-title="超清央视卫视4M",CCTV世界地理
 http://221.179.217.94/PLTV/88888888/224/3221226075/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/NewTV-dhwg.png",group-title="超清央视卫视4M",NewTV动画王国
-http://183.252.176.40//PLTV/88888888/224/3221225878/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225878/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/NewTV-dzdy.png",group-title="超清央视卫视4M",NewTV动作电影
-http://183.252.176.40//PLTV/88888888/224/3221225879/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225879/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/NewTV-jtjc.png",group-title="超清央视卫视4M",NewTV家庭剧场
-http://183.252.176.40//PLTV/88888888/224/3221225882/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225882/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/NewTV-jpzy.png",group-title="超清央视卫视4M",NewTV金牌综艺
-http://183.252.176.40//PLTV/88888888/224/3221225884/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225884/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/NewTV-jsxy.png",group-title="超清央视卫视4M",NewTV惊悚悬疑
-http://183.252.176.40//PLTV/88888888/224/3221225885/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225885/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/NewTV-jpdj.png",group-title="超清央视卫视4M",NewTV精品大剧
-http://183.252.176.40//PLTV/88888888/224/3221225889/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225889/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/NewTV-jpdy.png",group-title="超清央视卫视4M",NewTV精品电影
-http://183.252.176.40//PLTV/88888888/224/3221225891/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225891/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/NewTV-jpjl.png",group-title="超清央视卫视4M",NewTV精品纪录
-http://183.252.176.40//PLTV/88888888/224/3221225888/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225888/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/NewTV-jpty.png",group-title="超清央视卫视4M",NewTV精品体育
-http://183.252.176.40//PLTV/88888888/224/3221225886/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225886/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/NewTV-mxdp.png",group-title="超清央视卫视4M",NewTV明星大片
-http://183.252.176.40//PLTV/88888888/224/3221225893/index.m3u8
+http://183.251.61.207//PLTV/88888888/224/3221225893/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="广东联通IPTV",CCTV-1 FHD
+http://112.89.38.22/PLTV/88888894/224/3221225489/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="广东联通IPTV",CCTV-1 HD
+http://112.89.38.22/PLTV/88888894/224/3221225489/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="广东联通IPTV",CCTV-2 FHD
+http://112.89.38.21/PLTV/88888894/224/3221225490/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="广东联通IPTV",CCTV-2 HD
+http://112.89.38.21/PLTV/88888894/224/3221225490/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="广东联通IPTV",CCTV-3 FHD
+http://112.89.38.28/PLTV/88888894/224/3221225484/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="广东联通IPTV",CCTV-3 HD
+http://112.89.38.28/PLTV/88888894/224/3221225484/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png",group-title="广东联通IPTV",CCTV-4 FHD
+http://112.89.38.26/PLTV/88888894/224/3221225485/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png",group-title="广东联通IPTV",CCTV-4 HD
+http://112.89.38.26/PLTV/88888894/224/3221225485/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="广东联通IPTV",CCTV-5 FHD
+http://112.89.38.21/PLTV/88888894/224/3221225502/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="广东联通IPTV",CCTV-5 HD
+http://112.89.38.21/PLTV/88888894/224/3221225502/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5b.png",group-title="广东联通IPTV",CCTV-5+ FHD
+http://112.89.38.24/PLTV/88888894/224/3221225503/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5b.png",group-title="广东联通IPTV",CCTV-5+ HD
+http://112.89.38.24/PLTV/88888894/224/3221225503/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-6a.png",group-title="广东联通IPTV",CCTV-6 FHD
+http://112.89.38.29/PLTV/88888894/224/3221225491/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-6a.png",group-title="广东联通IPTV",CCTV-6 HD
+http://112.89.38.29/PLTV/88888894/224/3221225491/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-7a.png",group-title="广东联通IPTV",CCTV-7 FHD
+http://112.89.38.24/PLTV/88888894/224/3221225492/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-7a.png",group-title="广东联通IPTV",CCTV-7 HD
+http://112.89.38.24/PLTV/88888894/224/3221225492/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-8a.png",group-title="广东联通IPTV",CCTV-8 FHD
+http://112.89.38.26/PLTV/88888894/224/3221225493/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-8a.png",group-title="广东联通IPTV",CCTV-8 HD
+http://112.89.38.26/PLTV/88888894/224/3221225493/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-9a.png",group-title="广东联通IPTV",CCTV-9 FHD
+http://112.89.38.22/PLTV/88888894/224/3221225494/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-9a.png",group-title="广东联通IPTV",CCTV-9 HD
+http://112.89.38.22/PLTV/88888894/224/3221225494/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-10a.png",group-title="广东联通IPTV",CCTV-10 FHD
+http://112.89.38.23/PLTV/88888894/224/3221225495/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-10a.png",group-title="广东联通IPTV",CCTV-10 HD
+http://112.89.38.23/PLTV/88888894/224/3221225495/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-11a.png",group-title="广东联通IPTV",CCTV-11
+http://112.89.38.21/PLTV/88888894/224/3221225496/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="广东联通IPTV",CCTV-12 FHD
+http://112.89.38.21/PLTV/88888894/224/3221225497/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="广东联通IPTV",CCTV-12 HD
+http://112.89.38.21/PLTV/88888894/224/3221225497/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-13a.png",group-title="广东联通IPTV",CCTV-13
+http://112.89.38.21/PLTV/88888894/224/3221225498/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png",group-title="广东联通IPTV",CCTV-14 FHD
+http://112.89.38.21/PLTV/88888894/224/3221225499/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png",group-title="广东联通IPTV",CCTV-14 HD
+http://112.89.38.21/PLTV/88888894/224/3221225499/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhejiangweishi.png",group-title="广东联通IPTV",浙江卫视FHD
+http://112.89.38.25/PLTV/88888894/224/3221225487/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhejiangweishi.png",group-title="广东联通IPTV",浙江卫视HD
+http://112.89.38.25/PLTV/88888894/224/3221225487/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangsuweishi.png",group-title="广东联通IPTV",江苏卫视FHD
+http://112.89.38.22/PLTV/88888894/224/3221225488/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangsuweishi.png",group-title="广东联通IPTV",江苏卫视HD
+http://112.89.38.22/PLTV/88888894/224/3221225488/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongfangweishi.png",group-title="广东联通IPTV",东方卫视FHD
+http://112.89.38.25/PLTV/88888894/224/3221225508/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongfangweishi.png",group-title="广东联通IPTV",东方卫视HD
+http://112.89.38.25/PLTV/88888894/224/3221225508/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hunanweishi.png",group-title="广东联通IPTV",湖南卫视FHD
+http://112.89.38.21/PLTV/88888894/224/3221225486/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hunanweishi.png",group-title="广东联通IPTV",湖南卫视HD
+http://112.89.38.21/PLTV/88888894/224/3221225486/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhenweishi.png",group-title="广东联通IPTV",深圳卫视FHD
+http://112.89.38.21/PLTV/88888894/224/3221225521/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhenweishi.png",group-title="广东联通IPTV",深圳卫视HD
+http://112.89.38.21/PLTV/88888894/224/3221225521/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingweishi.png",group-title="广东联通IPTV",北京卫视FHD
+http://112.89.38.22/PLTV/88888894/224/3221225531/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingweishi.png",group-title="广东联通IPTV",北京卫视HD
+http://112.89.38.22/PLTV/88888894/224/3221225531/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/liaoningweishi.png",group-title="广东联通IPTV",辽宁卫视FHD
+http://112.89.38.25/PLTV/88888894/224/3221225529/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/liaoningweishi.png",group-title="广东联通IPTV",辽宁卫视HD
+http://112.89.38.25/PLTV/88888894/224/3221225529/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/heilongjiangweishi.png",group-title="广东联通IPTV",黑龙江卫视FHD
+http://112.89.38.26/PLTV/88888894/224/3221225525/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/heilongjiangweishi.png",group-title="广东联通IPTV",黑龙江卫视HD
+http://112.89.38.26/PLTV/88888894/224/3221225525/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shandongweishi.png",group-title="广东联通IPTV",山东卫视FHD
+http://112.89.38.23/PLTV/88888894/224/3221225528/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shandongweishi.png",group-title="广东联通IPTV",山东卫视HD
+http://112.89.38.23/PLTV/88888894/224/3221225528/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongweishi.png",group-title="广东联通IPTV",广东卫视FHD
+http://112.89.38.24/PLTV/88888894/224/3221225519/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongweishi.png",group-title="广东联通IPTV",广东卫视HD
+http://112.89.38.24/PLTV/88888894/224/3221225519/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tianjinweishi.png",group-title="广东联通IPTV",天津卫视FHD
+http://112.89.38.23/PLTV/88888894/224/3221225530/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tianjinweishi.png",group-title="广东联通IPTV",天津卫视HD
+http://112.89.38.23/PLTV/88888894/224/3221225530/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/anhuiweishi.png",group-title="广东联通IPTV",安徽卫视FHD
+http://112.89.38.27/PLTV/88888894/224/3221225504/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/anhuiweishi.png",group-title="广东联通IPTV",安徽卫视HD
+http://112.89.38.27/PLTV/88888894/224/3221225504/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hubeiweishi.png",group-title="广东联通IPTV",湖北卫视FHD
+http://112.89.38.21/PLTV/88888894/224/3221225509/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hubeiweishi.png",group-title="广东联通IPTV",湖北卫视HD
+http://112.89.38.21/PLTV/88888894/224/3221225509/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sichuanweishi.png",group-title="广东联通IPTV",四川卫视FHD
+http://112.89.38.21/PLTV/88888894/224/3221225825/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sichuanweishi.png",group-title="广东联通IPTV",四川卫视HD
+http://112.89.38.21/PLTV/88888894/224/3221225825/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chongqingweishi.png",group-title="广东联通IPTV",重庆卫视FHD
+http://112.89.38.22/PLTV/88888894/224/3221225507/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chongqingweishi.png",group-title="广东联通IPTV",重庆卫视HD
+http://112.89.38.22/PLTV/88888894/224/3221225507/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guizhouweishi.png",group-title="广东联通IPTV",贵州卫视FHD
+http://112.89.38.21/PLTV/88888894/224/3221225830/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guizhouweishi.png",group-title="广东联通IPTV",贵州卫视HD
+http://112.89.38.21/PLTV/88888894/224/3221225830/2.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangxiweishi.png",group-title="广东联通IPTV",江西卫视
+http://112.89.38.28/PLTV/88888894/224/3221225852/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyingkatong.png",group-title="广东联通IPTV",金鹰卡通
+http://112.89.38.25/PLTV/88888894/224/3221225505/1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingkaku.png",group-title="广东联通IPTV",卡酷少儿
+http://112.89.38.25/PLTV/88888894/224/3221225506/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangweishihd.png",group-title="移动/联通源",凤凰卫视中文台
 http://221.179.217.94/PLTV/88888888/224/3221225685/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="移动/联通源",凤凰卫视资讯台
@@ -837,11 +963,11 @@ http://119.39.133.90:6610/001/2/ch00000090990000001096/index.m3u8?IASHttpSession
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/MGTV.png",group-title="湖南IPTV",芒果宣传
 http://119.39.133.90:6610/001/2/ch00000090990000001040/index.m3u8?IASHttpSessionId=&m3u8_level=2&virtualDomain=001.live_hls.zte.com&ispcode=10002
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="央视频道",CCTV-1
-ottlivetimeal.mgtv.com/1a268a61cb85581e37ee296d416168be/5a0d9c44/nn_live/nn_x64/aWQ9Q0NUVjFIRCZjZG5leF9pZD1hbF9vdHRfdGltZSZuZnQ9dHMmbm5fZGF5PTIwMTcxMTE2Jm5uX2JlZ2luPTIyMTAwMyZubl90aW1lem9uZT04/CCTV1HD.ts
+http://183.251.61.207/PLTV/88888888/224/3221225922/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="央视频道",CCTV-2
 http://183.251.61.197/PLTV/88888888/224/3221225923/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="央视频道",CCTV-3
-http://111.13.42.8/PLTV/88888888/224/3221225963/index.m3u8
+http://183.251.61.197/PLTV/88888888/224/3221225924/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png",group-title="央视频道",CCTV-4
 http://218.207.213.135/PLTV/88888888/224/3221225802/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="央视频道",CCTV-5
@@ -1234,12 +1360,10 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://acm.gg/jade.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠2
 http://acm.gg/j.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="港台境外",TVB无线新闻
+http://live.alicdn.com/live/inews.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="港台境外",TVB-J2
 http://acm.gg/j2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="港台境外",TVB新闻-源1
-http://live.alicdn.com/live/inews.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="港台境外",TVB新闻-源2
-https://live.alicdn.com/live/inews.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvb8a.png",group-title="港台境外",TVB8
 http://tvb8-i.akamaihd.net/hls/live/224490/C8Live/C8Live-1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbyule.png",group-title="港台境外",TVB娱乐新闻台
@@ -1360,6 +1484,14 @@ https://58ada6ee80845.streamlock.net/ios/-goldentvcartoon-0832/playlist.m3u8
 https://58ada6ee80845.streamlock.net/ios/-jydrama-0832/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianguoji.png",group-title="港台境外",靖天国际
 https://58ada6ee80845.streamlock.net/ios/-familyfun-0832/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuadianying.png",group-title="港台境外",龙华电影
+http://61.219.11.159/origin/live/ch2017091917/hls0/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuarihan.png",group-title="港台境外",龙华日韩
+http://61.219.11.159/origin/live/ch2017091907/hls0/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuaouxiang.png",group-title="港台境外",龙华偶像
+http://61.219.11.159/origin/live/ch2017091906/hls0/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/longhuaxiju.png",group-title="港台境外",龙华戏剧
+http://61.219.11.159/origin/live/ch2017091905/hls0/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/Catchplay.png",group-title="港台境外",Catchplay电影
 http://tc3akts.tv-bar.net/live/9501.stream/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yuanshi.png",group-title="港台境外",原视频道
@@ -1370,6 +1502,40 @@ http://cdn-src2.waaarp.wscdns.com/live-transcode/_definst_/smil:daai/tv01.smil/c
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fashiontv.png",group-title="港台境外",法国时装
 http://origina.streaming.sk/liveedge/tvfashion/chunklist_w1323605783.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",香港电影
+http://rotation.vod.zlive.cc/channel/1086.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",广场舞
+http://rotation.vod.zlive.cc/channel/1107.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",经典电影
+http://rotation.vod.zlive.cc/channel/1200.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",最新电影
+http://rotation.vod.zlive.cc/channel/1201.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",电影
+http://rotation.vod.zlive.cc/channel/1202.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",抗战剧场
+http://rotation.vod.zlive.cc/channel/1215.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",电影
+http://rotation.vod.zlive.cc/channel/1218.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",演唱会
+http://rotation.vod.zlive.cc/channel/1226.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",韩剧
+http://rotation.vod.zlive.cc/channel/1240.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",电视剧
+http://rotation.vod.zlive.cc/channel/1256.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",电影
+http://rotation.vod.zlive.cc/channel/1258.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",成龙电影
+http://rotation.vod.zlive.cc/channel/1259.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",周星驰电影
+http://rotation.vod.zlive.cc/channel/1260.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",电视剧
+http://rotation.vod.zlive.cc/channel/1647.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",寻情记
+http://rotation.vod.zlive.cc/channel/1652.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",电视剧
+http://rotation.vod.zlive.cc/channel/1653.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",MV
+http://rotation.vod.zlive.cc/channel/1654.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="电影点播",极盗车神
 http://vcr.cdn.imgo.tv/vod.do?fmt=4&pno=3003&fid=1936E46551E121FCA9D7E86599FF586B&file=/internettv/c1/2017/10/23/1936E46551E121FCA9D7E86599FF586B.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="电影点播",神偷奶爸3
