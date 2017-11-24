@@ -2600,3 +2600,335 @@ http://122.96.52.11:8080/gitv_live/G_GANSU/G_GANSU.m3u8
 http://122.96.52.11:8080/gitv_live/G_JILIN/G_JILIN.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/ningxiaweishi.png",group-title="联通源",宁夏卫视
 http://122.96.52.11:8080/gitv_live/G_NINGXIA/G_NINGXIA.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",HBO HD
+http://l0902.boxtv.win/live/tp5mrbqs/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",HBO Hits
+http://l0902.boxtv.win/live/bjgfqkgz/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",HBO signature
+http://l0902.boxtv.win/live/1bhj92nc/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",HBO family
+http://l0902.boxtv.win/live/44qghktk/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",FOX HD 
+http://l0902.boxtv.win/live/c8thxt4z/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",FOX 優質電影
+http://l0902.boxtv.win/live/46kzbmxn/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",FOX CRIME 
+http://l0902.boxtv.win/live/hf2ph325/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",FOX 家庭
+http://l0902.boxtv.win/live/jknbr53s/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",FOX Action HD
+http://a0902.boxtv.win/live/9sx4vb75/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",FOX sport 3 HD
+http://l0902.boxtv.win/live/hcwvnz9b/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",國家地理 HD 
+http://l0902.boxtv.win/live/73rgm1fw/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",國家地理PEOPLE
+http://l0902.boxtv.win/live/6gzj57w8/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",國家地理野生
+http://l0902.boxtv.win/live/31xbjmg5/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",Discovery HD
+http://a0902.boxtv.win/live/bcp8840s/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",高清探索 HD
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",探索臺灣
+http://l0902.boxtv.win/live/h6cnx1v7/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",探索科學頻道
+http://l0902.boxtv.win/live/fxrkkfxr/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",探索EVE HD
+http://l0902.boxtv.win/live/2797zrc7/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",History HD
+http://l0902.boxtv.win/live/vzqbtc6m/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",Histoy2 HD
+http://a0902.boxtv.win/live/k64b2j1m/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",CI 罪案偵緝
+http://l0902.boxtv.win/live/kcs2jph3/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",CinemaWorld
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",China Movie
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",CINEMAX
+http://l0902.boxtv.win/live/3g6ttqs5/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",CN 卡通
+http://l0902.boxtv.win/live/gqrhtkgg/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",動物星球
+http://l0902.boxtv.win/live/t0f9mjtj/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",法國時裝
+http://l0902.boxtv.win/live/g1znsgf2/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",TLC旅遊臺
+http://l0902.boxtv.win/live/bf0vgtmr/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",亞洲美食
+http://l0902.boxtv.win/live/0hj4qs5h/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",美食星球
+http://l0902.boxtv.win/live/nmmj7swf/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",OUTDOOR
+http://l0902.boxtv.win/live/b7536s7w/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",channel V
+http://l0902.boxtv.win/live/s4c3b7qb/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",my kids
+http://l0902.boxtv.win/live/2wxswhb4/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",博斯高球 1 HD 
+http://l0902.boxtv.win/live/xkrw0bhz/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",博斯高球 2
+http://l0902.boxtv.win/live/cbr1rcq8/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",博斯足球
+http://l0902.boxtv.win/live/996k900c/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",博斯網球
+http://l0902.boxtv.win/live/2xzrckqk/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",博斯無限
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",NBA
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",FX HD
+http://l0902.boxtv.win/live/tqcqxmbk/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",catchplay HD
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",美亞電影臺
+http://l0902.boxtv.win/live/t7s8jfnq/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",星衛電影HD
+http://l0902.boxtv.win/live/9sw2m1f7/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",好萊塢電影
+http://l0902.boxtv.win/live/q6gqw399/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",天映頻道
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",華視 HD
+http://l0902.boxtv.win/live/9gnw39kh/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",臺視 HD
+http://l0902.boxtv.win/live/q9401h19/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",臺視新聞臺
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",公視 HD
+http://l0902.boxtv.win/live/hw4tnw83/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",中視 HD
+http://l0902.boxtv.win/live/gxg48k56/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",中視新聞臺
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",民視臺灣臺 HD
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",鴻基影劇臺
+http://l0902.boxtv.win/live/9c3pfn5w/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",東森新聞 HD
+http://l0902.boxtv.win/live/4rkwwrc6/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",東森財經新聞 HD
+http://l0902.boxtv.win/live/p7tzf35b/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",東森綜合
+http://l0902.boxtv.win/live/kq1kf06p/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",東森幼幼
+http://l0902.boxtv.win/live/s89t26p0/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",東森戲劇
+http://l0902.boxtv.win/live/7jmbj538/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",東森電影
+http://l0902.boxtv.win/live/86c3gxfq/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",東森洋片
+http://l0902.boxtv.win/live/2j47z0nt/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",三立綜合
+http://l0902.boxtv.win/live/kw15127f/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",三立新聞
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",三立戲劇臺
+http://l0902.boxtv.win/live/42rng7zh/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",三立都會
+http://l0902.boxtv.win/live/681vmwv7/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",三立臺灣
+http://l0902.boxtv.win/live/zgjtwps6/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",龍華偶像
+http://l0902.boxtv.win/live/w39b0qzr/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",龍華戲劇
+http://l0902.boxtv.win/live/7hk90w2v/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",龍華動畫
+http://l0902.boxtv.win/live/k8srmngs/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",龍華洋片
+http://l0902.boxtv.win/live/cx5msg5z/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",龍華影劇
+http://l0902.boxtv.win/live/qg4cfgvn/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",緯來電影
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",緯來體育
+http://l0902.boxtv.win/live/8zrqvvnb/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",緯來綜合
+http://l0902.boxtv.win/live/4z21ssm1/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",緯來日本
+http://l0902.boxtv.win/live/m6s9w9t8/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",緯來戲劇
+http://l0902.boxtv.win/live/w5k955n0/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",中天新聞
+http://l0902.boxtv.win/live/m8t0v362/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",中天綜合 HD
+http://l0902.boxtv.win/live/xq1bqwqf/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",中天亞洲
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",中天娱樂
+http://l0902.boxtv.win/live/gjb61tmc/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",八大第壹臺
+http://l0902.boxtv.win/live/8gmks9kg/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",八大戲劇
+http://l0902.boxtv.win/live/q01j5f8c/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",八大綜合
+http://l0902.boxtv.win/live/1xtqf03n/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",壹电视电影台
+http://l0902.boxtv.win/live/5c77q5nr/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",壹電視新聞
+http://l0902.boxtv.win/live/96fsk9ws/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",壹電視綜合
+http://l0902.boxtv.win/live/vtjbj323/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",靖天電影
+http://l0902.boxtv.win/live/jgjfmw74/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",靖天映畫
+http://l0902.boxtv.win/live/64b0zbns/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",Nickelodeon Asia(尼克儿童频道)
+http://l0902.boxtv.win/live/4gwqj1bf/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",華視
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",民視
+http://l0902.boxtv.win/live/9qhz7whm/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",中視
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",年代新聞
+http://l0902.boxtv.win/live/x17jq6t3/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",民視新聞
+http://l0902.boxtv.win/live/r1xw1ghq/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",非凡新聞
+http://l0902.boxtv.win/live/xr9z1h8p/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",環宇財經
+http://l0902.boxtv.win/live/9pn55t49/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",環宇綜合HD 
+http://l0902.boxtv.win/live/kb6q6vkq/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",環宇新聞頻道
+http://l0902.boxtv.win/live/k0pjxq7v/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",TVBS HD
+http://l0902.boxtv.win/live/h1s1b8mp/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",TVBS-N HD
+http://l0902.boxtv.win/live/r41p5npc/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",TVBS-G HD
+http://l0902.boxtv.win/live/3zw70bm9/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",大愛一臺 
+http://l0902.boxtv.win/live/721wgfgv/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",DIVA
+http://l0902.boxtv.win/live/xsgvffzn/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",ELTA 足球
+http://l0902.boxtv.win/live/7cf58j5f/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",ELTA 綜合
+http://l0902.boxtv.win/live/xt81rvmx/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",ELTA 體育
+http://l0902.boxtv.win/live/zx69rjf6/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",國兴衛視
+http://l0902.boxtv.win/live/f933fc1n/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",JET綜合
+http://l0902.boxtv.win/live/8f7kt0sj/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",靖洋戲劇臺
+http://l0902.boxtv.win/live/7kwh8tv0/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",EYE TV旅遊臺
+http://l0902.boxtv.win/live/1s5b0vj1/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",EYE戲劇
+http://l0902.boxtv.win/live/c35wm505/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",采昌影劇臺
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",翡翠臺
+http://l0902.boxtv.win/live/v1pn1pkn/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",互動新聞
+http://l0902.boxtv.win/live/rph0npz5/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",TVB J2
+http://l0902.boxtv.win/live/g05cqvwk/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",TVB J5
+http://l0902.boxtv.win/live/j1q4hct7/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",viu tv
+http://l0902.boxtv.win/live/k814808z/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",明珠臺
+http://l0902.boxtv.win/live/ckpbmxk9/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",TVB星河
+http://l0902.boxtv.win/notice/error.flv
+#EXTINF:0 tvg-logo="",group-title="测试频道",鳳凰資訊HD
+http://223.110.245.139:80/PLTV/3/224/3221226980/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",鳳凰香港 HD
+http://223.110.245.139:80/PLTV/3/224/3221226975/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",鳳凰衛視 HD
+http://223.110.245.139:80/PLTV/3/224/3221226977/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",衛視合家欢
+http://l0902.boxtv.win/live/046hwztp/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",衛視中文臺
+http://l0902.boxtv.win/live/nrm2t74x/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",CCTV-1 HD
+http://183.251.61.207/PLTV/88888888/224/3221225922/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",CCTV-2
+http://ivi.bupt.edu.cn/hls/cctv2.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",CCTV-3 HD
+http://ivi.bupt.edu.cn/hls/cctv3.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",CCTV-4 HD
+http://ivi.bupt.edu.cn/hls/cctv4.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",CCTV-5 HD
+http://111.13.42.8/PLTV/88888888/224/3221225937/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",CCTV-5+ HD
+http://183.207.248.8:80/PLTV/3/224/3221225604/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",浙江衛視 HD
+http://125.88.39.22/live.aishang.ctlcdn.com/00000110240134_1/encoder/0/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",江蘇衛視 HD
+http://125.88.39.22/live.aishang.ctlcdn.com/00000110240133_1/encoder/0/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",湖南衛視 HD
+http://125.88.39.22/live.aishang.ctlcdn.com/00000110240130_1/encoder/0/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",广東體育
+http://58.248.254.2:1939/tvlive/gdty-h.stream/chunklist_w458042260_tkd293emF0b2tlbkN1c3RvbVBhcmFtZXRlcj03NjY0NjA3ODMyODc5NzEzNV8xMjQuMTMzLjIzMC4yNDkmd293emF0b2tlbmVuZHRpbWU9MTUwNjc4NDM1NiZ3b3d6YXRva2Vuc3RhcnR0aW1lPTE1MDY3NzcxNTYmd293emF0b2tlbmhhc2g9ck9VWUwtQkpVN1N0ZnlYNVlubzROZllLdTVqU2lkMVlGRkZULWx2QWFYaz0=.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",高爾夫
+http://l0902.boxtv.win/live/zxxgfmhh/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",France 24(English)
+http://l0902.boxtv.win/live/5sp6031x/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",Bloomberg 
+http://l0902.boxtv.win/live/fwg00kr6/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",SETANTA橄欖球
+http://l0902.boxtv.win/live/k25npjxk/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",E! Entertainment
+http://l0902.boxtv.win/live/crj5sjs4/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",SKY NEWS HD
+http://l0902.boxtv.win/live/nmx2pscm/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",AXN
+http://l0902.boxtv.win/live/8zgb5c1n/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",TV5
+http://l0902.boxtv.win/live/qfs2pnh8/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",CNBC
+http://l0902.boxtv.win/live/1q8h6wxn/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",CNN
+http://l0902.boxtv.win/live/3j20mhzr/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",曼迪日本臺
+http://l0902.boxtv.win/live/fh8064vg/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",BBC
+http://l0902.boxtv.win/live/bwb7xn17/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",BBC earth HD
+http://l0902.boxtv.win/live/n1rnf5sm/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",BBC Lifestyle HD
+http://a0902.boxtv.win/live/knv964n5/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",Li 時尚 
+http://l0902.boxtv.win/live/0f253m9h/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",DW-TV
+http://l0902.boxtv.win/live/jbh5q8gc/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",KBS 1
+http://a0902.boxtv.win/live/w2w763pw/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",KBS 2
+http://a0902.boxtv.win/live/k4xx1mqz/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",MBC
+http://a0902.boxtv.win/live/t8kbgjb6/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",SBS
+http://a0902.boxtv.win/live/f0tch998/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",SBS MTV HD
+http://a0902.boxtv.win/live/qbrv1r24/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",MBC Music HD
+http://a0902.boxtv.win/live/sfmz3ghr/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",FOX HD
+http://a0902.boxtv.win/live/4sfrkbhx/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",MBC Drama HD
+http://a0902.boxtv.win/live/2mg1ngtp/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",亚洲综合台
+http://l0902.boxtv.win/live/x8zrm3xw/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",日舞电影台Sundance Channel
+http://l0902.boxtv.win/live/ph5gmz2p/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",Animax HD
+http://l0902.boxtv.win/live/k0f0jqqf/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",Nice TV
+http://l0902.boxtv.win/live/gvkgwm14/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",Sony ESPN
+http://a0902.boxtv.win/live/qk3hxcqw/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",WB TV HD
+http://a0902.boxtv.win/live/q7qw3h6z/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",SONY ASIA HD
+http://a0902.boxtv.win/live/jqv996pp/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",SONY ONE HD
+http://a0902.boxtv.win/live/j2rcmjct/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="测试频道",SONY GEM HD
+http://a0902.boxtv.win/live/jpf0b8jg/index.m3u8
