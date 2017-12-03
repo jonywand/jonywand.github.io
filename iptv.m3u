@@ -2394,10 +2394,6 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png" group-title="好消息频道", 好消息-15
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch15-2.m3u8
 
-#EXTINF:-1 group-title="台湾源",時代影像電影台	
-https://58ada6ee80845.streamlock.net/ios/-timesimage-0832/playlist.m3u8
-#EXTINF:-1 group-title="台湾源",國際電影台	
-https://58ada6ee80845.streamlock.net/ios/-intlmovie---0832/playlist.m3u8
 #EXTINF:-1 group-title="台湾源",哈Hot!電影台	
 https://58ad68d0b6c8d.streamlock.net/ios/-hamovie---0832/playlist.m3u8
 #EXTINF:-1 group-title="台湾源",八大綜合台	
