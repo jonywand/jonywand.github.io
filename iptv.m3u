@@ -162,132 +162,6 @@ http://183.251.61.207/PLTV/88888888/224/3221225888/index.m3u8
 http://183.251.61.207/PLTV/88888888/224/3221225886/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/NewTV-mxdp.png",group-title="超清央视卫视4M",NewTV明星大片
 http://183.251.61.207/PLTV/88888888/224/3221225893/index.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="广东联通IPTV",CCTV-1 FHD
-http://112.89.38.22/PLTV/88888894/224/3221225489/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="广东联通IPTV",CCTV-1 HD
-http://112.89.38.22/PLTV/88888894/224/3221225489/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="广东联通IPTV",CCTV-2 FHD
-http://112.89.38.21/PLTV/88888894/224/3221225490/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="广东联通IPTV",CCTV-2 HD
-http://112.89.38.21/PLTV/88888894/224/3221225490/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="广东联通IPTV",CCTV-3 FHD
-http://112.89.38.28/PLTV/88888894/224/3221225484/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="广东联通IPTV",CCTV-3 HD
-http://112.89.38.28/PLTV/88888894/224/3221225484/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png",group-title="广东联通IPTV",CCTV-4 FHD
-http://112.89.38.26/PLTV/88888894/224/3221225485/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png",group-title="广东联通IPTV",CCTV-4 HD
-http://112.89.38.26/PLTV/88888894/224/3221225485/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="广东联通IPTV",CCTV-5 FHD
-http://112.89.38.21/PLTV/88888894/224/3221225502/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="广东联通IPTV",CCTV-5 HD
-http://112.89.38.21/PLTV/88888894/224/3221225502/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5b.png",group-title="广东联通IPTV",CCTV-5+ FHD
-http://112.89.38.24/PLTV/88888894/224/3221225503/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5b.png",group-title="广东联通IPTV",CCTV-5+ HD
-http://112.89.38.24/PLTV/88888894/224/3221225503/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-6a.png",group-title="广东联通IPTV",CCTV-6 FHD
-http://112.89.38.29/PLTV/88888894/224/3221225491/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-6a.png",group-title="广东联通IPTV",CCTV-6 HD
-http://112.89.38.29/PLTV/88888894/224/3221225491/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-7a.png",group-title="广东联通IPTV",CCTV-7 FHD
-http://112.89.38.24/PLTV/88888894/224/3221225492/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-7a.png",group-title="广东联通IPTV",CCTV-7 HD
-http://112.89.38.24/PLTV/88888894/224/3221225492/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-8a.png",group-title="广东联通IPTV",CCTV-8 FHD
-http://112.89.38.26/PLTV/88888894/224/3221225493/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-8a.png",group-title="广东联通IPTV",CCTV-8 HD
-http://112.89.38.26/PLTV/88888894/224/3221225493/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-9a.png",group-title="广东联通IPTV",CCTV-9 FHD
-http://112.89.38.22/PLTV/88888894/224/3221225494/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-9a.png",group-title="广东联通IPTV",CCTV-9 HD
-http://112.89.38.22/PLTV/88888894/224/3221225494/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-10a.png",group-title="广东联通IPTV",CCTV-10 FHD
-http://112.89.38.23/PLTV/88888894/224/3221225495/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-10a.png",group-title="广东联通IPTV",CCTV-10 HD
-http://112.89.38.23/PLTV/88888894/224/3221225495/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-11a.png",group-title="广东联通IPTV",CCTV-11
-http://112.89.38.21/PLTV/88888894/224/3221225496/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="广东联通IPTV",CCTV-12 FHD
-http://112.89.38.21/PLTV/88888894/224/3221225497/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="广东联通IPTV",CCTV-12 HD
-http://112.89.38.21/PLTV/88888894/224/3221225497/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-13a.png",group-title="广东联通IPTV",CCTV-13
-http://112.89.38.21/PLTV/88888894/224/3221225498/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png",group-title="广东联通IPTV",CCTV-14 FHD
-http://112.89.38.21/PLTV/88888894/224/3221225499/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png",group-title="广东联通IPTV",CCTV-14 HD
-http://112.89.38.21/PLTV/88888894/224/3221225499/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhejiangweishi.png",group-title="广东联通IPTV",浙江卫视FHD
-http://112.89.38.25/PLTV/88888894/224/3221225487/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhejiangweishi.png",group-title="广东联通IPTV",浙江卫视HD
-http://112.89.38.25/PLTV/88888894/224/3221225487/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangsuweishi.png",group-title="广东联通IPTV",江苏卫视FHD
-http://112.89.38.22/PLTV/88888894/224/3221225488/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangsuweishi.png",group-title="广东联通IPTV",江苏卫视HD
-http://112.89.38.22/PLTV/88888894/224/3221225488/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongfangweishi.png",group-title="广东联通IPTV",东方卫视FHD
-http://112.89.38.25/PLTV/88888894/224/3221225508/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongfangweishi.png",group-title="广东联通IPTV",东方卫视HD
-http://112.89.38.25/PLTV/88888894/224/3221225508/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hunanweishi.png",group-title="广东联通IPTV",湖南卫视FHD
-http://112.89.38.21/PLTV/88888894/224/3221225486/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hunanweishi.png",group-title="广东联通IPTV",湖南卫视HD
-http://112.89.38.21/PLTV/88888894/224/3221225486/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhenweishi.png",group-title="广东联通IPTV",深圳卫视FHD
-http://112.89.38.21/PLTV/88888894/224/3221225521/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhenweishi.png",group-title="广东联通IPTV",深圳卫视HD
-http://112.89.38.21/PLTV/88888894/224/3221225521/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingweishi.png",group-title="广东联通IPTV",北京卫视FHD
-http://112.89.38.22/PLTV/88888894/224/3221225531/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingweishi.png",group-title="广东联通IPTV",北京卫视HD
-http://112.89.38.22/PLTV/88888894/224/3221225531/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/liaoningweishi.png",group-title="广东联通IPTV",辽宁卫视FHD
-http://112.89.38.25/PLTV/88888894/224/3221225529/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/liaoningweishi.png",group-title="广东联通IPTV",辽宁卫视HD
-http://112.89.38.25/PLTV/88888894/224/3221225529/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/heilongjiangweishi.png",group-title="广东联通IPTV",黑龙江卫视FHD
-http://112.89.38.26/PLTV/88888894/224/3221225525/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/heilongjiangweishi.png",group-title="广东联通IPTV",黑龙江卫视HD
-http://112.89.38.26/PLTV/88888894/224/3221225525/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shandongweishi.png",group-title="广东联通IPTV",山东卫视FHD
-http://112.89.38.23/PLTV/88888894/224/3221225528/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shandongweishi.png",group-title="广东联通IPTV",山东卫视HD
-http://112.89.38.23/PLTV/88888894/224/3221225528/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongweishi.png",group-title="广东联通IPTV",广东卫视FHD
-http://112.89.38.24/PLTV/88888894/224/3221225519/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongweishi.png",group-title="广东联通IPTV",广东卫视HD
-http://112.89.38.24/PLTV/88888894/224/3221225519/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tianjinweishi.png",group-title="广东联通IPTV",天津卫视FHD
-http://112.89.38.23/PLTV/88888894/224/3221225530/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tianjinweishi.png",group-title="广东联通IPTV",天津卫视HD
-http://112.89.38.23/PLTV/88888894/224/3221225530/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/anhuiweishi.png",group-title="广东联通IPTV",安徽卫视FHD
-http://112.89.38.27/PLTV/88888894/224/3221225504/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/anhuiweishi.png",group-title="广东联通IPTV",安徽卫视HD
-http://112.89.38.27/PLTV/88888894/224/3221225504/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hubeiweishi.png",group-title="广东联通IPTV",湖北卫视FHD
-http://112.89.38.21/PLTV/88888894/224/3221225509/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hubeiweishi.png",group-title="广东联通IPTV",湖北卫视HD
-http://112.89.38.21/PLTV/88888894/224/3221225509/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sichuanweishi.png",group-title="广东联通IPTV",四川卫视FHD
-http://112.89.38.21/PLTV/88888894/224/3221225825/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sichuanweishi.png",group-title="广东联通IPTV",四川卫视HD
-http://112.89.38.21/PLTV/88888894/224/3221225825/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chongqingweishi.png",group-title="广东联通IPTV",重庆卫视FHD
-http://112.89.38.22/PLTV/88888894/224/3221225507/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chongqingweishi.png",group-title="广东联通IPTV",重庆卫视HD
-http://112.89.38.22/PLTV/88888894/224/3221225507/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guizhouweishi.png",group-title="广东联通IPTV",贵州卫视FHD
-http://112.89.38.21/PLTV/88888894/224/3221225830/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guizhouweishi.png",group-title="广东联通IPTV",贵州卫视HD
-http://112.89.38.21/PLTV/88888894/224/3221225830/2.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangxiweishi.png",group-title="广东联通IPTV",江西卫视
-http://112.89.38.28/PLTV/88888894/224/3221225852/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyingkatong.png",group-title="广东联通IPTV",金鹰卡通
-http://112.89.38.25/PLTV/88888894/224/3221225505/1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingkaku.png",group-title="广东联通IPTV",卡酷少儿
-http://112.89.38.25/PLTV/88888894/224/3221225506/1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangweishihd.png",group-title="移动/联通源",凤凰卫视中文台
 http://221.179.217.94/PLTV/88888888/224/3221225685/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="移动/联通源",凤凰卫视资讯台
@@ -1555,6 +1429,126 @@ http://rotation.vod.zlive.cc/channel/1653.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",MV
 http://rotation.vod.zlive.cc/channel/1654.m3u8
 
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="山东移动IPTV",CCTV-1 HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225640/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="山东移动IPTV",CCTV-2 HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225559/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="山东移动IPTV",CCTV-3 HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225560/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png",group-title="山东移动IPTV",CCTV-4 HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225561/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="山东移动IPTV",CCTV-5 HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225646/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5b.png",group-title="山东移动IPTV",CCTV-5+ HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225722/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-7a.png",group-title="山东移动IPTV",CCTV-7 HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-8a.png",group-title="山东移动IPTV",CCTV-8 HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225565/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-10a.png",group-title="山东移动IPTV",CCTV-10 HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225567/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-11a.png",group-title="山东移动IPTV",CCTV-11
+http://120.221.2.42:8089/PLTV/88888888/224/3221225568/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="山东移动IPTV",CCTV-12 HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225569/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-13a.png",group-title="山东移动IPTV",CCTV-13
+http://120.221.2.42:8089/PLTV/88888888/224/3221225570/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png",group-title="山东移动IPTV",CCTV-14 HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225659/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-15a.png",group-title="山东移动IPTV",CCTV-15 HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225572/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cgtn.png",group-title="山东移动IPTV",CCTV-NEWS
+http://120.221.2.42:8089/PLTV/88888888/224/3221225566/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongfangweishi.png",group-title="山东移动IPTV",东方卫视HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225579/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="山东移动IPTV",临沂农科
+http://120.221.2.42:8089/PLTV/88888888/224/3221225689/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="山东移动IPTV",临沂综合
+http://120.221.2.42:8089/PLTV/88888888/224/3221225688/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yunnanweishia.png",group-title="山东移动IPTV",云南卫视
+http://120.221.2.42:8089/PLTV/88888888/224/3221225596/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingkaku.png",group-title="山东移动IPTV",优漫卡通
+http://120.221.2.42:8089/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingweishi.png",group-title="山东移动IPTV",北京卫视HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225576/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingweishi.png",group-title="山东移动IPTV",北京卫视FHD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225626/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sdetv.png",group-title="山东移动IPTV",山东农科
+http://120.221.2.42:8089/PLTV/88888888/224/3221225615/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shandongweishi.png",group-title="山东移动IPTV",山东卫视HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225608/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shandongweishi.png",group-title="山东移动IPTV",山东卫视FHD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225625/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sdetv.png",group-title="山东移动IPTV",山东国际
+http://120.221.2.42:8089/PLTV/88888888/224/3221225617/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sdetv.png",group-title="山东移动IPTV",山东少儿
+http://120.221.2.42:8089/PLTV/88888888/224/3221225616/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sdetv.png",group-title="山东移动IPTV",山东影视
+http://120.221.2.42:8089/PLTV/88888888/224/3221225613/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sdetv.png",group-title="山东移动IPTV",山东生活
+http://120.221.2.42:8089/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sdetv.png",group-title="山东移动IPTV",山东综艺
+http://120.221.2.42:8089/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sdetv.png",group-title="山东移动IPTV",山东齐鲁
+http://120.221.2.42:8089/PLTV/88888888/224/3221225609/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongweishi.png",group-title="山东移动IPTV",广东卫视
+http://120.221.2.42:8089/PLTV/88888888/224/3221225582/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangdongweishi.png",group-title="山东移动IPTV",广东卫视FHD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guangxiweishi.png",group-title="山东移动IPTV",广西卫视
+http://120.221.2.42:8089/PLTV/88888888/224/3221225595/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="山东移动IPTV",德州公共
+http://120.221.2.42:8089/PLTV/88888888/224/3221225684/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xinjiangweishi.png",group-title="山东移动IPTV",新疆卫视
+http://120.221.2.42:8089/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangsuweishi.png",group-title="山东移动IPTV",江苏卫视HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225643/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangsuweishi.png",group-title="山东移动IPTV",江苏卫视FHD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225627/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangxiweishi.png",group-title="山东移动IPTV",江西卫视
+http://120.221.2.42:8089/PLTV/88888888/224/3221225592/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/henanweishi.png",group-title="山东移动IPTV",河南卫视
+http://120.221.2.42:8089/PLTV/88888888/224/3221225594/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="山东移动IPTV",济南商务
+http://120.221.2.42:8089/PLTV/88888888/224/3221225623/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="山东移动IPTV",济南娱乐
+http://120.221.2.42:8089/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="山东移动IPTV",济南少儿
+http://120.221.2.42:8089/PLTV/88888888/224/3221225624/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="山东移动IPTV",济南影视
+http://120.221.2.42:8089/PLTV/88888888/224/3221225621/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="山东移动IPTV",济南新闻综合
+http://120.221.2.42:8089/PLTV/88888888/224/3221225618/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="山东移动IPTV",济南新闻综合FHD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="山东移动IPTV",济南生活
+http://120.221.2.42:8089/PLTV/88888888/224/3221225620/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="山东移动IPTV",济南都市
+http://120.221.2.42:8089/PLTV/88888888/224/3221225619/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhejiangweishi.png",group-title="山东移动IPTV",浙江卫视HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225573/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="山东移动IPTV",海看教育
+http://120.221.2.42:8089/PLTV/88888888/224/3221225682/index.m3u8
+#EXTINF:0 tvg-logo="",group-title="山东移动IPTV",海看生活
+http://120.221.2.42:8089/PLTV/88888888/224/3221225681/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhenweishi.png",group-title="山东移动IPTV",深圳卫视HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225581/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzhenweishi.png",group-title="山东移动IPTV",深圳卫视FHD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225631/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hunanweishi.png",group-title="山东移动IPTV",湖南卫视HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225574/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingkaku.png",group-title="山东移动IPTV",炫动卡通
+http://120.221.2.42:8089/PLTV/88888888/224/3221225607/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/liaoningweishi.png",group-title="山东移动IPTV",辽宁卫视HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225583/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/chongqingweishi.png",group-title="山东移动IPTV",重庆卫视HD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225580/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingyingkatong.png",group-title="山东移动IPTV",金鹰卡通
+http://120.221.2.42:8089/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shenzheniptv.png",group-title="山东移动IPTV",青海卫视
+http://120.221.2.42:8089/PLTV/88888888/224/3221225657/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/heilongjiangweishi.png",group-title="山东移动IPTV",黑龙江卫视FHD
+http://120.221.2.42:8089/PLTV/88888888/224/3221225629/index.m3
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="咪咕源",CCTV-1HD
 http://live.aikan.miguvideo.com/wd_r2/cctv/cctv1hd/1200/01.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="咪咕源",CCTV-3HD
@@ -1881,7 +1875,6 @@ http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch13-2.m3
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch14-2.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png" group-title="好消息频道", 好消息-15
 http://live.streamingfast.net/hls-live/goodtv/_definst_/liveevent/live-ch15-2.m3u8
-
 #EXTINF:-1 group-title="台湾源",哈Hot!電影台	
 https://58ad68d0b6c8d.streamlock.net/ios/-hamovie---0832/playlist.m3u8
 #EXTINF:-1 group-title="台湾源",八大綜合台	
