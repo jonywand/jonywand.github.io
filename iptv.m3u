@@ -2074,7 +2074,7 @@ http://223.110.243.173/PLTV/3/224/3221225534/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png",group-title="超级直播源",CCTV-4
 http://111.12.130.68/PLTV/88888888/224/3221225606/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="超级直播源",CCTV-5HD
-http://223.110.243.149/PLTV/3/224/3221227166/index.m3u8
+http://223.110.245.136/PLTV/3/224/3221227166/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-7a.png",group-title="超级直播源",CCTV-7军事农业-HD
 http://183.252.176.59//PLTV/88888888/224/3221225927/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-9a.png",group-title="超级直播源",CCTV-9纪录-HD
