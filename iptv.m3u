@@ -1387,6 +1387,38 @@ https://58ada6ee80845.streamlock.net/ios/-ChiengYin-0832/playlist.m3u8
 https://58ada6ee80845.streamlock.net/ios/-yubeauty---0832/playlist.m3u8
 #EXTINF:-1 group-title="台湾源",博斯運動	
 https://58ada6ee80845.streamlock.net/ios/-boxing-0832/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="超级直播源",凤凰资讯HD
+http://183.251.61.198/PLTV/88888888/224/3221225901/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangweishihd.png",group-title="超级直播源",凤凰中文台HD
+http://117.169.120.214:8080/ysten-businessmobile/live/fhzixun/.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/discovery.png",group-title="超级直播源",探索世界
+http://122.155.180.8:5021/live/440
+#EXTINF:0 tvg-logo="",group-title="超级直播源",科教纪录片
+http://fms.cntv.lxdns.com/live/flv/channel178.flv
+#EXTINF:0 tvg-logo="",group-title="超级直播源",本港HKS
+http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="超级直播源",本港HKS②
+rtmp://live.hkstv.hk.lxdns.com:1935/live/hks
+#EXTINF:0 tvg-logo="",group-title="超级直播源",香港财经
+rtmp://202.69.69.180:443/webcast/bshdlive-pc
+#EXTINF:0 tvg-logo="",group-title="超级直播源",宏观卫视
+http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/playlist.m3u8
+#EXTINF:0 tvg-logo="",group-title="超级直播源",壹新闻
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
+#EXTINF:0 tvg-logo="",group-title="超级直播源",新加坡HOT913
+http://sph.rastream.com/913fm?type=.flv&_=0.32037638779729605
+#EXTINF:0 tvg-logo="",group-title="超级直播源",新加坡UFM1003
+http://sph.rastream.com/1003fm?type=.flv&_=0.6157337832264602
+#EXTINF:0 tvg-logo="",group-title="超级直播源",新【三国】
+http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
+#EXTINF:0 tvg-logo="",group-title="超级直播源",星卫电影台
+http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
+#EXTINF:0 tvg-logo="",group-title="超级直播源",台灣|[49]壹新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8
+#EXTINF:0 tvg-logo="",group-title="超级直播源",中经电视
+rtmp://116.213.200.53/tslsChannelLive/PCG0DuD/live
+#EXTINF:0 tvg-logo="",group-title="超级直播源",于丹的说话艺术
+http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/e812c8dbd22245fa8979b491a07f48eb/850.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="超级直播源",CCTV-1HD
 http://183.251.61.199//PLTV/88888888/224/3221225829/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="超级直播源",CCTV-1HD
@@ -1455,40 +1487,6 @@ http://183.252.176.49//PLTV/88888888/224/3221225940/index.m3u8
 http://183.252.176.49//PLTV/88888888/224/3221225944/index.m3u8
 #EXTINF:0 tvg-logo="",group-title="超级直播源",凤凰中文台HD
 http://117.169.120.214:8080/ysten-businessmobile/live/fhchinese/.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="超级直播源",凤凰资讯HD
-http://183.251.61.198/PLTV/88888888/224/3221225901/index.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangweishihd.png",group-title="超级直播源",凤凰中文台HD
-http://117.169.120.214:8080/ysten-businessmobile/live/fhzixun/.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/discovery.png",group-title="超级直播源",探索世界
-http://122.155.180.8:5021/live/440
-#EXTINF:0 tvg-logo="",group-title="超级直播源",科教纪录片
-http://fms.cntv.lxdns.com/live/flv/channel178.flv
-#EXTINF:0 tvg-logo="",group-title="超级直播源",本港HKS
-http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
-#EXTINF:0 tvg-logo="",group-title="超级直播源",本港HKS②
-rtmp://live.hkstv.hk.lxdns.com:1935/live/hks
-#EXTINF:0 tvg-logo="",group-title="超级直播源",香港财经
-rtmp://202.69.69.180:443/webcast/bshdlive-pc
-#EXTINF:0 tvg-logo="",group-title="超级直播源",星卫电影台
-http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-#EXTINF:0 tvg-logo="",group-title="超级直播源",宏观卫视
-http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/playlist.m3u8
-#EXTINF:0 tvg-logo="",group-title="超级直播源",壹新闻
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
-#EXTINF:0 tvg-logo="",group-title="超级直播源",新加坡HOT913
-http://sph.rastream.com/913fm?type=.flv&_=0.32037638779729605
-#EXTINF:0 tvg-logo="",group-title="超级直播源",新加坡UFM1003
-http://sph.rastream.com/1003fm?type=.flv&_=0.6157337832264602
-#EXTINF:0 tvg-logo="",group-title="超级直播源",新【三国】
-http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
-#EXTINF:0 tvg-logo="",group-title="超级直播源",星卫电影台
-http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-#EXTINF:0 tvg-logo="",group-title="超级直播源",台灣|[49]壹新聞
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8
-#EXTINF:0 tvg-logo="",group-title="超级直播源",中经电视
-rtmp://116.213.200.53/tslsChannelLive/PCG0DuD/live
-#EXTINF:0 tvg-logo="",group-title="超级直播源",于丹的说话艺术
-http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/e812c8dbd22245fa8979b491a07f48eb/850.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="超级直播源",CCTV-1_720P
 http://cg01.hrtn.net:9090/live/cctv1hd_4000.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="超级直播源",CCTV-2_720P
