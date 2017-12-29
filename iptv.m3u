@@ -558,42 +558,6 @@ http://stream.jinjiang.tv/1/sd/live.m3u8
 http://pili-live-hls.livewafangd.sobeycache.com/livewafangd/dszb003.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/wafangshenghuo.png",group-title="地方频道",瓦房生活(辽宁）
 http://pili-live-hls.livewafangd.sobeycache.com/livewafangd/dszb002.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jilupian",group-title="特色影视",高清纪录
-http://itv.3gtech.cn/api/letv/lb_jilu_720p
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/leshizonghe",group-title="特色影视",乐视综合
-http://itv.3gtech.cn/api/letv/lb_zonghe_720p
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongmanjuchang",group-title="特色影视",动漫剧场
-http://itv.3gtech.cn/api/letv/lb_comic_720p
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/guzhuangjuchang",group-title="特色影视",古装剧场
-http://itv.3gtech.cn/api/letv/lb_gdjc_1800
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/ouxiangjuchang",group-title="特色影视",偶像剧场
-http://itv.3gtech.cn/api/letv/lb_dsjc_1800
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianshijuchang",group-title="特色影视",电视剧场
-http://itv.3gtech.cn/api/letv/lb_tv_1300
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/wangjupingdao",group-title="特色影视",网剧频道
-http://itv.3gtech.cn/api/letv/lb_make_720p
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/leshidianying",group-title="特色影视",乐视电影
-http://itv.3gtech.cn/api/letv/lb_movie_720p
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/leshigaoqingdianyinga",group-title="特色影视",高清电影
-http://itv.3gtech.cn/api/letv/lb_1080P_1080p3m
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/leshidongzuodianying.png",group-title="特色影视",动作电影
-http://itv.3gtech.cn/api/letv/lb_dzdy_720p
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xijudianying.png",group-title="特色影视",喜剧电影
-http://itv.3gtech.cn/api/letv/lb_comedy_720p
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xianggangdianying.png",group-title="特色影视",香港电影
-http://itv.3gtech.cn/api/letv/lb_hkmovie_1300
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/wuxiadianying.png",group-title="特色影视",武侠电影
-http://itv.3gtech.cn/api/letv/lb_wxdy_1800
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aiqingdianying.png",group-title="特色影视",爱情电影
-http://itv.3gtech.cn/api/letv/lb_qgdy_1800
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingsongdianying.png",group-title="特色影视",惊悚电影
-http://itv.3gtech.cn/api/letv/lb_hydy_1800
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhanzhengdianying.png",group-title="特色影视",战争电影
-http://itv.3gtech.cn/api/letv/lb_zzdy_1800
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/haolaiwu.png",group-title="特色影视",好莱坞电影
-http://itv.3gtech.cn/api/letv/lb_hlw_1800
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/leshi4kdianying.png",group-title="特色影视",4K电影
-http://itv.3gtech.cn/api/letv/lb_4k
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aishang4k.png",group-title="特色影视",爱上4K
 http://183.59.185.70:30001/PLTV/88888905/224/3221227997/10000100000000060000000006912176_0.smil
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aishang4k.png",group-title="特色影视",爱上4K
@@ -1285,10 +1249,6 @@ http://61.216.177.73/sta/ch1764042.m3u8
 http://61.216.177.73/sta/ch1764013.m3u8
 #EXTINF:-1 group-title="台湾源",★菊花台
 http://61.216.177.73/sta/ch1764038.m3u8
-#EXTINF:-1 group-title="台湾源",★卡通台
-http://211.22.61.109/sta/ch50174113.m3u8
-#EXTINF:-1 group-title="台湾源",★卡通台
-http://61.216.177.73/sta/ch50174113.m3u8
 #EXTINF:-1 group-title="台湾源",★凯亚农业
 http://61.216.177.73/sta/ch1764003.m3u8
 #EXTINF:-1 group-title="台湾源",★老电影
@@ -1301,8 +1261,6 @@ http://61.216.177.73/sta/ch1764027.m3u8
 http://61.216.177.73/sta/ch1764028.m3u8
 #EXTINF:-1 group-title="台湾源",★民视新闻台HD
 http://61.216.177.73/sta/ch1764026.m3u8
-#EXTINF:-1 group-title="台湾源",★全球财经
-http://61.216.177.73/sta/ch1764008.m3u8
 #EXTINF:-1 group-title="台湾源",★人间卫视
 http://61.216.177.73/sta/ch1764016.m3u8
 #EXTINF:-1 group-title="台湾源",★生命
@@ -1311,12 +1269,6 @@ http://61.216.177.73/sta/ch1764007.m3u8
 http://61.216.177.73/sta/ch1764011.m3u8
 #EXTINF:-1 group-title="台湾源",★台湾艺术台
 http://61.216.177.73/sta/ch1764010.m3u8
-#EXTINF:-1 group-title="台湾源",★体育
-http://211.22.61.109/sta/ch50174133.m3u8
-#EXTINF:-1 group-title="台湾源",★体育HD
-http://211.22.61.109/sta/ch50174098.m3u8
-#EXTINF:-1 group-title="台湾源",★体育HD
-http://61.216.177.73/sta/ch50174098.m3u8
 #EXTINF:-1 group-title="台湾源",★天良
 http://61.216.177.73/sta/ch1764001.m3u8
 #EXTINF:-1 group-title="台湾源",★唯心
@@ -1327,10 +1279,6 @@ http://61.216.177.73/sta/ch1764023.m3u8
 http://61.216.177.73/sta/ch1764015.m3u8
 #EXTINF:-1 group-title="台湾源",★信大HD
 http://61.216.177.73/sta/ch1764005.m3u8
-#EXTINF:-1 group-title="台湾源",★阳光卫视
-http://211.22.61.109/sta/ch50174137.m3u8
-#EXTINF:-1 group-title="台湾源",★阳光卫视
-http://61.216.177.73/sta/ch50174137.m3u8
 #EXTINF:-1 group-title="台湾源",★中方音乐台
 http://61.216.177.73/sta/ch1764037.m3u8
 #EXTINF:-1 group-title="台湾源",★中华财经台
@@ -1379,8 +1327,6 @@ https://58ada6ee80845.streamlock.net/ios/-nice---0832/playlist.m3u8
 https://58ad68d0b6c8d.streamlock.net/ios/-ifun---0832/playlist.m3u8
 #EXTINF:-1 group-title="台湾源",i-Fun動漫二台	
 https://58ada6ee80845.streamlock.net/ios/-Ifun2-0832/playlist.m3u8
-#EXTINF:-1 group-title="台湾源",CN卡通頻道	
-https://58ad68d0b6c8d.streamlock.net/ios/-cncoRcoon---0832/playlist.m3u8
 #EXTINF:-1 group-title="台湾源",華研音樂台	
 https://58ad68d0b6c8d.streamlock.net/ios/-himmusic---0832/playlist.m3u8
 #EXTINF:-1 group-title="台湾源",華研娛樂台	
