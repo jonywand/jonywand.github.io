@@ -252,9 +252,9 @@ http://acm.gg/j.m3u8
 http://qqpull.inke.cn/live/tvbsh.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbxinghe.png",group-title="港台境外",TVB星河
 http://qqpull.inke.cn/live/tvbxh.m3u8
-#EXTINF:0 tvg-logo="nowxinwen.png",group-title="港台境外",NOW综合
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/nowxinwen.png",group-title="港台境外",NOW综合
 http://live.italkdd.com/ts027/channel_033.m3u8
-#EXTINF:0 tvg-logo="nowzhibo.png",group-title="港台境外",NOW华剧
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/nowzhibo.png",group-title="港台境外",NOW华剧
 http://live.italkdd.com/ts027/channel_034.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbsxinwen.png",group-title="港台境外",TVBS新闻
 http://edge01p.friday.tw/live/fet005/chunklist.m3u
