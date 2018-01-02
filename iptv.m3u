@@ -251,7 +251,9 @@ http://acm.gg/j.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbsxinwen.png",group-title="港台境外",TVBS新闻
 http://edge01p.friday.tw/live/fet005/chunklist.m3u
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="港台境外",TVB-J2
-http://acm.gg/j2.m3u8
+http://live.alicdn.com/tmall/12aad6be-bb7f-49eb-9998-47531372564e.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/qimiao.png",group-title="港台境外",奇妙电视
+http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvb8a.png",group-title="港台境外",TVB8
 http://tvb8-i.akamaihd.net/hls/live/224490/C8Live/C8Live-1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/taishi.png",group-title="港台境外",台视
