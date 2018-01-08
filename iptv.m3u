@@ -248,6 +248,8 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 http://acm.gg/jade.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠2
 http://acm.gg/j.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠3
+http://hls.quanmin.tv/live/hellotvjade20181757/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbxinghe.png",group-title="港台境外",TVB星级生活台
 http://qqpull.inke.cn/live/tvbsh.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbxinghe.png",group-title="港台境外",TVB星河
@@ -281,11 +283,11 @@ http://14.198.245.135:8080/enc2/02.m3u8?t=12e9a7f66f3a892b396e94d81206eb6c&udid=
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hktv.png",group-title="港台境外",香港电视-源2
 http://ott-video-lb.hktvmall.com:8080/enc2/index2.m3u8?uid=1&vid=1&d=win8&t=12e9a7f66f3a892b396e94d81206eb6c&mxres=1312&net=wifi&udid=f4128ed9dbf7996480dc22165bf32082&ts=1482654272898&s=ad8ac8c3231fff71f65a4e6ad6d82984
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/8tva.png",group-title="港台境外",8频道
-http://tglch8-lh.akamaihd.net/i/channel8_fta@334582/index_1_av-p.m3u8
+http://tglch8h-i.akamaihd.net/hls/live/566549/ctv/02.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/utv.png",group-title="港台境外",U频道
-http://tglchu-lh.akamaihd.net/i/channelu_fta@334583/index_1_av-p.m3u8
+http://tglchuh-i.akamaihd.net/hls/live/566554/ctv/02.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/5tv.png",group-title="港台境外",5频道
-http://tglch5-lh.akamaihd.net/i/channel5_fta@334581/index_1_av-p.m3u8
+http://tglch5h-i.akamaihd.net/hls/live/566515/ctv/02.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aomengaoqing.png",group-title="港台境外",澳视高清
 http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/media_w2145388172.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aomenzixun.png",group-title="港台境外",澳视资讯
