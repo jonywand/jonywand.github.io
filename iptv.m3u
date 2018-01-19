@@ -352,36 +352,22 @@ http://61.58.60.247:9000/live/224.m3u8
 http://61.58.60.247:9000/live/222.m3u8
 #EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",CGTN Documentary
 http://61.58.60.247:9000/live/221.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",CNEX
-http://61.58.60.247:9000/live/257.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",DIVA
-http://61.58.60.247:9000/live/178.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",HKS
-http://61.58.60.247:9000/live/255.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",Syfy
-http://61.58.60.247:9000/live/177.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",UniversalChannel
-http://61.58.60.247:9000/live/179.m3u8
 #EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",安徽国际
 http://61.58.60.247:9000/live/237.m3u8
 #EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",安徽卫视
 http://61.58.60.247:9000/live/248.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",澳亚卫视
-http://61.58.60.247:9000/live/256.m3u8
 #EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",北京国际
 http://61.58.60.247:9000/live/226.m3u8
 #EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",东方国际
 http://61.58.60.247:9000/live/227.m3u8
 #EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",东方卫视
 http://61.58.60.247:9000/live/249.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",广东南方卫视 https://iptv.zone
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",广东南方卫视
 http://61.58.60.247:9000/live/228.m3u8
 #EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",广东卫视
 http://61.58.60.247:9000/live/252.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",国会频道-1
-http://61.58.60.247:9000/live/123.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",国会频道-2
-http://61.58.60.247:9000/live/124.m3u8
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",澳亚卫视
+http://61.58.60.247:9000/live/256.m3u8
 #EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",海峡卫视
 http://61.58.60.247:9000/live/230.m3u8
 #EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",河南国际
@@ -398,12 +384,6 @@ http://61.58.60.247:9000/live/84.m3u8
 http://61.58.60.247:9000/live/229.m3u8
 #EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",江苏卫视
 http://61.58.60.247:9000/live/251.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",靖天日本台
-http://61.58.60.247:9000/live/243.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",靖天戏剧台
-http://61.58.60.247:9000/live/246.m3u8
-#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",靖天综合台
-http://61.58.60.247:9000/live/242.m3u8
 #EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",厦门卫视
 http://61.58.60.247:9000/live/234.m3u8
 #EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",山东国际
@@ -942,16 +922,30 @@ http://61.58.60.247:9000/live/2.m3u8
 http://61.58.60.247:9000/live/88.m3u8
 #EXTINF:-1 tvg-logo="" group-title="港台境外",Channel 180
 http://61.58.60.247:9000/live/180.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港台境外",靖天映画台
-http://61.58.60.247:9000/live/244.m3u8
-#EXTINF:-1 tvg-logo="" group-title="港台境外",靖天电影台
-http://61.58.60.247:9000/live/245.m3u8
 #EXTINF:-1 tvg-logo="" group-title="港台境外",Channel 701
 http://61.58.60.247:9000/live/701.m3u8
 #EXTINF:-1 tvg-logo="" group-title="港台境外",Channel 708
 http://61.58.60.247:9000/live/708.m3u8
 #EXTINF:-1 tvg-logo="" group-title="港台境外",Channel 709
 http://61.58.60.247:9000/live/709.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港台境外",国会频道-1
+http://61.58.60.247:9000/live/123.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港台境外",国会频道-2
+http://61.58.60.247:9000/live/124.m3u8
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/jingtianriben.png" group-title="港台境外",靖天日本台
+http://61.58.60.247:9000/live/243.m3u8
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/jingtianxiju.png" group-title="港台境外",靖天戏剧台
+http://61.58.60.247:9000/live/246.m3u8
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/jingtianzonghe.png" group-title="港台境外",靖天综合台
+http://61.58.60.247:9000/live/242.m3u8
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/jingtiankatong.png" group-title="港台境外",靖天映画台
+http://61.58.60.247:9000/live/244.m3u8
+#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/jingtianyule.png" group-title="港台境外",靖天电影台
+http://61.58.60.247:9000/live/245.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港台境外",CNEX
+http://61.58.60.247:9000/live/257.m3u8
+#EXTINF:-1 tvg-logo="" group-title="港台境外",DIVA
+http://61.58.60.247:9000/live/178.m3u8
 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",火猫电影1
 http://live-tx-hdl.huomaotv.cn/live/9gFWYZ24081.m3u8
