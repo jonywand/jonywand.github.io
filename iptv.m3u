@@ -876,8 +876,10 @@ http://live.italkdd.com/ts027/channel_033.m3u8
 http://live.italkdd.com/ts027/channel_034.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbsxinwen.png",group-title="港台境外",TVBS新闻
 http://edge01p.friday.tw/live/fet005/chunklist.m3u
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="港台境外",TVB-J2
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="港台境外",TVB-Pearl（明珠台）
 http://live.alicdn.com/tmall/12aad6be-bb7f-49eb-9998-47531372564e.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="港台境外",TVB-J2
+http://hls.wyjxb.top/j2.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/qimiao.png",group-title="港台境外",奇妙电视
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvb8a.png",group-title="港台境外",TVB8
