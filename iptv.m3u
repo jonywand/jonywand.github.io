@@ -1,53 +1,3 @@
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png" group-title="国内频道", CCTV-1
-http://122.96.52.14:8080/gitv_live/G_CCTV-1/G_CCTV-1.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png" group-title="国内频道", CCTV-2
-http://122.96.52.43:8080/gitv_live/G_CCTV-2/G_CCTV-2.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png" group-title="国内频道", CCTV-3
-http://122.96.52.47:8080/gitv_live/CCTV-3/CCTV-3.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png" group-title="国内频道", CCTV-4
-http://122.96.52.42:8080/gitv_live/CCTV-4/CCTV-4.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png" group-title="国内频道", CCTV-5
-http://122.96.52.26:8080/gitv_live/CCTV-5/CCTV-5.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/CCTV-5b.png" group-title="国内频道", CCTV-5+
-http://122.96.52.49:8080/gitv_live/G_CCTV-5PLUS/G_CCTV-5PLUS.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/CCTV-6a.png" group-title="国内频道", CCTV-6
-http://122.96.52.62:8080/gitv_live/CCTV-6/CCTV-6.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/CCTV-7a.png" group-title="国内频道", CCTV-7
-http://122.96.52.13:8080/gitv_live/CCTV-7/CCTV-7.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/CCTV-8a.png" group-title="国内频道", CCTV-8
-http://122.96.52.44:8080/gitv_live/G_CCTV-8/G_CCTV-8.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/CCTV-9a.png" group-title="国内频道", CCTV-9
-http://122.96.52.48:8080/gitv_live/G_CCTV-9/G_CCTV-9.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/CCTV-10a.png" group-title="国内频道", CCTV-10
-http://122.96.52.60:8080/gitv_live/CCTV-10/CCTV-10.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png" group-title="国内频道", CCTV-12
-http://122.96.52.41:8080/gitv_live/CCTV-12/CCTV-12.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/CCTV-13a.png" group-title="国内频道", CCTV-13
-http://122.96.52.23:8080/gitv_live/CCTV-13/CCTV-13.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png" group-title="国内频道", CCTV-14
-http://122.96.52.42:8080/gitv_live/G_CCTV-14/G_CCTV-14.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/CCTV-15a.png" group-title="国内频道", CCTV-15
-http://122.96.52.50:8080/gitv_live/G_CCTV-15/G_CCTV-15.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/cgtn.png" group-title="国内频道", CCTV-News
-http://122.96.52.62:8080/gitv_live/G_CCTV-NEWS/G_CCTV-NEWS.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/anhuiweishi.png" group-title="国内频道", 安徽卫视
-http://122.96.52.45:8080/gitv_live/AHWS/AHWS.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/liaoningweishia.png" group-title="国内频道", 辽宁卫视
-http://122.96.52.23:8080/gitv_live/LNWS/LNWS.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/shandongweishi.png" group-title="国内频道", 山东卫视
-http://122.96.52.49:8080/gitv_live/SDWS/SDWS.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/henanweishi.png" group-title="国内频道", 河南卫视
-http://122.96.52.62:8080/gitv_live/HENAN/HENAN.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/tianjingweishi.png" group-title="国内频道", 天津卫视
-http://122.96.52.13:8080/gitv_live/TJWS/TJWS.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/jilinweishi.png" group-title="国内频道", 吉林卫视
-http://122.96.52.24:8080/gitv_live/G_JILIN/G_JILIN.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/hunanweishi.png" group-title="国内频道", 湖南卫视
-http://122.96.52.50:8080/gitv_live/G_HUNAN/G_HUNAN.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/dongfangweishi.png" group-title="国内频道", 东方卫视
-http://122.96.52.51:8080/gitv_live/G_DONGFANG/G_DONGFANG.m3u8
-#EXTINF:-1 tvg-logo="http://www.wangjiuling.com/img/shenzheniptv.png" group-title="国内频道", 深圳卫视
-http://122.96.52.61:8080/gitv_live/G_SHENZHEN/G_SHENZHEN.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="国内频道",CCTV-1HD
 http://ivi.bupt.edu.cn/hls/cctv1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="国内频道",CCTV-1HD
@@ -340,6 +290,242 @@ http://116.77.73.77/otv/tw/live/channel90/800.m3u8
 http://116.77.73.77/otv/tw/live/channel22/800.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="国内频道",江西卫视HD
 http://117.169.120.142:8080/wh7f454c46tw1875988299_1988371409/ysten-businessmobile/live/jiangxistv/dujuejiami.m3u8
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",民視台灣台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv001
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",民視
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv002
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",台灣交通台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv003
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",民視綜藝台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv004
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",大愛電視
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv007
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",人間衛視
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv008
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",中天新聞台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv009
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",非凡新闻
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv010
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",影迷數位電影台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv011
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",空中英语课堂
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv012
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",視納華仁紀實頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv013
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",時尚運動X
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv014
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",Fashion one
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv015
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",韓國娛樂台 KMTV
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv016
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",日舞電影台AMC
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv017
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",達文西頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv018
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",東森財經新聞
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv019
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",東森亞洲衛視
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv020
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",東森亞洲幼幼台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv021
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",東森亞洲新聞台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv022
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",Comedy Central 爆笑頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv024
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",MTV Live HD 音樂頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv025
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",History 歷史頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv026
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",CI罪案偵查頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv027
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",H2頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv028
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",Lifetime 娛樂頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv029
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",CNBC Asia 財經台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv030
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",fyi 生活頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv031
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",Nick Jr. 兒童頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv032
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",Z Living 健康頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv033
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",E Entertainment
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv034
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",鳳梨直擊台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv035
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",iConceits
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv037
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",香蕉直擊台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv038
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",八大综合
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv039
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",中視
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv040
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",華視
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv041
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",公視戲劇
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv042
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",HakkaTV
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv043
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",靖天卡通台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv044
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",靖洋戏剧台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv045
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",靖天綜合台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv046
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",靖天日本台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv047
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",采昌影劇台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv049
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",新塘人亚太台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv050
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",台视新闻台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv051
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",華視新聞
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv052
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",Nice TV
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv054
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",靖天映畫
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv055
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",台视财经
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv056
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",靖洋卡通Nice Bingo
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv057
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",靖天戏剧台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv058
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",CLASSICA 古典樂
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv059
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",靖天電影台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv061
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",靖天育樂台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv062
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",KLT-靖天國際台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv063
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",靖天資訊台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv065
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",台视
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv066
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",TVBS精采台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv067
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",愛爾達娛樂台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv070
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",TVBS新闻台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv072
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",TVBS
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv073
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",中視新聞
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv074
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",TRACE Sport Stars
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv077
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",Outdoor Channel
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv078
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",Travel Channel
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv079
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",Eleven sports2
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv081
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",TRACE Urban
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv082
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",Mezzo Live HD
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv083
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",国会频道1
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv084
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",国会频道2
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv085
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",Eleven sports1
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv086
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",Eleven sports2
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv087
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",BBC World News
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv088
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",院會頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv089
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",內政頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv090
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",外交及國防頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv091
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",經濟頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv092
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",財政頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv093
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",教育及文化頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv094
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",交通頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv095
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",司法及法制頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv096
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",社會福利及衛生環境頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv097
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",Eleven sports1
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv098
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",Eleven sports2
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv099
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",智林體育台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv101
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",空中英語教室HD頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv103
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",大愛二台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv106
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",公視二台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv107
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",VTV4
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv108
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",MOMO親子台
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv111
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",天映經典頻道
+http://bw.voovo.top/mytv.php?id=4gtv-4gtv112
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",VOA美國之音
+http://bw.voovo.top/mytv.php?id=litv-ftv03
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",民視旅遊台
+http://bw.voovo.top/mytv.php?id=litv-ftv07
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",民視影劇台
+http://bw.voovo.top/mytv.php?id=litv-ftv09
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",半島國際新聞台
+http://bw.voovo.top/mytv.php?id=litv-ftv10
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",華研音樂台
+http://bw.voovo.top/mytv.php?id=litv-ftv11
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",華研娛樂台
+http://bw.voovo.top/mytv.php?id=litv-ftv12
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",民視新聞台
+http://bw.voovo.top/mytv.php?id=litv-ftv13
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",東森新聞台
+http://bw.voovo.top/mytv.php?id=litv-ftv14
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",i-Fun動漫台
+http://bw.voovo.top/mytv.php?id=litv-ftv15
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",好消息
+http://bw.voovo.top/mytv.php?id=litv-ftv16
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",好消息2台
+http://bw.voovo.top/mytv.php?id=litv-ftv17
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",龍華卡通台
+http://bw.voovo.top/mytv.php?id=litv-longturn01
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",博斯魅力台
+http://bw.voovo.top/mytv.php?id=litv-longturn04
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",博斯高球台
+http://bw.voovo.top/mytv.php?id=litv-longturn05
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",博斯高球二台
+http://bw.voovo.top/mytv.php?id=litv-longturn06
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",博斯運動網
+http://bw.voovo.top/mytv.php?id=litv-longturn07
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",博斯足球台
+http://bw.voovo.top/mytv.php?id=litv-longturn08
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",博斯網球台
+http://bw.voovo.top/mytv.php?id=litv-longturn09
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",博斯無限台
+http://bw.voovo.top/mytv.php?id=litv-longturn10
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",龍華日韓台
+http://bw.voovo.top/mytv.php?id=litv-longturn11
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",龍華偶像台
+http://bw.voovo.top/mytv.php?id=litv-longturn12
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",寰宇新聞台
+http://bw.voovo.top/mytv.php?id=litv-longturn14
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",寰宇新聞二台
+http://bw.voovo.top/mytv.php?id=litv-longturn15
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",亞洲旅遊台
+http://bw.voovo.top/mytv.php?id=litv-longturn17
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",龍華戲劇台
+http://bw.voovo.top/mytv.php?id=litv-longturn18
+#EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",ELTV英語學習台
+http://bw.voovo.top/mytv.php?id=litv-longturn20
 #EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",CCTV-4
 http://61.58.60.247:9000/live/220.m3u8
 #EXTINF:-1 tvg-logo="" group-title="国际频道（台湾）",CCTV-4
