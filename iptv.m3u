@@ -1332,6 +1332,10 @@ http://pull6.inke.cn/live/1516956950737170.flv
 http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvb8a.png",group-title="港台境外",TVB8
 http://tvb8-i.akamaihd.net/hls/live/224490/C8Live/C8Live-1.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/national.png",group-title="港台境外",国家地理
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900114&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hbohd.png",group-title="港台境外",HBO
+http://stream.slave.nx96200.cn:13164/playurl?accesstoken=R58434870U3AC38289K774C53FEM30EEBF9W210049&programid=4200900115&playtype=live&auth=no&playtoken=31612AXOAAZGYAZ1?&.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="港台境外",RHK-31
 http://rthklive1-lh.akamaihd.net:80/i/rthk31_1@167495/index_2052_av-b.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-32a.png",group-title="港台境外",RHK-32
