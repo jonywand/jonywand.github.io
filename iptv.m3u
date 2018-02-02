@@ -113,31 +113,9 @@ http://live.uwp.ac.cn/bstkan.m3u8?id=hdnba8&hd=2&nowtime=1517377685&key=15A5CE95
 #EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="超级直播源",CCTV1
 http://azure-kknews.live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M/xwzh/M_key5BA4D0B27F09F3D61DEF864FA12F1C8DC157C22748153B54D758192A87A7F283_/live/cctv1hd/4000000/d1.m3u8
 #EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="超级直播源",CCTV3
-http://ottcn.8686c.com/PLTV/88888888/224/3221225963/1.m3u8
-#EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="超级直播源",CCTV3
 http://223.110.243.136/PLTV/3/224/3221227206/index.m3u8
 #EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png",group-title="超级直播源",CCTV4
 http://61.166.153.32:1180/play/playback/90000001000000050000000000000199/live100001.m3u8
-#EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="超级直播源",CCTV5
-http://ottcn.8686c.com/PLTV/88888888/224/3221226039/1.m3u8
-#EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="超级直播源",CCTV5
-http://183.207.248.8:80/PLTV/3/224/3221225604/index.m3u8
-#EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="超级直播源",CCTV5
-http://183.207.248.71:80/PLTV/3/224/3221226322/index.m3u8
-#EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-6a.png",group-title="超级直播源",CCTV6
-http://ottcn.8686c.com/PLTV/88888888/224/3221226043/1.m3u8
-#EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-7a.png",group-title="超级直播源",CCTV7
-http://183.207.248.8:80/PLTV/3/224/3221225546/index.m3u8
-#EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-8a.png",group-title="超级直播源",CCTV8
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221227204/index.m3u8
-#EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-8a.png",group-title="超级直播源",CCTV8
-http://ottcn.8686c.com/PLTV/88888888/224/3221226035/1.m3u8
-#EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-9a.png",group-title="超级直播源",CCTV9
-http://183.252.176.36//PLTV/88888888/224/3221225929/index.m3u8
-#EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-10a.png",group-title="超级直播源",CCTV10
-http://183.252.176.13//PLTV/88888888/224/3221225931/index.m3u8
-#EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="超级直播源",CCTV12
-http://183.207.248.8:80/PLTV/3/224/3221225556/index.m3u8
 #EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-13a.png",group-title="超级直播源",CCTV13
 http://azure-kknews.live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M/xwzh/M_key5BA4D0B27F09F3D61DEF864FA12F1C8DC157C22748153B54D758192A87A7F283_/live/cctvxw/1300000/d1.m3u8
 #EXTINF:-1, tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png",group-title="超级直播源",CCTV14
