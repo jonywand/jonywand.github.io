@@ -1477,13 +1477,17 @@ http://hls.quanmin.tv/live/2115620138/playlist.m3u8
 http://tglokto-lh.akamaihd.net/i/oktoenv_fta@344014/index_1_av-p.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yingchao1.png",group-title="国内频道",体育频道
 http://140.207.241.2:8080/live/program/live/hdnba1/4000000/mnf.m3u8
+#EXTINF:0 tvg-logo=“http://www.wangjiuling.com/img/fenghuangweishihd.png”，group-title =“港台境外”，凤凰中文
+http://live.fengshows.com/live/PCC_500k/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="港台境外",凤凰卫视资讯台
+http://live.fengshows.com/live/PIN_500k/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangxianggang.png",group-title="港台境外",凤凰卫视香港台
+http://live.fengshows.com/live/PHK_500k/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hkweishi.png",group-title="港台境外",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠1
 http://acm.gg/pearl.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠2
-http://acm.gg/j.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠3
 http://liveal.quanmin.tv/live/1517208581.m3u8?k=/LRcr4arFrZXKGDjs8KrPA
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/nowxinwen.png",group-title="港台境外",NOW综合
 http://live.italkdd.com/ts027/channel_033.m3u8
