@@ -4,6 +4,8 @@ rtmp://livertmp-xl.wasu.cn/live10/hd_cctv1
 http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225579/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="央视",CCTV-1HD
 http://111.20.33.95/wh7f454c46tw1850372562_574378570/PLTV/88888888/224/3221225579/index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="央视",春晚直播（海外专属）
+http://iptv.wangjiuling.com/youtube.php?id=FeRi86DcfyA
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="央视",CCTV-1HD
 http://183.207.248.8:80/PLTV/3/224/3221226924/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="央视",CCTV-1HD教育网
