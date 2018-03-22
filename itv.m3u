@@ -760,12 +760,16 @@ http://live.fengshows.com/live/PIN_500k/index.m3u8
 http://live.fengshows.com/live/PHK_500k/index.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/hkweishi.png",group-title="港台境外",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠(test)
+http://hls1.plu.cn/live/jade/playlist.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠
 http://acm.gg/inews.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠(备用)
 http://acm.gg/j.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="港台境外",TVB-Pearl（明珠台）
 http://acm.gg/pearl.m3u8
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/ccm.png",group-title="港台境外",CCM
+http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv112/litv-pc/4gtv-4gtv112-video=800000-audio_AACL_und_60000_600=60000.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="港台境外",TVB-J2
 http://hls.wyjxb.top/j2.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbxinghe.png",group-title="港台境外",TVB星河
