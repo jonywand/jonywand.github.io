@@ -591,7 +591,7 @@ http://acm.gg/pearl.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbyule.png",group-title="港台境外",tvb娱乐台
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="港台境外",tvb无线新闻台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1521719167~exp=1521805567~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=38badef35e3927dd8c98d7158554c65d213ff5017f723acc126e7c3153d8732d
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1521728017~exp=1521814417~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=1c497e7567e720bb7384073baddbc36b84499d0768694596f27653f65581de10
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="港台境外",tvb无线财经台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/ccm.png",group-title="港台境外",CCM(已失效)
