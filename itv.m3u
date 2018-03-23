@@ -708,7 +708,7 @@ http://acm.gg/pearl.m3u8
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="港台境外",tvb无线新闻台
 http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1521719167~exp=1521805567~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=38badef35e3927dd8c98d7158554c65d213ff5017f723acc126e7c3153d8732d
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="港台境外",tvb无线新闻台
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="港台境外",tvb无线财经台
 http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/ccm.png",group-title="港台境外",CCM(已失效)
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv112/litv-pc/4gtv-4gtv112-video=800000-audio_AACL_und_60000_600=60000.m3u8
