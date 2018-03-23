@@ -464,12 +464,6 @@ http://175.6.15.36:8080/nn_live.m3u8?id=CSNXMPP360
 http://175.6.15.36:8080/nn_live.m3u8?id=CSXWMPP360
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",湖南长沙政法
 http://175.6.15.36:8080/nn_live.m3u8?id=CSZFMPP360
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",上海第一财经HD
-http://azure-kknews.live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M/xwzh/M_key5BA4D0B27F09F3D61DEF864FA12F1C8DC157C22748153B54D758192A87A7F283_/live/dycjhd/2300000/d1.m3u8
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",上海电视剧HD
-http://azure-kknews.live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M/xwzh/M_key5BA4D0B27F09F3D61DEF864FA12F1C8DC157C22748153B54D758192A87A7F283_/live/dsjpdhd/2300000/d1.m3u8
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",上海娱乐HD
-http://azure-kknews.live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M/xwzh/M_key5BA4D0B27F09F3D61DEF864FA12F1C8DC157C22748153B54D758192A87A7F283_/live/ylpdhd/2300000/d1.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",四川TV-2
 http://scgctvshow.sctv.com/hdlive/sctv2/3.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",四川TV-3
@@ -630,20 +624,6 @@ http://220.161.87.62:8800/hls/0/index.m3u8
 http://stream.jinjiang.tv/1/sd/live.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/wafangshenghuo.png",group-title="地方频道",瓦房生活(辽宁）
 http://pili-live-hls.livewafangd.sobeycache.com/livewafangd/dszb002.m3u8
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",上海综合
-http://azure-kknews.live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M/xwzh/M_key5BA4D0B27F09F3D61DEF864FA12F1C8DC157C22748153B54D758192A87A7F283_/live/xwzhhd/2300000/d1.m3u8
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",上海综合
-http://azure-kknews.live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M/xwzh/M_key5BA4D0B27F09F3D61DEF864FA12F1C8DC157C22748153B54D758192A87A7F283_/live/xwzhhd/2300000/d1.m3u8
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",上海综合
-http://live.uwp.ac.cn/bstkan.m3u8?id=xwzhhd&hd=2&nowtime=1517378340&key=DB8E6E3E6F775A9CC20B863E4C7C0D06030F8845
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",上海娱乐
-http://live.uwp.ac.cn/bstkan.m3u8?id=ylpdhd&hd=2&nowtime=1517378363&key=75D304A872FDBEFB136BEDD7138BE3DCED6F521C
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",上海星尚
-http://live.uwp.ac.cn/bstkan.m3u8?id=xspdhd&hd=2&nowtime=1517378358&key=B01FE1DA0B539D14FDCCAE7218839BC69A216643
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",上海电视剧
-http://azure-kknews.live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M/xwzh/M_key5BA4D0B27F09F3D61DEF864FA12F1C8DC157C22748153B54D758192A87A7F283_/live/dsjpdhd/2300000/d1.m3u8
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",上海电视剧
-http://live.uwp.ac.cn/bstkan.m3u8?id=dsjpdhd&hd=2&nowtime=1517378356&key=288763D54309DB7F8FC0C5B8EBE38A9657983E81
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",浙江新闻
 http://ali.m.l.cztv.com/channels/lantian/channel07/720p.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",浙江新闻
