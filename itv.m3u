@@ -578,6 +578,8 @@ http://live.fengshows.com/live/PIN_500k/index.m3u8
 http://live.fengshows.com/live/PHK_500k/index.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/hkweishi.png",group-title="港台境外",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="港台境外",ViuTV
+http://s-417820.gotocdn.com:6330/viutv.php
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠(test)
 http://hls1.plu.cn/live/jade/playlist.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠
