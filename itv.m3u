@@ -570,7 +570,7 @@ http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se
 http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=13&Provider_id=&Pcontent_id=index.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/youxian203.png",group-title="港台境外",香港有线203
 http://61.18.0.107:8114/LIVES/Fsv_otype=1&FvSeid=&Fsv_filetype=1&Fsv_chan_hls_se_idx=14&Provider_id=&Pcontent_id=index.m3u8
-#EXTINF:0, tvg-logo=“http://www.wangjiuling.com/img/fenghuangweishihd.png”,group-title="港台境外",凤凰中文
+#EXTINF:0, tvg-logo=“http://www.wangjiuling.com/img/fenghuangzhongwen.png”,group-title="港台境外",凤凰中文
 http://live.fengshows.com/live/PCC_500k/index.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="港台境外",凤凰卫视资讯台
 http://live.fengshows.com/live/PIN_500k/index.m3u8
@@ -581,7 +581,7 @@ http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="港台境外",ViuTV
 http://s-417820.gotocdn.com:6330/viutv.php
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠(test)
-http://hls1.plu.cn/live/jade/playlist.m3u8
+http://live-ws-hls.huomaotv.cn/live/jade/playlist.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠
 http://acm.gg/inews.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠(备用)
