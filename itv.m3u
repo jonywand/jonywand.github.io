@@ -184,7 +184,7 @@ http://wstv.cntv.myalicdn.com/cntvlive/xinjiangmd.m3u8?auth=cntv00013Kt6jLalPH17
 http://wstv.cntv.myalicdn.com/cntvlive/yunnanmd.m3u8?auth=cntv0001xRHmn+rndSnjBUnL5ea/RWy03AJ7THz+byngt1gCG3kK6iJVIgFaNKijQHTMchzteRxnH90tR7UYemLbSxeF3w==
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/chongqingweishi.png",group-title="卫视频道",重庆卫视
 http://wstv.cntv.myalicdn.com/cntvlive/chongqingmd.m3u8?auth=cntv0001j3BackQF3UcJTowgCamZQGoXjjkZVKVuhsKK2t8JNUV6cQUZTZaoCxilMKnBLfBVs0BNr7KgC/Z7F++Rg3gIcw==
-EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/guangdongweishi.png",group-title="卫视频道",广东卫视
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/guangdongweishi.png",group-title="卫视频道",广东卫视
 http://icantv.cn/hls/gdtv/gdws.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/hebeiweishi.png",group-title="卫视频道",河北卫视
 http://weblive.hebtv.com/live/hbws_bq/index.m3u8
@@ -550,7 +550,7 @@ http://220.161.87.62:8800/hls/0/index.m3u8
 http://stream.jinjiang.tv/1/sd/live.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/wafangshenghuo.png",group-title="地方频道",瓦房生活(辽宁）
 http://pili-live-hls.livewafangd.sobeycache.com/livewafangd/dszb002.m3u8
-EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",海南影视
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",海南影视
 http://stream1.hnntv.cn/ysjpd/sd/live.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",河北影视
 http://weblive.hebtv.com/live/hbys_bq/index.m3u8
@@ -605,7 +605,7 @@ http://live.italkdd.com/ts027/channel_033.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/nowzhibo.png",group-title="港台境外",NOW华剧
 http://live.italkdd.com/ts027/channel_034.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbsxinwen.png",group-title="港台境外",TVBS新闻
-http://edge01p.friday.tw/live/fet005/chunklist.m3u
+http://edge01p.friday.tw/live/fet005/chunklist.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/ATV-A1.png",group-title="港台境外",ATV亚视A1台
 http://antennalem-lh.akamaihd.net/i/YR2KW_1@324049/index_1800000_av-p.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/qimiao.png",group-title="港台境外",奇妙电视
@@ -747,7 +747,7 @@ http://60.199.188.65/HLS/WG_USTV-N/index.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",TVBS新闻HD
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",TVBS新闻HD
-http://edge01p.friday.tw/live/fet005/chunklist.m3u
+http://edge01p.friday.tw/live/fet005/chunklist.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",美国中文电视台
 http://live.italkdd.com/ts142/channel_068.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",时代影像电影台
@@ -755,7 +755,7 @@ http://rotation.vod.zlive.cc/channel/1258.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png" group-title="港台境外",东森美洲
 http://live.italkdd.com/ts137/channel_080.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",TVBS新闻HD
-http://edge01p.friday.tw/live/fet005/chunklist.m3u
+http://edge01p.friday.tw/live/fet005/chunklist.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",民视新闻台
 https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",三立台湾台
@@ -763,7 +763,7 @@ http://live.italkdd.com/ts137/channel_082.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",中天新闻
 http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",台湾东森新闻
-http://edge01p.friday.tw/live/fet003/chunklist.m3u 
+http://edge01p.friday.tw/live/fet003/chunklist.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",三立台湾台
 http://live.italkdd.com/ts137/channel_082.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",台视新闻
@@ -864,9 +864,9 @@ http://fms.cntv.lxdns.com/live/flv/channel178.flv
 http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/e812c8dbd22245fa8979b491a07f48eb/850.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/aishang4k.png",group-title="MGTV点播",爱上4K
 http://183.59.185.70:30001/PLTV/88888905/224/3221227997/10000100000000060000000006912176_0.smil
-EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/yuetv4k.png",group-title="MGTV点播",粤TV影视-4K
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/yuetv4k.png",group-title="MGTV点播",粤TV影视-4K
 http://183.59.185.70:30001/PLTV/88888905/224/3221228037/10000100000000060000000006912177_0.smil
-EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/yuetv4kjilu.png",group-title="MGTV点播",粤TV纪录-4K
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/yuetv4kjilu.png",group-title="MGTV点播",粤TV纪录-4K
 http://183.59.185.70:30001/PLTV/88888905/224/3221228304/10000100000000060000000008188821_0.smil
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/xinshijuec.png",group-title="MGTV点播",新视觉
 http://27.148.240.198/PLTV/88888888/224/3221226068/index.m3u8
