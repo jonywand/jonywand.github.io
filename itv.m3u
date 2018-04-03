@@ -858,18 +858,8 @@ http://61.58.60.247:9000/live/245.m3u8
 http://61.58.60.247:9000/live/257.m3u8
 #EXTINF:0, tvg-logo="" group-title="港台境外",DIVA
 http://61.58.60.247:9000/live/178.m3u8
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",科教纪录片
-http://fms.cntv.lxdns.com/live/flv/channel178.flv
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",于丹的说话艺术
-http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/e812c8dbd22245fa8979b491a07f48eb/850.m3u8
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/aishang4k.png",group-title="MGTV点播",爱上4K
-http://183.59.185.70:30001/PLTV/88888905/224/3221227997/10000100000000060000000006912176_0.smil
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/yuetv4k.png",group-title="MGTV点播",粤TV影视-4K
-http://183.59.185.70:30001/PLTV/88888905/224/3221228037/10000100000000060000000006912177_0.smil
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/yuetv4kjilu.png",group-title="MGTV点播",粤TV纪录-4K
-http://183.59.185.70:30001/PLTV/88888905/224/3221228304/10000100000000060000000008188821_0.smil
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/xinshijuec.png",group-title="MGTV点播",新视觉
-http://27.148.240.198/PLTV/88888888/224/3221226068/index.m3u8
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",爱情公寓
+http://hlstx.plu.cn/onlive/bd8cd5ed47ad491cb557325b198705d6_550.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",恐怖片女王
 http://hlstx.plu.cn/onlive/ce589113373e4696b9995f3f79452409.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",小鹿女王
@@ -888,10 +878,6 @@ http://hlstx.plu.cn/onlive/90985cc82cfd4c229bc5daf642e12dee.m3u8
 http://hlstx.plu.cn/onlive/ce589113373e4696b9995f3f79452409.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",龙珠直播
 http://hlstx.plu.cn/onlive/e272abe682d540c0ab44f22e39d3af6b.m3u8
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",龙珠轮播
-http://hlstx.plu.cn/onlive/8925117a91e94602a45b326fc15025a5.m3u8
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",爱情公寓
-http://flv3.quanmin.tv/live/3766_1484450930.flv
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",港台轮播
 http://dlhls.cdn.zhanqi.tv/zqlive/166623_PXdHI.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",电影轮播1
@@ -926,6 +912,16 @@ http://chyd-wsvod.wasu.tv/data13/ott/344/2015-05/28/1432782476341_377935/playlis
 http://chyd-wsvod.wasu.tv/data12/ott/344/2015-03/05/1425521511475_343177/playlist.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",涉足荒野
 http://chyd-wsvod.wasu.tv/data13/ott/344/2015-06/01/1433146056644_381163/playlist.m3u8
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",科教纪录片
+http://fms.cntv.lxdns.com/live/flv/channel178.flv
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="MGTV点播",于丹的说话艺术
+http://cntv.hls.cdn.myqcloud.com/asp/hls/850/0303000a/3/default/e812c8dbd22245fa8979b491a07f48eb/850.m3u8
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/aishang4k.png",group-title="MGTV点播",爱上4K
+http://183.59.185.70:30001/PLTV/88888905/224/3221227997/10000100000000060000000006912176_0.smil
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/yuetv4k.png",group-title="MGTV点播",粤TV影视
+http://183.59.185.70:30001/PLTV/88888905/224/3221228037/10000100000000060000000006912177_0.smil
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/xinshijuec.png",group-title="MGTV点播",新视觉
+http://27.148.240.198/PLTV/88888888/224/3221226068/index.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/huashi.png",group-title="YouTube",华视HD
 http://iptv.wangjiuling.com/youtube.php?id=WAGIkirjfCw
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/zhongtianxinwena.png",group-title="YouTube",中天新闻HD
