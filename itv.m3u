@@ -558,6 +558,24 @@ http://weblive.hebtv.com/live/hbys_bq/index.m3u8
 http://lss2.gztv.com/streaming/gzbn_shaoer/index.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/",group-title="地方频道",廣州生活
 http://lss2.gztv.com/streaming/gzbn_en/index.m3u8
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="港台境外",ViuTV
+http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠(test)
+http://live-ws-hls.huomaotv.cn/live/jade/playlist.m3u8
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠
+http://acm.gg/inews.m3u8
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠(备用)
+http://acm.gg/j.m3u8
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="港台境外",TVB-J2
+http://cdn-usa1-streaming.ani-box.com:1935/live/tvbj2/playlist.m3u8
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="港台境外",TVB-Pearl（明珠台）
+http://acm.gg/pearl.m3u8
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbyule.png",group-title="港台境外",tvb娱乐台
+http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="港台境外",tvb无线新闻台
+http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1521728017~exp=1521814417~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=1c497e7567e720bb7384073baddbc36b84499d0768694596f27653f65581de10
+#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="港台境外",tvb无线财经台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/fenghuangweishihd.png",group-title="港台境外",凤凰卫视中文台
 http://218.207.213.135/PLTV/88888888/224/3221225900/index.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/fenghuangzixunhd.png",group-title="港台境外",凤凰资讯
@@ -578,24 +596,6 @@ http://live.fengshows.com/live/PIN_500k/index.m3u8
 http://live.fengshows.com/live/PHK_500k/index.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/hkweishi.png",group-title="港台境外",香港卫视
 http://zhibo.hkstv.tv/livestream/mutfysrq/playlist.m3u8
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/Viu.png",group-title="港台境外",ViuTV
-http://s-417820.gotocdn.com:6330/viutv.php
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠(test)
-http://live-ws-hls.huomaotv.cn/live/jade/playlist.m3u8
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠
-http://acm.gg/inews.m3u8
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠(备用)
-http://acm.gg/j.m3u8
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="港台境外",TVB-J2
-http://cdn-usa1-streaming.ani-box.com:1935/live/tvbj2/playlist.m3u8?wowzasessionid=1041501764
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="港台境外",TVB-Pearl（明珠台）
-http://acm.gg/pearl.m3u8
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbyule.png",group-title="港台境外",tvb娱乐台
-http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="港台境外",tvb无线新闻台
-http://wowza-live.edge-global.akamai.tvb.com/newslive/smil:mobilehd_news_windows1.smil/playlist.m3u8?hdnea=st=1521728017~exp=1521814417~acl=/newslive/smil:mobilehd_news_windows1.smil/*~hmac=1c497e7567e720bb7384073baddbc36b84499d0768694596f27653f65581de10
-#EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbwxcj.png",group-title="港台境外",tvb无线财经台
-http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/playlist.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/ccm.png",group-title="港台境外",CCM(已失效)
 http://btsu4k5-hisng.cdn.hinet.net/live/pool/4gtv-4gtv112/litv-pc/4gtv-4gtv112-video=800000-audio_AACL_und_60000_600=60000.m3u8
 #EXTINF:0, tvg-logo="http://www.wangjiuling.com/img/tvbxinghe.png",group-title="港台境外",TVB星河
