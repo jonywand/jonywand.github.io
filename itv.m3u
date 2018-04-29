@@ -659,11 +659,11 @@ http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbxinghe.png",group-title="港台境外",TVB星河
 http://slave.pygdzhcs.com:13164/playurl?playtype=live&accesstoken=R59B64E0CU30817066K7735C7CBI267C417CPBM30487C2WDB06148B4C1&programid=4200000107&playtoken=ABCDEFGH
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠
-http://acm.gg/inews.m3u8
+http://acm.gg/jade.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠(备用)
-http://acm.gg/j.m3u8
+http://123.207.42.38/tvb.php?type=jade
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="港台境外",TVB-J2
-http://cdn-usa1-streaming.ani-box.com:1935/live/tvbj2/playlist.m3u8
+http://zbplay.tcgqxx.com/qxdq/5acd8943e99cf.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="港台境外",TVB-Pearl（明珠台）
 http://acm.gg/pearl.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbyule.png",group-title="港台境外",tvb娱乐台
