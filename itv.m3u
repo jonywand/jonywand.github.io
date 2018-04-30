@@ -362,76 +362,6 @@ http://112.89.38.25/PLTV/88888894/224/3221225505/1.m3u8
 http://ottlivetimeal.mgtv.com/nn_live/nn_x64/mgtvlive/KKDH.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/youmankatong.png",group-title="卫视频道",优漫卡通
 http://ottlivetimeal.mgtv.com/nn_live/nn_x64/mgtvlive/YMKT.ts
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png" group-title="国际频道（台湾）",CCTV-4
-http://61.58.60.247:9000/live/220.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png" group-title="国际频道（台湾）",CCTV-4
-http://61.58.60.247:9000/live/231.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-15a.png" group-title="国际频道（台湾）",CCTV戏曲
-http://61.58.60.247:9000/live/223.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png" group-title="国际频道（台湾）",CCTV娱乐
-http://61.58.60.247:9000/live/224.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CGTN.png" group-title="国际频道（台湾）",CGTN
-http://61.58.60.247:9000/live/222.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CGTN-jl.png" group-title="国际频道（台湾）",CGTN Documentary
-http://61.58.60.247:9000/live/221.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",安徽国际
-http://61.58.60.247:9000/live/237.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",安徽卫视
-http://61.58.60.247:9000/live/248.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",北京国际
-http://61.58.60.247:9000/live/226.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",东方国际
-http://61.58.60.247:9000/live/227.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",东方卫视
-http://61.58.60.247:9000/live/249.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",广东南方卫视
-http://61.58.60.247:9000/live/228.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",广东卫视
-http://61.58.60.247:9000/live/252.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",澳亚卫视
-http://61.58.60.247:9000/live/256.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",海峡卫视
-http://61.58.60.247:9000/live/230.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",河南国际
-http://61.58.60.247:9000/live/240.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",湖北卫视
-http://61.58.60.247:9000/live/250.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",湖南卫视
-http://61.58.60.247:9000/live/253.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",嘉义台-1
-http://61.58.60.247:9000/live/3.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",嘉义台-2
-http://61.58.60.247:9000/live/84.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",江苏国际
-http://61.58.60.247:9000/live/229.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",江苏卫视
-http://61.58.60.247:9000/live/251.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",厦门卫视
-http://61.58.60.247:9000/live/234.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",山东国际
-http://61.58.60.247:9000/live/239.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",深圳卫视
-http://61.58.60.247:9000/live/235.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",世新新闻
-http://61.58.60.247:9000/live/85.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",世新综合
-http://61.58.60.247:9000/live/49.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",天津国际
-http://61.58.60.247:9000/live/238.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",天津卫视
-http://61.58.60.247:9000/live/247.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",亚太第一卫视
-http://61.58.60.247:9000/live/254.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",云南国际
-http://61.58.60.247:9000/live/241.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",浙江国际
-http://61.58.60.247:9000/live/233.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",中国电影
-http://61.58.60.247:9000/live/225.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="国际频道（台湾）",中国黄河
-http://61.58.60.247:9000/live/232.m3u8
-#EXTINF:0 tvg-logo="" group-title="国际频道（台湾）",重庆国际
-http://61.58.60.247:9000/live/236.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hunanjingshi.png",group-title="地方频道",湖南经视
 http://ottlivetimeal.mgtv.com/nn_live/nn_x64/mgtvlive/HNJSHD.ts
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/changshazhengfa.png",group-title="地方频道",长沙政法
@@ -701,7 +631,7 @@ http://media.fantv.hk/m3u8/archive/channel2.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvb8a.png",group-title="港台境外",TVB8
 http://tvbilive14-i.akamaihd.net/hls/live/496344/CTVB8/index.m3u8 
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/national.png",group-title="港台境外",国家地理
-http://hellotv-iptv.uwp.ac.cn/live/natlgeo.m3u8
+http://www.iptv.wang/LIVE/LTV.php?id=40
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="港台境外",RHK-31
 http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-32a.png",group-title="港台境外",RHK-32
@@ -718,32 +648,134 @@ http://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/prog_index.m3u8
 http://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/vtv.png",group-title="港台境外",V频道
 http://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianxinwena.png",group-title="港台境外",中天新闻HD
+http://www.iptv.wang/LIVE/LTV.php?id=24
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="港台境外",東森新聞HD
+http://www.iptv.wang/LIVE/LTV.php?id=23
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanlixingwen.png",group-title="港台境外",三立LIVE新聞HD
+http://www.iptv.wang/LIVE/LTV.php?id=22
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="港台境外",民视HD
+http://www.iptv.wang/LIVE/LTV.php?id=2
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/taishi.png",group-title="港台境外",台视HD
+http://www.iptv.wang/LIVE/LTV.php?id=3
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongshi.png",group-title="港台境外",中视HD
+http://www.iptv.wang/LIVE/LTV.php?id=4
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huashi.png",group-title="港台境外",华视HD
+http://www.iptv.wang/LIVE/LTV.php?id=5
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",公视HD
+http://www.iptv.wang/LIVE/LTV.php?id=6
+#EXTINF:0 tvg-logo="" group-title="港台境外",公视 2
+http://www.iptv.wang/LIVE/LTV.php?id=7
+#EXTINF:0 tvg-logo="" group-title="港台境外",公视 3
+http://www.iptv.wang/LIVE/LTV.php?id=8
+#EXTINF:0 tvg-logo="" group-title="港台境外",大爱
+http://www.iptv.wang/LIVE/LTV.php?id=9
+#EXTINF:0 tvg-logo="" group-title="港台境外",原住民电视台
+http://www.iptv.wang/LIVE/LTV.php?id=10
+#EXTINF:0 tvg-logo="" group-title="港台境外",客家电视台
+http://www.iptv.wang/LIVE/LTV.php?id=11
+#EXTINF:0 tvg-logo="" group-title="港台境外",民视第一台
+http://www.iptv.wang/LIVE/LTV.php?id=12
+#EXTINF:0 tvg-logo="" group-title="港台境外",民视台湾台
+http://www.iptv.wang/LIVE/LTV.php?id=13
+#EXTINF:0 tvg-logo="" group-title="港台境外",华视新闻
+http://www.iptv.wang/LIVE/LTV.php?id=16
+#EXTINF:0 tvg-logo="" group-title="港台境外",年代新闻台
+http://www.iptv.wang/LIVE/LTV.php?id=17
+#EXTINF:0 tvg-logo="" group-title="港台境外",非凡新闻台
+http://www.iptv.wang/LIVE/LTV.php?id=18
+#EXTINF:0 tvg-logo="" group-title="港台境外",壹电视新闻台
+http://www.iptv.wang/LIVE/LTV.php?id=19
+#EXTINF:0 tvg-logo="" group-title="港台境外",民视新闻台
+http://www.iptv.wang/LIVE/LTV.php?id=21
+#EXTINF:0 tvg-logo="" group-title="港台境外",TVBS新闻台
+http://www.iptv.wang/LIVE/LTV.php?id=25
+#EXTINF:0 tvg-logo="" group-title="港台境外",台视财经台
+http://www.iptv.wang/LIVE/LTV.php?id=26
+#EXTINF:0 tvg-logo="" group-title="港台境外",台视新闻
+http://www.iptv.wang/LIVE/LTV.php?id=27
+#EXTINF:0 tvg-logo="" group-title="港台境外",中视新闻
+http://www.iptv.wang/LIVE/LTV.php?id=28
+#EXTINF:0 tvg-logo="" group-title="港台境外",Boomerang 卡通台
+http://www.iptv.wang/LIVE/LTV.php?id=32
+#EXTINF:0 tvg-logo="" group-title="港台境外",ANIMAX
+http://www.iptv.wang/LIVE/LTV.php?id=33
+#EXTINF:0 tvg-logo="" group-title="港台境外",Discovery
+http://www.iptv.wang/LIVE/LTV.php?id=34
+#EXTINF:0 tvg-logo="" group-title="港台境外",动物星球
+http://www.iptv.wang/LIVE/LTV.php?id=35
+#EXTINF:0 tvg-logo="" group-title="港台境外",亚洲美食
+http://www.iptv.wang/LIVE/LTV.php?id=36
+#EXTINF:0 tvg-logo="" group-title="港台境外",HGTV
+http://www.iptv.wang/LIVE/LTV.php?id=37
+#EXTINF:0 tvg-logo="" group-title="港台境外",TLC
+http://www.iptv.wang/LIVE/LTV.php?id=38
+#EXTINF:0 tvg-logo="" group-title="港台境外",DMAX
+http://www.iptv.wang/LIVE/LTV.php?id=39
+#EXTINF:0 tvg-logo="" group-title="港台境外",美食网
+http://www.iptv.wang/LIVE/LTV.php?id=41
+#EXTINF:0 tvg-logo="" group-title="港台境外",EVE
+http://www.iptv.wang/LIVE/LTV.php?id=42
+#EXTINF:0 tvg-logo="" group-title="港台境外",Discovery亚洲
+http://www.iptv.wang/LIVE/LTV.php?id=43
+#EXTINF:0 tvg-logo="" group-title="港台境外",旅游频道
+http://www.iptv.wang/LIVE/LTV.php?id=44
+#EXTINF:0 tvg-logo="" group-title="港台境外",GTV 娱乐台
+http://www.iptv.wang/LIVE/LTV.php?id=46
+#EXTINF:0 tvg-logo="" group-title="港台境外",GTV八大第一台
+http://www.iptv.wang/LIVE/LTV.php?id=47
+#EXTINF:0 tvg-logo="" group-title="港台境外",GTV八大综合台
+http://www.iptv.wang/LIVE/LTV.php?id=48
+#EXTINF:0 tvg-logo="" group-title="港台境外",GTV戏剧台
+http://www.iptv.wang/LIVE/LTV.php?id=49
+#EXTINF:0 tvg-logo="" group-title="港台境外",三立台湾台
+http://www.iptv.wang/LIVE/LTV.php?id=50
+#EXTINF:0 tvg-logo="" group-title="港台境外",高点综合 HD
+http://www.iptv.wang/LIVE/LTV.php?id=51
+#EXTINF:0 tvg-logo="" group-title="港台境外",纬来日本
+http://www.iptv.wang/LIVE/LTV.php?id=52
+#EXTINF:0 tvg-logo="" group-title="港台境外",龙华偶像
+http://www.iptv.wang/LIVE/LTV.php?id=53
+#EXTINF:0 tvg-logo="" group-title="港台境外",中天综合台
+http://www.iptv.wang/LIVE/LTV.php?id=54
+#EXTINF:0 tvg-logo="" group-title="港台境外",中天娱乐台
+http://www.iptv.wang/LIVE/LTV.php?id=55
+#EXTINF:0 tvg-logo="" group-title="港台境外",KMTV
+http://www.iptv.wang/LIVE/LTV.php?id=56
+#EXTINF:0 tvg-logo="" group-title="港台境外",国兴卫视
+http://www.iptv.wang/LIVE/LTV.php?id=57
+#EXTINF:0 tvg-logo="" group-title="港台境外",中视经典台
+http://www.iptv.wang/LIVE/LTV.php?id=58
+#EXTINF:0 tvg-logo="" group-title="港台境外",中视菁采台
+http://www.iptv.wang/LIVE/LTV.php?id=59
+#EXTINF:0 tvg-logo="" group-title="港台境外",台视综合台
+http://www.iptv.wang/LIVE/LTV.php?id=60
+#EXTINF:0 tvg-logo="" group-title="港台境外",华纳 TV
+http://www.iptv.wang/LIVE/LTV.php?id=70
+#EXTINF:0 tvg-logo="" group-title="港台境外",壹电视电影台
+http://www.iptv.wang/LIVE/LTV.php?id=71
+#EXTINF:0 tvg-logo="" group-title="港台境外",好莱坞电影
+http://www.iptv.wang/LIVE/LTV.php?id=72
+#EXTINF:0 tvg-logo="" group-title="港台境外",星空电影台
+http://www.iptv.wang/LIVE/LTV.php?id=73
+#EXTINF:0 tvg-logo="" group-title="港台境外",LS TIME龙祥电影
+http://www.iptv.wang/LIVE/LTV.php?id=74
+#EXTINF:0 tvg-logo="" group-title="港台境外",AXN
+http://www.iptv.wang/LIVE/LTV.php?id=75
+#EXTINF:0 tvg-logo="" group-title="港台境外",FOX HD
+http://www.iptv.wang/LIVE/LTV.php?id=76
+#EXTINF:0 tvg-logo="" group-title="港台境外",FOX Sport3 HD
+http://www.iptv.wang/LIVE/LTV.php?id=77
+#EXTINF:0 tvg-logo="" group-title="港台境外",爱尔达体育
+http://www.iptv.wang/LIVE/LTV.php?id=78
+#EXTINF:0 tvg-logo="" group-title="港台境外",Z 频道
+http://www.iptv.wang/LIVE/LTV.php?id=79
+#EXTINF:0 tvg-logo="" group-title="港台境外",纬来体育
+http://www.iptv.wang/LIVE/LTV.php?id=80
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aomengaoqing.png",group-title="港台境外",澳视高清
 http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/media_w2145388172.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aomenzixun.png",group-title="港台境外",澳视资讯
 http://live3.tdm.com.mo:1935/ch5/info_ch5.live/media_w1761605729.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aomenMacau.png",group-title="港台境外",澳视卫星
-http://live3.tdm.com.mo:1935/ch3/ch3.live/media_w30461384.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aomenweixing.png",group-title="港台境外",澳视澳门
-http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aoyaweishi.png",group-title="港台境外",澳亚卫视
-http://live.mastvnet.com/n1rtlHG/500/live.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/lianhuaweishi.png",group-title="港台境外",莲花卫视
-http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/daai.png",group-title="港台境外",大爱电视
-http://cdn-src2.waaarp.wscdns.com/live-transcode/_definst_/smil:daai/tv01.smil/chunklist_w21023455_b800000.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/skynews.png",group-title="港台境外",天空新闻
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yccj.png",group-title="港台境外",耀才财经
-rtmp://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/fenghuangweishihd.png" group-title="港台境外",中天新闻
-http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",ABU HD
-http://adtv.ercdn.net/adnatgeo/adnatgeo_720p.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",第一财经
-http://azure-kknews.live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M/xwzh/M_key5BA4D0B27F09F3D61DEF864FA12F1C8DC157C22748153B54D758192A87A7F283_/live/dycjhd/2300000/d1.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",第一财经
-http://live.uwp.ac.cn/bstkan.m3u8?id=dycjhd&hd=2&nowtime=1517378353&key=A76C5F720EF463CB6F693536CC0773621E8BB5ED
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",澳门资讯
 http://live1.tdm.com.mo/ch5/info_ch5.live/chunklist_w1005707773.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",澳门资讯
@@ -766,44 +798,6 @@ http://live1.tdm.com.mo/ch1/_definst_//ch1.live/chunklist_w2134499287.m3u8
 http://live1.tdm.com.mo/ch1/_definst_//ch1.live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",澳视葡语
 http://live1.tdm.com.mo/ch2/_definst_//ch2.live/chunklist_w1093271552.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",澳视葡语
-http://live1.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",星河频道
-http://pull6.inke.cn/live/1516956950737170.flv
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",东方Knews24新闻高清
-http://hls.live.kksmg.com/live/live24h/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",香港衛視4
-http://web-play.pptv.com/web-m3u8-300366.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",韩國中央
-http://122.202.129.136:1935/live/ch5/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",韩中文
-http://123.108.164.112/etv1/phd1016/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",健康衛視
-http://live.jkwshk.tv/AppName/StreamName.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",韩EBS2
-http://ebsonair.ebs.co.kr:1935/ebs2familypc/familypc1m/chunklist_w388952794.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",环球东方
-http://live.italkdd.com/ts027/channel_035.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",经典电影
-http://rotation.vod.zlive.cc/channel/1200.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",香港20周年经典电影
-http://rotation.vod.zlive.cc/channel/1086.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",NOW华剧
-http://live.italkdd.com/ts027/channel_034.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",NOW综合
-http://live.italkdd.com/ts027/channel_033.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",时代影像电影台
-http://rotation.vod.zlive.cc/channel/1258.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",影视HD
-http://rotation.vod.zlive.cc/channel/1256.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",动作电影HD
-http://rotation.vod.zlive.cc/channel/1258.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",电影HD
-http://rotation.vod.zlive.cc/channel/1260.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",新-新传媒
-http://tglsuriah-i.akamaihd.net/hls/live/566540/ctv/02.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",新-OKTO
-http://tgloktoh-i.akamaihd.net/hls/live/566482/ctv/02.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",澳視葡語
 http://live4.tdm.com.mo:80/ch2/_definst_//ch2.live/playlist.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",澳视卫星
@@ -812,108 +806,36 @@ http://live3.tdm.com.mo:1935/ch3/ch3.live/media_w30461384.m3u8
 http://live3.tdm.com.mo:1935/ch5/info_ch5.live/media_w1761605729.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",澳门莲花
 rtmp://3xhtut.live1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",澳视葡语
+http://live1.tdm.com.mo/ch2/_definst_//ch2.live/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aomenMacau.png",group-title="港台境外",澳视卫星
+http://live3.tdm.com.mo:1935/ch3/ch3.live/media_w30461384.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aomenweixing.png",group-title="港台境外",澳视澳门
+http://live4.tdm.com.mo:80/ch1/_definst_//ch1.live/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aoyaweishi.png",group-title="港台境外",澳亚卫视
+http://live.mastvnet.com/n1rtlHG/500/live.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/lianhuaweishi.png",group-title="港台境外",莲花卫视
+http://3xhtut.hls1.z1.pili.qiniucdn.com/lotustv/5562e9e4d409d24c9600075c.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/daai.png",group-title="港台境外",大爱电视
+http://cdn-src2.waaarp.wscdns.com/live-transcode/_definst_/smil:daai/tv01.smil/chunklist_w21023455_b800000.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/skynews.png",group-title="港台境外",天空新闻
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yccj.png",group-title="港台境外",耀才财经
+rtmp://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",东方Knews24新闻高清
+http://hls.live.kksmg.com/live/live24h/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",香港衛視
+http://web-play.pptv.com/web-m3u8-300366.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",韩國中央
+http://122.202.129.136:1935/live/ch5/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",韩中文
+http://123.108.164.112/etv1/phd1016/playlist.m3u8
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",健康衛視
+http://live.jkwshk.tv/AppName/StreamName.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",東森財經新聞
 rtmp://wv3.tp33.net/sat/tv571
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",非凡新聞
 http://60.199.188.65/HLS/WG_USTV-N/index.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",TVBS新闻HD
-http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",TVBS新闻HD
-http://edge01p.friday.tw/live/fet005/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",美国中文电视台
-http://live.italkdd.com/ts142/channel_068.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",时代影像电影台
-http://rotation.vod.zlive.cc/channel/1258.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png" group-title="港台境外",东森美洲
-http://live.italkdd.com/ts137/channel_080.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",TVBS新闻HD
-http://edge01p.friday.tw/live/fet005/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",民视新闻台
-https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",三立台湾台
-http://live.italkdd.com/ts137/channel_082.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",中天新闻
-http://60.199.188.65/HLS/WG_ETTV-N/index.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",台湾东森新闻
-http://edge01p.friday.tw/live/fet003/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",三立台湾台
-http://live.italkdd.com/ts137/channel_082.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",台视新闻
-http://live.italkdd.com/ts142/channel_065.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",台湾东森新闻
-http://edge01p.friday.tw/live/fet003/chunklist.m3u 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",三立台湾台
-http://live.italkdd.com/ts137/channel_082.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",台视新闻
-http://live.italkdd.com/ts142/channel_065.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",华视
-http://live.italkdd.com/ts142/channel_064.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",香港电影
-http://rotation.vod.zlive.cc/channel/1086.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",亚洲旅游台
-http://live.italkdd.com/ts027/channel_036.m3u8 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",台视新闻
-http://live.italkdd.com/ts142/channel_065.m3u8 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",东森美洲
-http://live.italkdd.com/ts137/channel_080.m3u8 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",东森美洲
-http://live.italkdd.com/ts137/channel_081.m3u8 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",三立台湾台
-http://live.italkdd.com/ts137/channel_082.m3u8 
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",澳门莲花
-http://live4.tdm.com.mo/ch3/_definst_//ch3.live/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",澳门莲花
-http://live4.tdm.com.mo/ch3/ch3.live/chunklist_w1998934325.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",澳门卫视
-http://live.mastvnet.com/iVx460D/live.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",东方Knews24新闻高清
-http://hls.live.kksmg.com/live/live24h/playlist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",壹新闻
-http://d2e6xlgy8sg8ji.cloudfront ... atv2/chunklist.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",JASMIN TV
-http://109.71.162.112:1935/live/ ... ega_de_Guerras.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/" group-title="港台境外",FO经典电影
-http://hlstx.plu.cn/onlive/7d1ef819acfe49298e03936af63bd78e.m3u8
-#EXTINF:0 tvg-logo="" group-title="港台境外",AFC
-http://61.58.60.247:9000/live/176.m3u8
-#EXTINF:0 tvg-logo="" group-title="港台境外",Channel 2
-http://61.58.60.247:9000/live/2.m3u8
-#EXTINF:0 tvg-logo="" group-title="港台境外",Channel 88
-http://61.58.60.247:9000/live/88.m3u8
-#EXTINF:0 tvg-logo="" group-title="港台境外",Channel 180
-http://61.58.60.247:9000/live/180.m3u8
-#EXTINF:0 tvg-logo="" group-title="港台境外",Channel 701
-http://61.58.60.247:9000/live/701.m3u8
-#EXTINF:0 tvg-logo="" group-title="港台境外",Channel 708
-http://61.58.60.247:9000/live/708.m3u8
-#EXTINF:0 tvg-logo="" group-title="港台境外",Channel 709
-http://61.58.60.247:9000/live/709.m3u8
-#EXTINF:0 tvg-logo="" group-title="港台境外",国会频道-1
-http://61.58.60.247:9000/live/123.m3u8
-#EXTINF:0 tvg-logo="" group-title="港台境外",国会频道-2
-http://61.58.60.247:9000/live/124.m3u8
-#EXTINF:0 tvg-logo="",group-title="港台境外",本港HKS
-http://live.hkstv.hk.lxdns.com/live/hks/playlist.m3u8
-#EXTINF:0 tvg-logo="",group-title="港台境外",本港HKS②
-rtmp://live.hkstv.hk.lxdns.com:1935/live/hks
-#EXTINF:0 tvg-logo="",group-title="港台境外",香港财经
-rtmp://202.69.69.180:443/webcast/bshdlive-pc
-#EXTINF:0 tvg-logo="",group-title="港台境外",宏观卫视
-http://mobile.ccdntech.com/live/_definst_/vod62_Live/live1/playlist.m3u8
-#EXTINF:0 tvg-logo="",group-title="港台境外",壹新闻
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv1/chunklist.m3u8
-#EXTINF:0 tvg-logo="",group-title="港台境外",新加坡HOT913
-http://sph.rastream.com/913fm?type=.flv&_=0.32037638779729605
-#EXTINF:0 tvg-logo="",group-title="港台境外",新加坡UFM1003
-http://sph.rastream.com/1003fm?type=.flv&_=0.6157337832264602
-#EXTINF:0 tvg-logo="",group-title="港台境外",新【三国】
-http://dlhls.cdn.zhanqi.tv/zqlive/49427_jmACJ.m3u8
-#EXTINF:0 tvg-logo="",group-title="港台境外",星卫电影台
-http://dlhls.cdn.zhanqi.tv/zqlive/35349_iXsXw.m3u8
-#EXTINF:0 tvg-logo="",group-title="港台境外",台灣|[49]壹新聞
-http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/playlist_w.m3u8
-#EXTINF:0 tvg-logo="",group-title="港台境外",中经电视
-rtmp://116.213.200.53/tslsChannelLive/PCG0DuD/live
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianriben.png" group-title="港台境外",靖天日本台
 http://61.58.60.247:9000/live/243.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianxiju.png" group-title="港台境外",靖天戏剧台
@@ -924,258 +846,6 @@ http://61.58.60.247:9000/live/242.m3u8
 http://61.58.60.247:9000/live/244.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianyule.png" group-title="港台境外",靖天电影台
 http://61.58.60.247:9000/live/245.m3u8
-#EXTINF:0 tvg-logo="" group-title="港台境外",CNEX
-http://61.58.60.247:9000/live/257.m3u8
-#EXTINF:0 tvg-logo="" group-title="港台境外",DIVA
-http://61.58.60.247:9000/live/178.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",天天向上
-http://47.95.172.168/channel/1083.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",快乐大本营
-http://47.95.172.168/channel/1084.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",喜羊羊
-http://47.95.172.168/channel/1088.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",猪猪侠
-http://47.95.172.168/channel/1089.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",哆啦A梦
-http://47.95.172.168/channel/1092.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",蜡笔小新
-http://47.95.172.168/channel/1093.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",影视原声
-http://47.95.172.168/channel/1095.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",明星潮流
-http://47.95.172.168/channel/1105.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",英雄联盟
-http://47.95.172.168/channel/1106.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",日韩动漫
-http://47.95.172.168/channel/1184.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",欧美动漫
-http://47.95.172.168/channel/1185.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",古装宫斗
-http://47.95.172.168/channel/1190.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",轻松喜剧
-http://47.95.172.168/channel/1200.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",悬疑犯罪
-http://47.95.172.168/channel/1201.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",动作电影
-http://47.95.172.168/channel/1202.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",谍战剧
-http://47.95.172.168/channel/1215.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",国漫专区
-http://47.95.172.168/channel/1216.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",仙侠剧场
-http://47.95.172.168/channel/1221.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",休闲垂钓
-http://47.95.172.168/channel/1225.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",汽车视界
-http://47.95.172.168/channel/1227.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",美课美妆
-http://47.95.172.168/channel/1230.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",湖南卫视
-http://47.95.172.168/channel/1233.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",芒果TV自制
-http://47.95.172.168/channel/1234.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",热播综艺
-http://47.95.172.168/channel/1242.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",熊出没
-http://47.95.172.168/channel/1243.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",快乐购
-http://47.95.172.168/channel/1244.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",新剧速递
-http://47.95.172.168/channel/1256.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",最新院线
-http://47.95.172.168/channel/1258.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",成龙电影全集
-http://47.95.172.168/channel/1259.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",周星驰电影全集
-http://47.95.172.168/channel/1260.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",超级飞侠
-http://47.95.172.168/channel/1262.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",新番连载
-http://47.95.172.168/channel/1266.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",快手早餐
-http://47.95.172.168/channel/1426.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",50款爆好吃的面
-http://47.95.172.168/channel/1428.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",樱桃小丸子
-http://47.95.172.168/channel/1466.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",宝宝巴士儿歌
-http://47.95.172.168/channel/1524.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",爆笑虫子
-http://47.95.172.168/channel/1525.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",小猪佩奇
-http://47.95.172.168/channel/1526.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",明星大侦探
-http://47.95.172.168/channel/1546.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",向往的生活
-http://47.95.172.168/channel/1552.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",《我是歌手》纯享版
-http://47.95.172.168/channel/1565.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",新还珠格格
-http://47.95.172.168/channel/1569.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",称霸广场舞必备神曲
-http://47.95.172.168/channel/1576.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",宋小宝
-http://47.95.172.168/channel/1578.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",春晚小品集锦
-http://47.95.172.168/channel/1611.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",极限挑战
-http://47.95.172.168/channel/1612.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",凤凰传奇
-http://47.95.172.168/channel/1616.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",汪汪队立大功
-http://47.95.172.168/channel/1617.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",寻情记
-http://47.95.172.168/channel/1652.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",因为遇见你
-http://47.95.172.168/channel/1653.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",有一种情歌叫薛之谦
-http://47.95.172.168/channel/1654.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",人民的名义
-http://47.95.172.168/channel/1741.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",花儿与少年
-http://47.95.172.168/channel/1795.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",贾玲
-http://47.95.172.168/channel/1804.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",速度与激情全系列
-http://47.95.172.168/channel/1811.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",2017变形计
-http://47.95.172.168/channel/1812.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",贝瓦儿歌
-http://47.95.172.168/channel/1820.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",兔小贝儿歌
-http://47.95.172.168/channel/1821.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",花千骨
-http://47.95.172.168/channel/1838.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",一人一首经典歌曲
-http://47.95.172.168/channel/1843.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",本周流行菜谱
-http://47.95.172.168/channel/1846.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",我想和你唱
-http://47.95.172.168/channel/1860.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",王者荣耀
-http://47.95.172.168/channel/1869.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",芭比公主系列
-http://47.95.172.168/channel/1880.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",熊熊乐园
-http://47.95.172.168/channel/1901.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",儿歌300首
-http://47.95.172.168/channel/1911.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",楚乔传
-http://47.95.172.168/channel/1913.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",恐怖电影
-http://47.95.172.168/channel/1918.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",岳云鹏
-http://47.95.172.168/channel/1926.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",徐老师的粉丝看这里
-http://47.95.172.168/channel/1935.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",Here！乐高世界入口
-http://47.95.172.168/channel/1936.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",疯狂的麦咭
-http://47.95.172.168/channel/1937.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",狐妖小红娘
-http://47.95.172.168/channel/1938.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",七十二层奇楼
-http://47.95.172.168/channel/1940.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",特种兵之火凤凰
-http://47.95.172.168/channel/1951.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",哇！这里有好多玩具
-http://47.95.172.168/channel/1952.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",我的世界
-http://47.95.172.168/channel/1993.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",美少女带你打怪兽
-http://47.95.172.168/channel/1995.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",你不知道的中国美食
-http://47.95.172.168/channel/2008.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",中餐厅
-http://47.95.172.168/channel/2020.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",青春校园剧
-http://47.95.172.168/channel/2023.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",我们来了 第二季
-http://47.95.172.168/channel/2046.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",惊喜价到
-http://47.95.172.168/channel/2050.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",办公室小野
-http://47.95.172.168/channel/2057.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",浪花一朵朵
-http://47.95.172.168/channel/2063.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",空中超市
-http://47.95.172.168/channel/2081.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",经典特工电影
-http://47.95.172.168/channel/2085.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",爸爸去哪儿第五季
-http://47.95.172.168/channel/2118.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",热血军旅剧
-http://47.95.172.168/channel/2154.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",画江湖系列
-http://47.95.172.168/channel/2158.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",中国惊奇先生
-http://47.95.172.168/channel/2159.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",十部高评分动漫大电影
-http://47.95.172.168/channel/2174.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",亲爱的客栈
-http://47.95.172.168/channel/2180.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",大话西游
-http://47.95.172.168/channel/2181.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",今日必看资讯
-http://47.95.172.168/channel/2182.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",社会热点
-http://47.95.172.168/channel/2183.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",微在涨姿势
-http://47.95.172.168/channel/2190.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",家装指南
-http://47.95.172.168/channel/2211.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",麻辣变形计
-http://47.95.172.168/channel/2215.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",蒙面唱将金曲捞
-http://47.95.172.168/channel/2221.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",十五部超搞笑动漫
-http://47.95.172.168/channel/2223.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",启蒙音乐剧
-http://47.95.172.168/channel/2230.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",奇兵神犬
-http://47.95.172.168/channel/2244.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",香港经典动作片
-http://47.95.172.168/channel/2259.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",50道惹味川菜
-http://47.95.172.168/channel/2263.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",喜剧总动员
-http://47.95.172.168/channel/2270.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",天籁之战
-http://47.95.172.168/channel/2272.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",贝乐虎儿歌
-http://47.95.172.168/channel/2274.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",开心剧乐部
-http://47.95.172.168/channel/2275.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",大胃美少女合集
-http://47.95.172.168/channel/2277.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",Papi酱团队创意视频
-http://47.95.172.168/channel/2278.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",校园动漫大全
-http://47.95.172.168/channel/2280.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",哄娃必备动画
-http://47.95.172.168/channel/2281.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",科幻电影
-http://47.95.172.168/channel/2284.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",反腐纪录片揭落马细节
-http://47.95.172.168/channel/2285.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",一分钟性知识
-http://47.95.172.168/channel/2288.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",全球最性感女人
-http://47.95.172.168/channel/2289.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",日食记
-http://47.95.172.168/channel/2296.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",早教必备儿歌
-http://47.95.172.168/channel/2301.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",超萌！适合1-4岁宝宝的动漫
-http://47.95.172.168/channel/2302.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",极光之恋
-http://47.95.172.168/channel/2331.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",倩女幽魂系列
-http://47.95.172.168/channel/2335.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",爆笑恶作剧
-http://47.95.172.168/channel/2345.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",萌仔萌萌宅
-http://47.95.172.168/channel/2361.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",爱情公寓
 http://hlstx.plu.cn/onlive/bd8cd5ed47ad491cb557325b198705d6_550.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",恐怖片女王
@@ -1240,24 +910,6 @@ http://183.59.185.70:30001/PLTV/88888905/224/3221227997/100001000000000600000000
 http://183.59.185.70:30001/PLTV/88888905/224/3221228037/10000100000000060000000006912177_0.smil
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xinshijuec.png",group-title="精彩点播",新视觉
 http://222.37.8.76:13164/playurl?playtype=live&protocol=http&accesstoken=G214BC3E7V11307D1TC05A0AJBD5302ABM7867DF14I9F9DD772&&playtoken=ABCDEFGH&programid=4200000150
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huashi.png",group-title="YouTube",华视HD
-http://iptv.wangjiuling.com/youtube.php?id=WAGIkirjfCw
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianxinwena.png",group-title="YouTube",中天新闻HD
-http://iptv.wangjiuling.com/youtube.php?id=wUPPkSANpyo
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="YouTube",東森新聞HD
-http://iptv.wangjiuling.com/youtube.php?id=ZADZPdUbRzU
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="YouTube",東森经济新聞HD
-http://iptv.wangjiuling.com/youtube.php?id=MChPrGnUW7Y
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanlixingwen.png",group-title="YouTube",三立LIVE新聞HD
-http://iptv.wangjiuling.com/youtube.php?id=4ZVUmEUFwaY
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="YouTube",民视HD
-http://iptv.wangjiuling.com/youtube.php?id=XxJKnDLYZz4
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/taishi.png",group-title="YouTube",台视HD
-http://iptv.wangjiuling.com/youtube.php?id=yk2CUjbyyQY
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongshi.png",group-title="YouTube",中视HD
-http://iptv.wangjiuling.com/youtube.php?id=KXeFVTsFrCs
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="YouTube",最正新聞直播
-http://iptv.wangjiuling.com/youtube.php?id=i2GWqKadAMs
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png" group-title="好消息频道", 好消息综合台
 http://live.streamingfast.net/osmflivech1.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/goodtv.png" group-title="好消息频道", 好消息真理台
