@@ -489,9 +489,9 @@ http://slave.pygdzhcs.com:13164/playurl?playtype=live&accesstoken=R59B64E0CU3081
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbfeicui.png",group-title="港台境外",TVB翡翠
 http://pulllive-al.wasu.cn/live/jade.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbj2.png",group-title="港台境外",TVB-J2
-http://zbplay.tcgqxx.com/qxdq/5acd8943e99cf.m3u8
+http://s-423975.gotocdn.com:6330/v/jade.php
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbPearl.png",group-title="港台境外",TVB-Pearl（明珠台）
-http://acm.gg/pearl.m3u8
+http://s-423975.gotocdn.com:6330/v/pearl.php
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbyule.png",group-title="港台境外",tvb娱乐台
 http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvbhudongxinwena.png",group-title="港台境外",tvb无线新闻台
