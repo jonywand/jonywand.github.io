@@ -30,7 +30,7 @@ http://iptv.wangjiuling.com/1.php?aid=ys&bid=14
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=15
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-15a.png",group-title="央视",CCTV15高清
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=28
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="央视",CCTV-NEWS
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cctv-news.png",group-title="央视",CCTV-NEWS
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=29
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-gef.png",group-title="央视",CCTV高尔夫网球
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=30
@@ -54,7 +54,7 @@ http://iptv.wangjiuling.com/1.php?aid=ys&bid=38
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=39
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hunanweishi.png",group-title="卫视频道",湖南卫视HD
 http://iptv.wangjiuling.com/1.php?aid=ws&bid=1
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/iangsuweishi.png",group-title="卫视频道",江苏卫视HD
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jiangsuweishi.png",group-title="卫视频道",江苏卫视HD
 http://iptv.wangjiuling.com/1.php?aid=ws&bid=2
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhejiangweishi.png",group-title="卫视频道",浙江卫视HD
 http://iptv.wangjiuling.com/1.php?aid=ws&bid=3
@@ -106,7 +106,7 @@ http://iptv.wangjiuling.com/1.php?aid=ws&bid=33
 http://iptv.wangjiuling.com/1.php?aid=ws&bid=36
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xiamenweishi.png",group-title="卫视频道",厦门卫视HD
 http://iptv.wangjiuling.com/1.php?aid=ws&bid=38
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="卫视频道",新疆卫视
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/xingjiangweishi.png",group-title="卫视频道",新疆卫视
 http://iptv.wangjiuling.com/1.php?aid=ws&bid=40
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/nanfangweishi.png",group-title="卫视频道",南方卫视
 http://iptv.wangjiuling.com/1.php?aid=ws&bid=45
@@ -128,9 +128,9 @@ http://wstv.cntv.myalicdn.com/cntvlive/qinghaimd.m3u8?auth=cntv0001e2W3H6TmOtg9/
 http://wstv.cntv.myalicdn.com/cntvlive/shan1ximd.m3u8?auth=cntv00011my0pK9jYpZi/cEs51jtu6X5O220CyNn0Vmj3b+KOvmzqJV1R9uAYgQLEHUG4YymTPHqp5f95qVbwWulr7T4tQ==
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/shanxiweishi.png",group-title="卫视频道",陕西卫视
 http://wstv.cntv.myalicdn.com/cntvlive/shan3ximd.m3u8?auth=cntv00016RmeH5/p1r5ci7UORH/+figdq0JKyIdNm8bdmjR+MDmAQVDqIEdddH4O/m5n1Ik3GsYg7Pk+w+Wk6fAySeyt8Q==
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="卫视频道",延边卫视
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yanbianweishi.png",group-title="卫视频道",延边卫视
 http://iptv.wangjiuling.com/1.php?aid=ws&bid=52
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="卫视频道",康巴卫视
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/kangbaweishi.png",group-title="卫视频道",康巴卫视
 http://iptv.wangjiuling.com/1.php?aid=ws&bid=53
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/beijingkaku.png",group-title="卫视频道",BTV卡酷少儿
 http://ottlivetimeal.mgtv.com/nn_live/nn_x64/mgtvlive/KKDH.ts
