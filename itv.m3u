@@ -599,15 +599,15 @@ rtmp://wv3.tp33.net/sat/tv571
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",非凡新聞
 http://60.199.188.65/HLS/WG_USTV-N/index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianriben.png" group-title="港台境外",靖天日本台
-http://61.58.60.247:9000/live/243.m3u8
+http://iptv.wangjiuling.com/1.php?aid=gtitv&bid=133
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianxiju.png" group-title="港台境外",靖天戏剧台
-http://61.58.60.247:9000/live/246.m3u8
+http://iptv.wangjiuling.com/1.php?aid=gtitv&bid=135
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianzonghe.png" group-title="港台境外",靖天综合台
-http://61.58.60.247:9000/live/242.m3u8
+http://iptv.wangjiuling.com/1.php?aid=gtitv&bid=139
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtiankatong.png" group-title="港台境外",靖天映画台
-http://61.58.60.247:9000/live/244.m3u8
+http://iptv.wangjiuling.com/1.php?aid=gtitv&bid=142
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/jingtianyule.png" group-title="港台境外",靖天电影台
-http://61.58.60.247:9000/live/245.m3u8
+http://iptv.wangjiuling.com/1.php?aid=gtitv&bid=137
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",爱情公寓
 http://hlstx.plu.cn/onlive/bd8cd5ed47ad491cb557325b198705d6_550.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png",group-title="精彩点播",恐怖片女王
