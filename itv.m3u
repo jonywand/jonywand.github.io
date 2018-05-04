@@ -28,29 +28,29 @@ http://iptv.wangjiuling.com/1.php?aid=ys&bid=13
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=14
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png",group-title="央视",CCTV14高清
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=15
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="央视",CCTV15高清
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-15a.png",group-title="央视",CCTV15高清
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=28
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="央视",CCTV-NEWS
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="央视",CCTV-NEWS
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=29
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="央视",CCTV高尔夫网球
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-gef.png",group-title="央视",CCTV高尔夫网球
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=30
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="央视",CCTV风云音乐
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-fyyy.png",group-title="央视",CCTV风云音乐
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=31
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="央视",CCTV电视指南
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-dszn.png",group-title="央视",CCTV电视指南
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=32
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="央视",CCTV世界地理
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-sjdl.png",group-title="央视",CCTV世界地理
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=33
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="央视",CCTV风云足球
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-fyzq.png",group-title="央视",CCTV风云足球
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=34
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="央视",CCTV怀旧剧场
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-hjjc.png",group-title="央视",CCTV怀旧剧场
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=35
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="央视",CCTV风云剧场
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-fyjc.png",group-title="央视",CCTV风云剧场
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=36
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="央视",CCTV第一剧场
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-dyjc.png",group-title="央视",CCTV第一剧场
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=37
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="央视",CGTN记录
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cgtn.png",group-title="央视",CGTN记录
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=38
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="央视",CETV1
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cetv1.png",group-title="央视",CETV1
 http://iptv.wangjiuling.com/1.php?aid=ys&bid=39
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hunanweishi.png",group-title="卫视频道",湖南卫视HD
 http://iptv.wangjiuling.com/1.php?aid=ws&bid=1
