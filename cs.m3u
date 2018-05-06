@@ -1,9 +1,9 @@
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="央视",CCTV1高清
-http://iptv.wangjiuling.com/2.php?aid=ys&bid=1
+http://hls2.cntv.myalicdn.com/cntvlive/cctv1md.m3u8?auth_key=1525617198-974-0-1853cd0b7ebbb982af5762ba9f651a3b
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="央视",CCTV2高清
-http://iptv.wangjiuling.com/2.php?aid=ys&bid=2
+http://hls2.cntv.myalicdn.com/cntvlive/cctv3md.m3u8?auth_key=1525617266-765-0-aed31f24593fe4a59c4fbaa957a7bb84
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="央视",CCTV3高清
-http://iptv.wangjiuling.com/2.php?aid=ys&bid=3
+http://hls2.cntv.myalicdn.com/cntvlive/cctv4md.m3u8?auth_key=1525617282-662-0-090c3d01d96c1223159485a704467400
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png",group-title="央视",CCTV4高清
 http://iptv.wangjiuling.com/2.php?aid=ys&bid=4
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="央视",CCTV5高清
