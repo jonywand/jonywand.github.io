@@ -1,5 +1,5 @@
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="央视",CCTV1高清
-http://hls2.cntv.myalicdn.com/cntvlive/cctv1md.m3u8?auth_key=1525617198-974-0-1853cd0b7ebbb982af5762ba9f651a3b
+http://v.91kds.com/b9/gehua.m3u8?id=cctv1&nwtime=1525621252&sign=413c9c63b5c688fd8bdac478ea55218e&mip=121.35.97.2&from=net
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="央视",CCTV2高清
 http://hls2.cntv.myalicdn.com/cntvlive/cctv3md.m3u8?auth_key=1525617266-765-0-aed31f24593fe4a59c4fbaa957a7bb84
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="央视",CCTV3高清
