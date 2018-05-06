@@ -405,15 +405,15 @@ http://antennalem-lh.akamaihd.net/i/YR2KW_1@324049/index_1800000_av-p.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/qimiao.png",group-title="港台境外",奇妙电视
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=7
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/tvb8a.png",group-title="港台境外",TVB8
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=17
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=14
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",星空卫视
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=19
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=15
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/yccj.png",group-title="港台境外",耀才财经
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=20
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=16
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/national.png",group-title="港台境外",国家地理
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=72
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=59
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-31a.png",group-title="港台境外",RHK-31
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=21
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=17
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/RHK-32a.png",group-title="港台境外",RHK-32
 http://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/index_2052_av-b.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/hktv.png",group-title="港台境外",香港电视-源1
@@ -428,136 +428,132 @@ http://d3inlz9elsutjl.cloudfront.net/hls/chupcweb/prog_index.m3u8
 http://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/vtv.png",group-title="港台境外",V频道
 http://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianxinwena.png",group-title="港台境外",中天新闻HD
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=59
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="港台境外",東森新聞HD
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=58
-#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanlixingwen.png",group-title="港台境外",三立LIVE新聞HD
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=57
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/minshi.png",group-title="港台境外",民视HD
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=40
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=27
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/taishi.png",group-title="港台境外",台视HD
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=41
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=28
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongshi.png",group-title="港台境外",中视HD
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=42
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=29
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/huashi.png",group-title="港台境外",华视HD
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=43
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=30
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/",group-title="港台境外",公视HD
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=44
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=31
 #EXTINF:0 tvg-logo="" group-title="港台境外",公视 2
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=45
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=32
 #EXTINF:0 tvg-logo="" group-title="港台境外",公视 3
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=46
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=33
 #EXTINF:0 tvg-logo="" group-title="港台境外",大爱
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=47
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=34
 #EXTINF:0 tvg-logo="" group-title="港台境外",原住民电视台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=48
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=35
 #EXTINF:0 tvg-logo="" group-title="港台境外",客家电视台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=49
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=36
 #EXTINF:0 tvg-logo="" group-title="港台境外",民视第一台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=50
-#EXTINF:0 tvg-logo="" group-title="港台境外",民视台湾台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=51
-#EXTINF:0 tvg-logo="" group-title="港台境外",华视新闻
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=52
-#EXTINF:0 tvg-logo="" group-title="港台境外",年代新闻台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=53
-#EXTINF:0 tvg-logo="" group-title="港台境外",非凡新闻台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=54
-#EXTINF:0 tvg-logo="" group-title="港台境外",壹电视新闻台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=36
-#EXTINF:0 tvg-logo="" group-title="港台境外",民视新闻台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=56
-#EXTINF:0 tvg-logo="" group-title="港台境外",TVBS新闻台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=60
-#EXTINF:0 tvg-logo="" group-title="港台境外",台视财经台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=61
-#EXTINF:0 tvg-logo="" group-title="港台境外",台视新闻
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=62
-#EXTINF:0 tvg-logo="" group-title="港台境外",中视新闻
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=63
-#EXTINF:0 tvg-logo="" group-title="港台境外",Boomerang 卡通台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=64
-#EXTINF:0 tvg-logo="" group-title="港台境外",ANIMAX
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=65
-#EXTINF:0 tvg-logo="" group-title="港台境外",Discovery
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=66
-#EXTINF:0 tvg-logo="" group-title="港台境外",动物星球
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=67
-#EXTINF:0 tvg-logo="" group-title="港台境外",亚洲美食
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=68
-#EXTINF:0 tvg-logo="" group-title="港台境外",HGTV
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=69
-#EXTINF:0 tvg-logo="" group-title="港台境外",TLC
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=70
-#EXTINF:0 tvg-logo="" group-title="港台境外",DMAX
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=71
-#EXTINF:0 tvg-logo="" group-title="港台境外",美食网
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=73
-#EXTINF:0 tvg-logo="" group-title="港台境外",EVE
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=74
-#EXTINF:0 tvg-logo="" group-title="港台境外",Discovery亚洲
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=75
-#EXTINF:0 tvg-logo="" group-title="港台境外",旅游频道
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=76
-#EXTINF:0 tvg-logo="" group-title="港台境外",GTV 娱乐台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=77
-#EXTINF:0 tvg-logo="" group-title="港台境外",GTV八大第一台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=78
-#EXTINF:0 tvg-logo="" group-title="港台境外",GTV八大综合台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=79
-#EXTINF:0 tvg-logo="" group-title="港台境外",GTV戏剧台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=80
-#EXTINF:0 tvg-logo="" group-title="港台境外",三立台湾台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=81
-#EXTINF:0 tvg-logo="" group-title="港台境外",高点综合 HD
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=82
-#EXTINF:0 tvg-logo="" group-title="港台境外",纬来日本
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=83
-#EXTINF:0 tvg-logo="" group-title="港台境外",龙华偶像
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=84
-#EXTINF:0 tvg-logo="" group-title="港台境外",中天综合台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=85
-#EXTINF:0 tvg-logo="" group-title="港台境外",中天娱乐台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=86
-#EXTINF:0 tvg-logo="" group-title="港台境外",KMTV
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=87
-#EXTINF:0 tvg-logo="" group-title="港台境外",国兴卫视
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=88
-#EXTINF:0 tvg-logo="" group-title="港台境外",中视经典台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=89
-#EXTINF:0 tvg-logo="" group-title="港台境外",中视菁采台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=90
-#EXTINF:0 tvg-logo="" group-title="港台境外",台视综合台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=91
-#EXTINF:0 tvg-logo="" group-title="港台境外",华纳 TV
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=92
-#EXTINF:0 tvg-logo="" group-title="港台境外",壹电视电影台
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=93
-#EXTINF:0 tvg-logo="" group-title="港台境外",好莱坞电影
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=94
-#EXTINF:0 tvg-logo="" group-title="港台境外",星空电影
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=95
-#EXTINF:0 tvg-logo="" group-title="港台境外",LS TIME龙祥电影
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=96
-#EXTINF:0 tvg-logo="" group-title="港台境外",AXN
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=97
-#EXTINF:0 tvg-logo="" group-title="港台境外",FOX HD
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=98
-#EXTINF:0 tvg-logo="" group-title="港台境外",FOX Sport3 HD
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=99
-#EXTINF:0 tvg-logo="" group-title="港台境外",爱尔达体育
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=100
-#EXTINF:0 tvg-logo="" group-title="港台境外",Z 频道
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=101
-#EXTINF:0 tvg-logo="" group-title="港台境外",纬来体育
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=102
-#EXTINF:0 tvg-logo="" group-title="港台境外",壹新闻
-http://iptv.wangjiuling.com/1.php?tv=hktv&id=36
-#EXTINF:0 tvg-logo="" group-title="港台境外",环宇新闻
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=37
-#EXTINF:0 tvg-logo="" group-title="港台境外",环宇新闻二台
+#EXTINF:0 tvg-logo="" group-title="港台境外",民视台湾台
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=38
+#EXTINF:0 tvg-logo="" group-title="港台境外",华视新闻
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=39
+#EXTINF:0 tvg-logo="" group-title="港台境外",年代新闻台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=40
+#EXTINF:0 tvg-logo="" group-title="港台境外",非凡新闻台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=41
+#EXTINF:0 tvg-logo="" group-title="港台境外",壹电视新闻台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=42
+#EXTINF:0 tvg-logo="" group-title="港台境外",民视新闻台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=43
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dongsengxinwen.png",group-title="港台境外",東森新聞HD
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=44
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/sanlixingwen.png",group-title="港台境外",三立LIVE新聞HD
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=45
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianxinwena.png",group-title="港台境外",中天新闻HD
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=46
+#EXTINF:0 tvg-logo="" group-title="港台境外",TVBS新闻台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=47
+#EXTINF:0 tvg-logo="" group-title="港台境外",台视财经台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=48
+#EXTINF:0 tvg-logo="" group-title="港台境外",台视新闻
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=49
+#EXTINF:0 tvg-logo="" group-title="港台境外",中视新闻
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=50
+#EXTINF:0 tvg-logo="" group-title="港台境外",Boomerang 卡通台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=51
+#EXTINF:0 tvg-logo="" group-title="港台境外",ANIMAX
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=52
+#EXTINF:0 tvg-logo="" group-title="港台境外",Discovery
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=53
+#EXTINF:0 tvg-logo="" group-title="港台境外",动物星球
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=54
+#EXTINF:0 tvg-logo="" group-title="港台境外",亚洲美食
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=55
+#EXTINF:0 tvg-logo="" group-title="港台境外",HGTV
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=56
+#EXTINF:0 tvg-logo="" group-title="港台境外",TLC
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=57
+#EXTINF:0 tvg-logo="" group-title="港台境外",DMAX
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=58
+#EXTINF:0 tvg-logo="" group-title="港台境外",美食网
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=60
+#EXTINF:0 tvg-logo="" group-title="港台境外",EVE
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=61
+#EXTINF:0 tvg-logo="" group-title="港台境外",Discovery亚洲
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=62
+#EXTINF:0 tvg-logo="" group-title="港台境外",旅游频道
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=63
+#EXTINF:0 tvg-logo="" group-title="港台境外",GTV 娱乐台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=64
+#EXTINF:0 tvg-logo="" group-title="港台境外",GTV八大第一台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=65
+#EXTINF:0 tvg-logo="" group-title="港台境外",GTV八大综合台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=66
+#EXTINF:0 tvg-logo="" group-title="港台境外",GTV戏剧台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=67
+#EXTINF:0 tvg-logo="" group-title="港台境外",三立台湾台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=68
+#EXTINF:0 tvg-logo="" group-title="港台境外",高点综合 HD
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=69
+#EXTINF:0 tvg-logo="" group-title="港台境外",纬来日本
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=70
+#EXTINF:0 tvg-logo="" group-title="港台境外",龙华偶像
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=71
+#EXTINF:0 tvg-logo="" group-title="港台境外",中天综合台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=72
+#EXTINF:0 tvg-logo="" group-title="港台境外",中天娱乐台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=73
+#EXTINF:0 tvg-logo="" group-title="港台境外",KMTV
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=74
+#EXTINF:0 tvg-logo="" group-title="港台境外",国兴卫视
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=75
+#EXTINF:0 tvg-logo="" group-title="港台境外",中视经典台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=76
+#EXTINF:0 tvg-logo="" group-title="港台境外",中视菁采台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=77
+#EXTINF:0 tvg-logo="" group-title="港台境外",台视综合台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=78
+#EXTINF:0 tvg-logo="" group-title="港台境外",华纳 TV
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=79
+#EXTINF:0 tvg-logo="" group-title="港台境外",壹电视电影台
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=80
+#EXTINF:0 tvg-logo="" group-title="港台境外",好莱坞电影
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=81
+#EXTINF:0 tvg-logo="" group-title="港台境外",星空电影
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=82
+#EXTINF:0 tvg-logo="" group-title="港台境外",LS TIME龙祥电影
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=83
+#EXTINF:0 tvg-logo="" group-title="港台境外",AXN
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=84
+#EXTINF:0 tvg-logo="" group-title="港台境外",FOX HD
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=85
+#EXTINF:0 tvg-logo="" group-title="港台境外",FOX Sport3 HD
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=86
+#EXTINF:0 tvg-logo="" group-title="港台境外",爱尔达体育
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=87
+#EXTINF:0 tvg-logo="" group-title="港台境外",Z 频道
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=88
+#EXTINF:0 tvg-logo="" group-title="港台境外",纬来体育
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=89
+#EXTINF:0 tvg-logo="" group-title="港台境外",环宇新闻
+http://iptv.wangjiuling.com/1.php?tv=hktv&id=25
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aomengaoqing.png",group-title="港台境外",澳视高清
 http://live3.tdm.com.mo:1935/ch6/hd_ch6.live/media_w2145388172.m3u8
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/aomenzixun.png",group-title="港台境外",澳视资讯
