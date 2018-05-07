@@ -1,11 +1,11 @@
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-1a.png",group-title="央视",CCTV1高清
-http://v.91kds.com/b9/gehua.m3u8?id=cctv1&nwtime=1525621252&sign=413c9c63b5c688fd8bdac478ea55218e&mip=121.35.97.2&from=net
+http://vsd1-1.node.hls.yun.gehua.net.cn:8088/live/CCTV1HD_1200.m3u8?a=1&provider_id=gehua&assetID=27748&ET=1525718725791&TOKEN=33fecb3f89a1bbc63cb220fc769362cd
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-2a.png",group-title="央视",CCTV2高清
-http://hls2.cntv.myalicdn.com/cntvlive/cctv3md.m3u8?auth_key=1525617266-765-0-aed31f24593fe4a59c4fbaa957a7bb84
+http://vsd1-8.node.hls.yun.gehua.net.cn:8088/live/CCTV2_800.m3u8?a=1&provider_id=gehua&assetID=8414&business_id=B143124&product_id=10066814&ET=1525718783059&TOKEN=a20d0111bf971061ac4ae9b3cb318ae0
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-3a.png",group-title="央视",CCTV3高清
-http://hls2.cntv.myalicdn.com/cntvlive/cctv4md.m3u8?auth_key=1525617282-662-0-090c3d01d96c1223159485a704467400
+http://hls.yun.gehua.net.cn:8088/live/CCTV3HD_1200.m3u8?a=1&provider_id=gehua&assetID=27742&ET=1525718796074&TOKEN=06d4e5fdb72b301d8311a899e7bbc128
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-4a.png",group-title="央视",CCTV4高清
-http://iptv.wangjiuling.com/2.php?aid=ys&bid=4
+http://vsd1-2.node.hls.yun.gehua.net.cn:8088/live/CCTV3HD_1200.m3u8?a=1&provider_id=gehua&assetID=27742&ET=1525718796074&TOKEN=06d4e5fdb72b301d8311a899e7bbc128
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5a.png",group-title="央视",CCTV5高清
 http://iptv.wangjiuling.com/2.php?aid=ys&bid=5
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-5b.png",group-title="央视",CCTV5+高清
