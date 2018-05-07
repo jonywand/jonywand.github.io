@@ -520,17 +520,17 @@ http://iptv.wangjiuling.com/1.php?tv=hktv&id=71
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=72
 #EXTINF:0 tvg-logo="" group-title="港台境外",中天娱乐台
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=73
-#EXTINF:0 tvg-logo="" group-title="港台境外",KMTV
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/test.png" group-title="港台境外",KMTV
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=74
-#EXTINF:0 tvg-logo="" group-title="港台境外",国兴卫视
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/test.png" group-title="港台境外",国兴卫视
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=75
-#EXTINF:0 tvg-logo="" group-title="港台境外",中视经典台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/test.png" group-title="港台境外",中视经典台
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=76
-#EXTINF:0 tvg-logo="" group-title="港台境外",中视菁采台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/test.png" group-title="港台境外",中视菁采台
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=77
-#EXTINF:0 tvg-logo="" group-title="港台境外",台视综合台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/test.png" group-title="港台境外",台视综合台
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=78
-#EXTINF:0 tvg-logo="" group-title="港台境外",华纳 TV
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/test.png" group-title="港台境外",华纳 TV
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=79
 #EXTINF:0 tvg-logo="" group-title="港台境外",壹电视电影台
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=80
