@@ -468,19 +468,19 @@ http://iptv.wangjiuling.com/1.php?tv=hktv&id=44
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=45
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/zhongtianxinwena.png",group-title="港台境外",中天新闻HD
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=46
-#EXTINF:0 tvg-logo="" group-title="港台境外",TVBS新闻台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png" group-title="港台境外",TVBS新闻台
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=47
-#EXTINF:0 tvg-logo="" group-title="港台境外",台视财经台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png" group-title="港台境外",台视财经台
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=48
-#EXTINF:0 tvg-logo="" group-title="港台境外",台视新闻
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png" group-title="港台境外",台视新闻
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=49
-#EXTINF:0 tvg-logo="" group-title="港台境外",中视新闻
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png" group-title="港台境外",中视新闻
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=50
-#EXTINF:0 tvg-logo="" group-title="港台境外",Boomerang 卡通台
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png" group-title="港台境外",Boomerang 卡通台
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=51
-#EXTINF:0 tvg-logo="" group-title="港台境外",ANIMAX
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png" group-title="港台境外",ANIMAX
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=52
-#EXTINF:0 tvg-logo="" group-title="港台境外",Discovery
+#EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/dianbo.png" group-title="港台境外",Discovery
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=53
 #EXTINF:0 tvg-logo="" group-title="港台境外",动物星球
 http://iptv.wangjiuling.com/1.php?tv=hktv&id=54
