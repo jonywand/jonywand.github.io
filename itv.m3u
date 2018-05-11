@@ -21,13 +21,13 @@ http://iptv.wangjiuling.com/1.php?tv=ys&id=10
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-10a.png",group-title="央视",CCTV10高清
 http://iptv.wangjiuling.com/1.php?tv=ys&id=11
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-11a.png",group-title="央视",CCTV11高清
-http://iptv.wangjiuling.com/1.php?tv=ys&id=12
+http://iptv.wangjiuling.com/1.php?tv=ys&id=24
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-12a.png",group-title="央视",CCTV12高清
-http://iptv.wangjiuling.com/1.php?tv=ys&id=13
+http://iptv.wangjiuling.com/1.php?tv=ys&id=12
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-13a.png",group-title="央视",CCTV13高清
-http://iptv.wangjiuling.com/1.php?tv=ys&id=14
+http://iptv.wangjiuling.com/1.php?tv=ys&id=26
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-14a.png",group-title="央视",CCTV14高清
-http://iptv.wangjiuling.com/1.php?tv=ys&id=15
+http://iptv.wangjiuling.com/1.php?tv=ys&id=13
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/CCTV-15a.png",group-title="央视",CCTV15高清
 http://iptv.wangjiuling.com/1.php?tv=ys&id=28
 #EXTINF:0 tvg-logo="http://www.wangjiuling.com/img/cctv-news.png",group-title="央视",CCTV-NEWS
