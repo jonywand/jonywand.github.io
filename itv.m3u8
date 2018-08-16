@@ -1,0 +1,2445 @@
+#EXTM3U
+#EXTINF:100, CCTV1高清
+http://124.47.33.200/PLTV/88888888/224/3221225490/index.m3u8
+#EXTINF:100, CCTV2高清
+http://124.47.33.200/PLTV/88888888/224/3221225612/index.m3u8
+#EXTINF:100, CCTV3高清
+http://124.47.33.200/PLTV/88888888/224/3221225611/index.m3u8
+#EXTINF:100, CCTV4高清
+http://124.47.33.200/PLTV/88888888/224/3221225610/index.m3u8
+#EXTINF:100, CCTV5高清
+http://124.47.33.200/PLTV/88888888/224/3221225489/index.m3u8
+#EXTINF:100, CCTV5+高清
+http://124.47.33.200/PLTV/88888888/224/3221225494/index.m3u8
+#EXTINF:100, CCTV6高清
+http://124.47.33.200/PLTV/88888888/224/3221225609/index.m3u8
+#EXTINF:100, CCTV7高清
+http://124.47.33.200/PLTV/88888888/224/3221225608/index.m3u8
+#EXTINF:100, CCTV8高清
+http://124.47.33.200/PLTV/88888888/224/3221225492/index.m3u8
+#EXTINF:100, CCTV9高清
+http://124.47.33.200/PLTV/88888888/224/3221225607/index.m3u8
+#EXTINF:100, CCTV10高清
+http://124.47.33.200/PLTV/88888888/224/3221225606/index.m3u8
+#EXTINF:100, CCTV12高清
+http://124.47.33.200/PLTV/88888888/224/3221225605/index.m3u8
+#EXTINF:100, CCTV14高清
+http://124.47.33.200/PLTV/88888888/224/3221225604/index.m3u8
+#EXTINF:100, CGTN
+http://124.47.33.200/PLTV/88888888/224/3221225519/index.m3u8
+#EXTINF:100, 四川卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225600/index.m3u8
+#EXTINF:100, 江西卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225599/index.m3u8
+#EXTINF:100, 东南卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225598/index.m3u8
+#EXTINF:100, 黑龙江卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225594/index.m3u8
+#EXTINF:100, 辽宁卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225593/index.m3u8
+#EXTINF:100, 深圳卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225592/index.m3u8
+#EXTINF:100, 山东卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225591/index.m3u8
+#EXTINF:100, 安徽卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225590/index.m3u8
+#EXTINF:100, 广东卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225589/index.m3u8
+#EXTINF:100, 天津卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225588/index.m3u8
+#EXTINF:100, 贵州卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225586/index.m3u8
+#EXTINF:100, 东方卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:100, 北京卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225502/index.m3u8
+#EXTINF:100, 江苏卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225504/index.m3u8
+#EXTINF:100, 浙江卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225505/index.m3u8
+#EXTINF:100, 湖南卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225506/index.m3u8
+#EXTINF:100, 陕西卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225498/index.m3u8
+#EXTINF:100, 东方卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225693/index.m3u8
+#EXTINF:100, 湖南卫视高清
+http://124.47.33.200/PLTV/88888888/224/3221225692/index.m3u8
+#EXTINF:100, PP体育
+http://124.47.33.200/PLTV/88888888/224/3221225675/index.m3u8
+#EXTINF:100, 聚体育直播
+http://124.47.33.200/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:100, 宝鸡1高清
+http://124.47.33.200/PLTV/88888888/224/3221225658/index.m3u8
+#EXTINF:100, 百事通直播1
+http://124.47.33.200/PLTV/88888888/224/3221225656/index.m3u8
+#EXTINF:100, 百事通直播2
+http://124.47.33.200/PLTV/88888888/224/3221225655/index.m3u8
+#EXTINF:100, 百事通直播3
+http://124.47.33.200/PLTV/88888888/224/3221225654/index.m3u8
+#EXTINF:100, 百事通直播4
+http://124.47.33.200/PLTV/88888888/224/3221225653/index.m3u8
+#EXTINF:100, 百事通直播5
+http://124.47.33.200/PLTV/88888888/224/3221225652/index.m3u8
+#EXTINF:100, 百事通直播6
+http://124.47.33.200/PLTV/88888888/224/3221225651/index.m3u8
+#EXTINF:100, 百事通直播7
+http://124.47.33.200/PLTV/88888888/224/3221225650/index.m3u8
+#EXTINF:100, 百事通直播8
+http://124.47.33.200/PLTV/88888888/224/3221225648/index.m3u8
+#EXTINF:100, 百事通直播9
+http://124.47.33.200/PLTV/88888888/224/3221225647/index.m3u8
+#EXTINF:100, 极速汽车
+http://124.47.33.200/PLTV/88888888/224/3221225646/index.m3u8
+#EXTINF:100, 广东影视4k
+http://116.77.76.2:5003/nn_live.ts?id=4Ktest
+#EXTINF:100, 央视12HD
+http://116.77.76.2:5003/nn_live.ts?id=CCTV12HD5M
+#EXTINF:100, CCTV-1HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225977/index.m3u8
+#EXTINF:100, CCTV-1HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225556/index.m3u8
+#EXTINF:100, 北京卫视HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225988/index.m3u8
+#EXTINF:100, 北京卫视HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225784/index.m3u8
+#EXTINF:100, 东方卫视HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225976/index.m3u8
+#EXTINF:100, 广东卫视HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225985/index.m3u8
+#EXTINF:100, 广东卫视HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225828/index.m3u8
+#EXTINF:100, 黑龙江卫视HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225500/index.m3u8
+#EXTINF:100, 黑龙江卫视HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225781/index.m3u8
+#EXTINF:100, 湖南卫视HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225981/index.m3u8
+#EXTINF:100, 湖南卫视HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225785/index.m3u8
+#EXTINF:100, 江苏卫视HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225989/index.m3u8
+#EXTINF:100, 山东卫视HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225530/index.m3u8
+#EXTINF:100, 山东卫视HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225992/index.m3u8
+#EXTINF:100, 浙江卫视HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225975/index.m3u8
+#EXTINF:100, 浙江卫视HD
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225504/index.m3u8
+#EXTINF:100, CCTV-1FHD
+http://223.110.243.170/PLTV/3/224/3221226316/index.m3u8
+#EXTINF:100, CCTV-2FHD
+http://223.110.243.170/PLTV/4/224/3221226993/index.m3u8
+#EXTINF:100, CCTV-3FHD
+http://223.110.243.170/PLTV/3/224/3221227206/index.m3u8
+#EXTINF:100, CCTV-8FHD
+http://223.110.243.170/PLTV/3/224/3221227205/index.m3u8
+#EXTINF:100, CCTV-9FHD
+http://223.110.243.170/PLTV/3/224/3221225532/index.m3u8
+#EXTINF:100, 天津卫视FHD
+http://223.110.243.170/PLTV/3/224/3221227212/index.m3u8
+#EXTINF:100, 湖北卫视FHD
+http://223.110.243.170/PLTV/3/224/3221227211/index.m3u8
+#EXTINF:100, 深圳卫视FHD
+http://223.110.243.170/PLTV/3/224/3221227217/index.m3u8
+#EXTINF:100, 黑龙江卫视HD
+http://223.110.243.170/PLTV/3/224/3221227252/index.m3u8
+#EXTINF:100, 江苏卫视FHD
+http://223.110.243.170/PLTV/3/224/3221227255/index.m3u8
+#EXTINF:100, 山东卫视FHD
+http://223.110.243.170/PLTV/3/224/3221227258/index.m3u8
+#EXTINF:100, 广东卫视FHD
+http://223.110.243.170/PLTV/3/224/3221227249/index.m3u8
+#EXTINF:100, 超级体育5HD
+http://223.110.243.170/PLTV/2/224/3221226943/index.m3u8
+#EXTINF:100, 凤凰中文HD
+http://223.110.243.170/PLTV/3/224/3221226977/index.m3u8
+#EXTINF:100, 凤凰资讯HD
+http://223.110.243.170/PLTV/3/224/3221226980/index.m3u8
+#EXTINF:100, CCTV1FHD
+http://111.20.33.72/PLTV/88888888/224/3221225804/index.m3u8
+#EXTINF:100, CCTV3FHD
+http://111.20.33.72/PLTV/88888888/224/3221225782/index.m3u8
+#EXTINF:100, CCTV5＋FHD
+http://111.20.33.72/PLTV/88888888/224/3221225761/index.m3u8
+#EXTINF:100, CCTV5FHD
+http://111.20.33.72/PLTV/88888888/224/3221225780/index.m3u8
+#EXTINF:100, CCTV9FHD
+http://111.20.33.72/PLTV/88888888/224/3221225758/index.m3u8
+#EXTINF:100, 北京FHD
+http://111.20.33.72/PLTV/88888888/224/3221225796/index.m3u8
+#EXTINF:100, 东方FHD
+http://111.20.33.72/PLTV/88888888/224/3221225797/index.m3u8
+#EXTINF:100, 黑龙江FHD
+http://111.20.33.72/PLTV/88888888/224/3221225802/index.m3u8
+#EXTINF:100, 湖南FHD
+http://111.20.33.72/PLTV/88888888/224/3221225799/index.m3u8
+#EXTINF:100, 江苏FHD
+http://111.20.33.72/PLTV/88888888/224/3221225800/index.m3u8
+#EXTINF:100, 深圳FHD
+http://111.20.33.72/PLTV/88888888/224/3221225801/index.m3u8
+#EXTINF:100, 浙江FHD
+http://111.20.33.72/PLTV/88888888/224/3221225798/index.m3u8
+#EXTINF:100, 广东FHD
+http://111.20.33.72/PLTV/88888888/224/3221225803/index.m3u8
+#EXTINF:100, CCTV1
+http://111.20.33.72/PLTV/88888888/224/3221225579/index.m3u8
+#EXTINF:100, CCTV1
+http://111.20.33.72/PLTV/88888888/224/3221225548/index.m3u8
+#EXTINF:100, CCTV1
+http://111.20.33.72/PLTV/88888888/224/3221225660/index.m3u8
+#EXTINF:100, Newtv超级综艺
+http://111.20.33.72/PLTV/88888888/224/3221225546/index.m3u8
+#EXTINF:100, Newtv超级体育
+http://111.20.33.72/PLTV/88888888/224/3221225545/index.m3u8
+#EXTINF:100, Newtv超级电影
+http://111.20.33.72/PLTV/88888888/224/3221225544/index.m3u8
+#EXTINF:100, Newtv超级电视剧
+http://111.20.33.72/PLTV/88888888/224/3221225543/index.m3u8
+#EXTINF:100, CCTV9
+http://111.20.33.72/PLTV/88888888/224/3221225577/index.m3u8
+#EXTINF:100, 北京
+http://111.20.33.72/PLTV/88888888/224/3221225662/index.m3u8
+#EXTINF:100, 北京
+http://111.20.33.72/PLTV/88888888/224/3221225535/index.m3u8
+#EXTINF:100, CCTV5+
+http://111.20.33.72/PLTV/88888888/224/3221225534/index.m3u8
+#EXTINF:100, 北京
+http://111.20.33.72/PLTV/88888888/224/3221225580/index.m3u8
+#EXTINF:100, 东方
+http://111.20.33.72/PLTV/88888888/224/3221225599/index.m3u8
+#EXTINF:100, 东方
+http://111.20.33.72/PLTV/88888888/224/3221225581/index.m3u8
+#EXTINF:100, 广东
+http://111.20.33.72/PLTV/88888888/224/3221225670/index.m3u8
+#EXTINF:100, 广东
+http://111.20.33.72/PLTV/88888888/224/3221225539/index.m3u8
+#EXTINF:100, 黑龙江
+http://111.20.33.72/PLTV/88888888/224/3221225671/index.m3u8
+#EXTINF:100, 黑龙江
+http://111.20.33.72/PLTV/88888888/224/3221225575/index.m3u8
+#EXTINF:100, 湖南
+http://111.20.33.72/PLTV/88888888/224/3221225672/index.m3u8
+#EXTINF:100, 湖南
+http://111.20.33.72/PLTV/88888888/224/3221225582/index.m3u8
+#EXTINF:100, 湖南
+http://111.20.33.72/PLTV/88888888/224/3221225547/index.m3u8
+#EXTINF:100, 江苏
+http://111.20.33.72/PLTV/88888888/224/3221225663/index.m3u8
+#EXTINF:100, 江苏
+http://111.20.33.72/PLTV/88888888/224/3221225542/index.m3u8
+#EXTINF:100, 江西
+http://111.20.33.72/PLTV/88888888/224/3221225564/index.m3u8
+#EXTINF:100, 山东
+http://111.20.33.72/PLTV/88888888/224/3221225661/index.m3u8
+#EXTINF:100, 山东
+http://111.20.33.72/PLTV/88888888/224/3221225578/index.m3u8
+#EXTINF:100, 深圳
+http://111.20.33.72/PLTV/88888888/224/3221225540/index.m3u8
+#EXTINF:100, 深圳
+http://111.20.33.72/PLTV/88888888/224/3221225664/index.m3u8
+#EXTINF:100, 天津
+http://111.20.33.72/PLTV/88888888/224/3221225538/index.m3u8
+#EXTINF:100, 浙江
+http://111.20.33.72/PLTV/88888888/224/3221225583/index.m3u8
+#EXTINF:100, 浙江
+http://111.20.33.72/PLTV/88888888/224/3221225598/index.m3u8
+#EXTINF:100, Newtv惊悚嫌疑
+http://111.20.33.72/PLTV/88888888/224/3221225503/index.m3u8
+#EXTINF:100, Newtv金牌综艺
+http://111.20.33.72/PLTV/88888888/224/3221225504/index.m3u8
+#EXTINF:100, Newtv致富农业
+http://111.20.33.72/PLTV/88888888/224/3221225505/index.m3u8
+#EXTINF:100, Newtv军事评论
+http://111.20.33.72/PLTV/88888888/224/3221225512/index.m3u8
+#EXTINF:100, Newtv明星大片
+http://111.20.33.72/PLTV/88888888/224/3221225513/index.m3u8
+#EXTINF:100, Newtv精品纪录
+http://111.20.33.72/PLTV/88888888/224/3221225514/index.m3u8
+#EXTINF:100, Newtv家庭剧场
+http://111.20.33.72/PLTV/88888888/224/3221225518/index.m3u8
+#EXTINF:100, Newtv海外剧场
+http://111.20.33.72/PLTV/88888888/224/3221225519/index.m3u8
+#EXTINF:100, Newtv动作电影
+http://111.20.33.72/PLTV/88888888/224/3221225523/index.m3u8
+#EXTINF:100, Newtv爱情喜剧
+http://111.20.33.72/PLTV/88888888/224/3221225524/index.m3u8
+#EXTINF:100, Newtv完美游戏
+http://111.20.33.72/PLTV/88888888/224/3221225525/index.m3u8
+#EXTINF:100, Newtv军旅剧场
+http://111.20.33.72/PLTV/88888888/224/3221225529/index.m3u8
+#EXTINF:100, Newtv精品剧场
+http://111.20.33.72/PLTV/88888888/224/3221225530/index.m3u8
+#EXTINF:100, Newtv健康有约
+http://111.20.33.72/PLTV/88888888/224/3221225531/index.m3u8
+#EXTINF:100, Newtv精品大剧
+http://111.20.33.72/PLTV/88888888/224/3221225533/index.m3u8
+#EXTINF:100, 港台-翡翠HD
+http://pulllive-al.wasu.cn/live/jade.m3u8
+#EXTINF:100, 河北卫视HD
+http://weblive.hebtv.com/live/hbws_bq/index.m3u8
+#EXTINF:100, 旅游卫视HD
+http://stream1.hnntv.cn/lywsgq/sd/live.m3u8
+#EXTINF:100, 韩国4K
+http://119.194.30.67:9981/stream/channelid/1253361577?ticket=AE6F4ECC002FB1886A7310AFE9D8DFFE6A3F20DB&profile=pass
+#EXTINF:100, Knews24移动
+http://hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221226041/index.m3u8
+#EXTINF:100, 布丁台
+http://61.216.177.73/sta/ch1864038.m3u8
+#EXTINF:-1, ===SULUK IPTV===
+http://bit.ly/SulukLogo1
+#EXTINF:-1,Sky Sports Premier League HD
+http://izgemma.ddns.net:8000/live/ryan/ryan/13633.ts
+#EXTINF:-1,UK BT Sport 1 HD
+http://izgemma.ddns.net:8000/live/ryan/ryan/32859.ts
+#EXTINF:-1,Liverpool FC TV HD
+http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/7996.ts
+#EXTINF:-1,UK BT Sport 2 HD
+http://izgemma.ddns.net:8000/live/ryan/ryan/37153.ts
+#EXTINF:-1,Kompas TV
+http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
+#EXTINF:-1,New:  壹新聞
+http://d2e6xlgy8sg8ji.cloudfront.net/liveedge/eratv3/chunklist.m3u8
+#EXTINF:-1,New:  奇妙電視77台
+http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
+#EXTINF:-1,New:  SkyNews
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/07.m3u8
+#EXTINF:-1,New:  CMC(USA)
+http://cmctv.ios.internapcdn.net/cmctv_vitalstream_com/live_1/CMCUSA/CCURstream0.m3u8
+#EXTINF:-1,New:  TVB財經資訊台
+http://e1.vdowowza.vip.hk1.tvb.com/tvblive/smil:mobilehd_financeintl.smil/chunklist.m3u8
+#EXTINF:-1,New:  耀才財經台
+rtmp://202.69.69.180:443/webcast/bshdlive-pc
+#EXTINF:-1,New:  ViuTV
+http://viutv99-i.akamaihd.net/hls/live/265284/live1/master.m3u8
+#EXTINF:-1,New:  五星體育
+http://111.48.34.235/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
+#EXTINF:-1,New:  五星體育
+http://111.48.34.189/huaweicdn.hb.chinamobile.com/PLTV/2510088/224/3221225772/3.m3u8
+#EXTINF:-1,New:  Now新聞台
+http://hk1.sixu.ml/hls/now.php?id=332
+#EXTINF:-1,New:  Now直播台
+http://hk1.sixu.ml/hls/now.php?id=331
+#EXTINF:-1,New:  TVB明珠台
+http://116.199.5.51:8114/00000000/index.m3u8?Fsv_cid=&Fsv_chan_hls_se_idx=31&Fsv_ctype=LIVES&version=&Fsv_rate_id=&Fsv_otype=&FvSeid=5bb77ea1bb99b6d2&Fsv_filetype=1&Fsv_ctype=LIVES&Fsv_cid=0&Fsv_chan_hls_se_idx=31&Fsv_rate_id=2&Fsv_SV_PARAM1=0&Fsv_ShiftEnable=0&Fsv_ShiftTsp=0&Provider_id=&Pcontent_id=&Fsv_CMSID=&Fsv_otype=0
+#EXTINF:-1,New:  優視頻道
+http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
+#EXTINF:-1,New:  MSNBC News
+http://tvemsnbc-lh.akamaihd.net/i/nbcmsnbc_1@122532/master.m3u8
+#EXTINF:-1,New:  Jasmin TV
+http://j.mp/S_JasminTVHD_sly?.m3u8
+#EXTINF:-1,New:  CBS News
+http://cbsnewshd-lh.akamaihd.net/i/CBSNHD_7@199302/master.m3u8
+#EXTINF:-1,New:  NHK World
+http://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/263941/live_stv_s.m3u8
+#EXTINF:-1,New:  CBN News
+http://bcliveuniv-lh.akamaihd.net/i/iptv1_1@194050/master.m3u8
+#EXTINF:-1,New:  1 Music HD
+http://cdn-01.bonus-tv.ru:8080/1HDmusic/tracks-v1a1/index.m3u8
+#EXTINF:-1,New:  耀才財經台
+http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
+#EXTINF:-1,New:  HBO
+http://218.202.220.2:5000/nn_live.ts?id=HBO
+#EXTINF:-1,New:  CHC動作電影 SD
+http://hbmc.chinashadt.com:2739/live/dzdy.stream_360p/playlist.m3u8
+#EXTINF:-1,New:  HBO Hit+
+http://iss01.ott.net.tw:8090/live/coship_DCTV2291445940028640_1200.m3u8
+#EXTINF:-1,New:  S Music Thailand 
+http://103.242.13.90:5555/udp/239.4.2.199:10000
+#EXTINF:-1,New:  Fox Action Movie 
+http://103.242.13.90:5555/udp/239.4.2.72:10000
+#EXTINF:-1,New:  Heart TV 
+http://ooyalahd2-f.akamaihd.net/i/globalradio02_delivery@156522/index_1500_av-p.m3u8?sd=10&rebase=on
+#EXTINF:-1,New:  Music Choice Play 
+http://edge.music-choice-play-chaina1.top.comcast.net/PlayMetadataInserter/play/chunklist.m3u8
+#EXTINF:-1,New:  海看大片
+http://223.99.186.132:6610/shandong_cabletv.live.zte.com/223.99.253.7:8081/00/SNM/CHANNEL00000407/index.m3u8
+#EXTINF:-1,New:  TVB娛樂新聞台 
+http://token.tvb.com/stream/live/enews/hls/mobilehd_enews.smil
+#EXTINF:-1,New:  GoodTV旅遊生活台 
+http://live.streamingfast.net/osmflivech14.m3u8
+#EXTINF:-1,New:  衛視電影台 
+http://iss04.ott.net.tw:8084/live/coship_DCTV0001421917060555_1200.m3u8
+#EXTINF:-1,New:  France 24 
+http://f24hls-i.akamaihd.net/hls/live/221193/F24_EN_LO_HLS/master_900.m3u8
+#EXTINF:-1,New:  廣州競賽 
+http://23436.liveplay.myqcloud.com/live/23436_3810e96b4f7411e892905cb9018cf0d4.flv
+#EXTINF:-1,New:  廣州綜合頻道 
+rtmp://23436.liveplay.myqcloud.com/live/23436_6f91587d4f7311e892905cb9018cf0d4
+#EXTINF:-1,New:  深圳衛視 
+http://223.110.241.204:6610/gitv/live1/G_SHENZHEN/G_SHENZHEN/
+#EXTINF:-1,New:  江西衛視 
+http://223.110.241.204:6610/gitv/live1/JXWS/JXWS/
+#EXTINF:-1,New:  Virgin TV 
+http://wow01.105.net/live/virgin1/chunklist.m3u8
+#EXTINF:-1,New:  星空衛視 
+http://218.202.220.2:5000/nn_live.ts?id=STARTV
+#EXTINF:-1,New:  KBSN Sport 
+rtmp://112.175.138.137:1935/kbsn_sports/_definst_/kbsn_sports_5.stream
+#EXTINF:-1,New:  Metal TV 
+http://autopilot.myowntv.org/content/33816/index.m3u8
+#EXTINF:-1,New:  VM Music 
+http://autopilot.myowntv.org/content/34414/index.m3u8
+#EXTINF:-1,New:  東方衛視
+http://202.8.78.137:81/udp/239.12.7.16:5555
+#EXTINF:-1,New:  Channel News Asia
+https://d2ko4czujk9652.cloudfront.net/hls/cnaspcweb/prog_index.m3u8
+#EXTINF:-1,New:  天映頻道 
+http://210.210.155.35/session/1e5fe170-829b-11e8-9d75-c81f66f89318/qwr9ew/s/s33/02.m3u8
+#EXTINF:-1,New:  壹新聞 
+http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
+#EXTINF:-1,New:  M2O Music TV 
+http://m2otv-lh.akamaihd.net/i/m2oTv_1@186074/index_600_av-b.m3u8
+#EXTINF:-1,New:  FOX life
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/02.m3u8
+#EXTINF:-1,New:  FOX life
+http://210.210.155.35/session/1f4b9814-7ed5-11e8-aa50-c81f66f89318/uq2663/h/h03/01.m3u8
+#EXTINF:-1,New:  Fox Action Movies
+http://210.210.155.35/session/8a09281c-7dac-11e8-98cf-b82a72d63267/uq2663/h/h15/01.m3u8
+#EXTINF:-1,New:  Newsmax TV
+http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1,New:  杜拜One ENG
+http://dmithrvll.cdn.mangomolo.com/dubaione/smil:dubaione.smil/chunklist_b1800000.m3u8
+#EXTINF:-1,New:  MusicBox Gold
+https://ivi-tv2.cdnvideo.ru/live/ivi/musicbox/playlist_sdhigh.m3u8
+#EXTINF:-1,New:  電影頻道 1
+http://al.hls.huya.com/huyalive/94525224-2460686093-10568566295157014528-2789253848-10057-A-0-1.m3u8
+#EXTINF:-1,New:  電影頻道 2
+http://aldirect.hls.huya.com/huyalive/94525224-2460685722-10568564701724147712-2789253838-10057-A-0-1_1200.m3u8
+#EXTINF:-1,New:  電影頻道 3
+http://aldirect.hls.huya.com/huyalive/94525224-2460685774-10568564925062447104-2789253840-10057-A-0-1_1200.m3u8
+#EXTINF:-1,New:  電影頻道 4
+http://tx.hls.huya.com/huyalive/29106097-2689406282-11550912026846953472-2789274558-10057-A-0-1_1200.m3u8
+#EXTINF:-1,New:  Eleven Sports 1
+http://61.58.60.230:9000/live/75.m3u8
+#EXTINF:-1,New:  Eleven Sports 2
+http://61.58.60.230:9000/live/102.m3u8
+#EXTINF:-1,New:  Euronews
+http://61.58.60.230:9000/live/129.m3u8
+#EXTINF:-1,New:  France24
+http://61.58.60.230:9000/live/131.m3u8
+#EXTINF:-1,New:  台股資訊
+http://61.58.60.230:9000/live/200.m3u8
+#EXTINF:-1,New:  靖天日本台
+http://61.58.60.230:9000/live/243.m3u8
+#EXTINF:-1,New:  靖天映畫台
+http://61.58.60.230:9000/live/244.m3u8
+#EXTINF:-1,New:  靖洋卡通
+http://61.58.60.230:9000/live/206.m3u8
+#EXTINF:-1,New:  靖天卡通台
+http://61.58.60.230:9000/live/207.m3u8
+#EXTINF:-1,New:  幸福空間居家
+http://61.58.60.230:9000/live/125.m3u8
+#EXTINF:-1,New:  靖天國際台
+http://61.58.60.230:9000/live/205.m3u8
+#EXTINF:-1,New:  CCTV5 風雲足球
+http://61.176.217.50:6610/001/2/ch00000090990000001154/index.m3u8?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1,New:  靚裝頻道
+http://61.176.217.50:6610/001/2/ch00000090990000001207/index.m3u8?virtualDomain=001.live_hls.zte.com
+#EXTINF:-1,New:  GoodTV生活台
+http://live.streamingfast.net/osmflivech12.m3u8
+#EXTINF:-1,New:  МАТЧ ТВ
+http://31.40.155.230:9875
+#EXTINF:-1,New:  BBC News HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCWorldNewsHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1,New:  BBC Earth HD
+http://telekomtv.ro.edgesuite.net/shls/LIVE$BBCEarthHD/12.m3u8/Level(3670016)?start=LIVE&end=END
+#EXTINF:-1,New:  Food Network
+http://telekomtv.ro.edgesuite.net/shls/LIVE$FoodNetwork/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,New:  Fashion TV
+http://telekomtv.ro.edgesuite.net/shls/LIVE$FashionHD/6.m3u8/Level(545259)?start=LIVE&end=END
+#EXTINF:-1,New:  Travel Channel
+http://telekomtv.ro.edgesuite.net/shls/LIVE$TravelChannel/6.m3u8/Level(1677721)?start=LIVE&end=END
+#EXTINF:-1,New:  Sony TEN2
+http://cshms3.airtel.tv/PLTV/88888888/224/3221225932/01.m3u8
+#EXTINF:-1,New:  RT America
+http://secure-streams.akamaized.net/rt-usa/index2500.m3u8
+#EXTINF:-1,New:  Red Bull TV
+https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
+#EXTINF:-1,New:  DW (US)
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/14231.ts
+#EXTINF:-1,New:  NFL Network (US)
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/18861.ts
+#EXTINF:-1,New:  Movies 4 Men (US)
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/19333.ts
+#EXTINF:-1,New:  ABC News 24 (US)
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20374.ts
+#EXTINF:-1,New:  Weather Channel (US)
+http://fullhdp.servep2p.com:3500/live/kilitcaglar/6584merder/20247.ts
+#EXTINF:-1,New:  TRT Sport (TR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7928.ts
+#EXTINF:-1,New:  Sports TV (TR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/2308.ts
+#EXTINF:-1,New:  TSN Sport 1 (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20254.ts
+#EXTINF:-1,New:  TSN Sport 3 (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20256.ts
+#EXTINF:-1,New:  TSN Sport 4 (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20600.ts
+#EXTINF:-1,New:  TSN Sport 2 (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20255.ts
+#EXTINF:-1,New:  TSN Sport 5 (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20599.ts
+#EXTINF:-1,New:  SPORT 1 (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12743.ts
+#EXTINF:-1,New:  ExSport (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12650.ts
+#EXTINF:-1,New:  SETANTA SPORT (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21121.ts
+#EXTINF:-1,New:  SETANTA SPORT+ (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21122.ts
+#EXTINF:-1,New:  EUROSPORT 1 (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18334.ts
+#EXTINF:-1,New:  Extreme Sport (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18473.ts
+#EXTINF:-1,New:  EUROSPORT (FR)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11459.ts
+#EXTINF:-1,New:  NPO Politiek sportt (NL)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/15090.ts
+#EXTINF:-1,New:  HD Fashion (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18118.ts
+#EXTINF:-1,New:  BBC 3 (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19356.ts
+#EXTINF:-1,New:  Animal Planet (UK)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19283.ts
+#EXTINF:-1,New:  Discovery World (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22088.ts
+#EXTINF:-1,New:  CMC (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9458.ts
+#EXTINF:-1,New:  CBSN News (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/9477.ts
+#EXTINF:-1,New:  FOX 23 News (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7789.ts
+#EXTINF:-1,New:  WGN TV (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18872.ts
+#EXTINF:-1,New:  NEWSMAX TV (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/7797.ts
+#EXTINF:-1,New:  RETRO MUSIC (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11567.ts
+#EXTINF:-1,New:  Virgin TV (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11596.ts
+#EXTINF:-1,New:  Bloomberg (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/11234.ts
+#EXTINF:-1,New:  ABC EAST (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18851.ts
+#EXTINF:-1,New:  ARTS (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18906.ts
+#EXTINF:-1,New:  CNN (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21186.ts
+#EXTINF:-1,New:  The Country Network (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20463.ts
+#EXTINF:-1,New:  WWE Network HD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/21064.ts
+#EXTINF:-1,New:  FOX 5 NEWS (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18882.ts
+#EXTINF:-1,New:  NFL Now TV (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18874.ts
+#EXTINF:-1,New:  CHANNEL 11 NEWS (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20469.ts
+#EXTINF:-1,New:  Voice of America (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/20465.ts
+#EXTINF:-1,New:  Most Video TV HD (US)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18447.ts
+#EXTINF:-1,New:  Fashion TV HD (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/12708.ts
+#EXTINF:-1,New:  HD Fashion (RU)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19127.ts
+#EXTINF:-1,New:  Q Music (BE)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/19818.ts
+#EXTINF:-1,New:  Sony Ten 1 (IN)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16128.ts
+#EXTINF:-1,New:  Sony Ten 2 (IN)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/16127.ts
+#EXTINF:-1,New:  MusicBox UA (MC)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/18484.ts
+#EXTINF:-1,New:  Japanet Channel DX (JPN)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22246.ts
+#EXTINF:-1,New:  QVC Japan TV (JPN)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22250.ts
+#EXTINF:-1,New:  Shop Channel (JPN)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22249.ts
+#EXTINF:-1,New:  新唐人電視 (台灣)
+http://fullhdp.servep2p.com:3500/live/xip.ddns.net/kelibia2/22292.ts
+#EXTINF:-1,New:  ESPN 2
+http://161.0.157.9/PLTV/88888888/224/3221226881/index.m3u8
+#EXTINF:-1,New:  CNN
+http://161.0.157.9/PLTV/88888888/224/3221226781/index.m3u8
+#EXTINF:-1,New:  France 24
+http://161.0.157.9/PLTV/88888888/224/3221226821/index.m3u8
+#EXTINF:-1,New:  CBC Television
+http://161.0.157.50/PLTV/88888888/224/3221227004/03.m3u8
+#EXTINF:-1,New:  Animal Planet
+http://161.0.157.5/PLTV/88888888/224/3221226253/index.m3u8
+#EXTINF:-1,New:  HBO 2 International
+http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
+#EXTINF:-1,New:  Cooking Channel
+http://161.0.157.5/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1,New:  PAC-12 Arizona
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/9470.ts
+#EXTINF:-1,New:  PAC-12 Bay Area
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/9472.ts
+#EXTINF:-1,New:  PAC-12 Mountain
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/9473.ts
+#EXTINF:-1,New:  PAC-12 Los Angeles
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/9471.ts
+#EXTINF:-1,New:  PAC-12 Washington
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/9475.ts
+#EXTINF:-1,New:  NFL Network
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/18861.ts
+#EXTINF:-1,New:  TUFF TV
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/18868.ts
+#EXTINF:-1,New:  Retro Music
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/11567.ts
+#EXTINF:-1,New:  Virgin TV
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/11596.ts
+#EXTINF:-1,New:  Bloomberg
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/11234.ts
+#EXTINF:-1,New:  The Country Network
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/20463.ts
+#EXTINF:-1,New:  TSN Sport 1
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/20254.ts
+#EXTINF:-1,New:  TSN Sport 2
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/20255.ts
+#EXTINF:-1,New:  TSN Sport 3
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/20256.ts
+#EXTINF:-1,New:  Capital TV
+http://145.239.8.174:3500/live/kilitcaglar/6584merder/18459.ts
+#EXTINF:-1,New:  CCTV音樂
+http://116.66.222.46:8082/TV4012.m3u8
+#EXTINF:-1,New:  Bein Sport 2
+http://185.93.3.84:5000/play/a01w
+#EXTINF:-1,New:  Bein Sport 3
+http://185.93.3.84:5000/play/a01t
+#EXTINF:-1,New:  Bein Sport 4
+http://185.93.3.84:5000/play/a01u
+#EXTINF:-1,New:  Bein Sport 5
+http://185.93.3.84:5000/play/a02e
+#EXTINF:-1,New:  勁爆體育
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225814/1.m3u8
+#EXTINF:-1,New:  CCTV5+
+http://qhyx.qhcatv.com:16413/contents38/live/CHANNELea5d24393f5340488bb3dcf72ffc1246/HD_3343842336111834084/live.m3u8
+#EXTINF:-1,New:  CCTV5
+http://qhyx.qhcatv.com:16413/contents40/live/CHANNEL5e1967b501424f41a0ed30806c538084/HD_572170973452526738/live.m3u8
+#EXTINF:-1,New:  湖南衛視
+http://qhyx.qhcatv.com:16414/contents46/live/CHANNEL1ce71d7d2175411391e4e752916d7a4f/HD_2291618092825085480/live.m3u8
+#EXTINF:-1,New:  深圳衛視
+http://qhyx.qhcatv.com:16413/contents41/live/CHANNEL5ef312ee638947aeb2a231ad19852160/HD_1747644283768992846/live.m3u8
+#EXTINF:-1,New:  Discevory Channel
+http://103.242.13.90:5555/udp/239.4.2.19:10000
+#EXTINF:-1,New:  Capital TV
+http://ooyalahd2-f.akamaihd.net/i/globalradio01_delivery@156521/master.m3u8
+#EXTINF:-1,New:  NewTV精品電影
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225891/2.m3u8
+#EXTINF:-1,New:  NewTV動作電影
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225879/2.m3u8
+#EXTINF:-1,New:  NewTV超級電視劇
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225806/2.m3u8
+#EXTINF:-1,New:  NewTV超級電影
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225804/2.m3u8
+#EXTINF:-1,New:  NewTV超級體育
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225803/2.m3u8
+#EXTINF:-1,New:  NewTV超級綜藝
+http://120.198.235.70/112.50.243.7/PLTV/88888888/224/3221225801/2.m3u8
+#EXTINF:-1,New:  民視新聞台
+https://6.mms.vlog.xuite.net/hls/ftvtv/index.m3u8
+#EXTINF:-1,New:  Bloomberg
+http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
+#EXTINF:-1,New:  FOX
+http://210.210.155.35/uq2663/h/h04/02.m3u8
+#EXTINF:-1,New:  FOX Action Movies
+http://210.210.155.35/uq2663/h/h15/02.m3u8
+#EXTINF:-1,New:  Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_fmen_adaptive.smil/chunklist_b900000_t64MzYwcA==.m3u8
+#EXTINF:-1,New:  Fashion TV
+http://fash1043.cloudycdn.services/slive/_definst_/ftv_ftv_f-men_ad_dbn_27047_fmen_104_hls.smil/playlist.m3u8
+#EXTINF:-1,New:  SkyNews
+http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/04.m3u8
+#EXTINF:-1,New:  London Live
+http://bcoveliveios-i.akamaihd.net/hls/live/217434/3083279840001/master.m3u8
+#EXTINF:-1,New:  C-SPAN2
+http://cspan2-lh.akamaihd.net/i/cspan2_1@304728/index_1000_av-p.m3u8
+#EXTINF:-1,New:  美國中文電視
+http://ec.sinovision.net/video/ts/lv.m3u8
+#EXTINF:-1,New:  健康衛視
+http://live.jkwshk.tv/AppName/StreamName.m3u8
+#EXTINF:-1,New:  Mnet
+http://175.195.128.141:9981/stream/channelid/1708583883?ticket=6B445DB260426275FB362F6DC07A9CCF2CF7E01C&profile=pass
+#EXTINF:-1,New:  SPOTV
+http://175.195.128.141:9981/stream/channelid/2102097560?ticket=BDFBEC36081EB95FB1DAACA13EB37589C0985B82&profile=pass
+#EXTINF:-1,New:  SPOTV2
+http://175.195.128.141:9981/stream/channelid/1354280852?ticket=F5B8930C67437147BA797BD2976A181B98F8C192&profile=pass
+#EXTINF:-1,New:  IB SPORTS
+http://175.195.128.141:9981/stream/channelid/616004316?ticket=EBE63275FA92EB44CF00B923F34842FCBE2C8458&profile=pass
+#EXTINF:-1,New:  Sky Sports
+http://175.195.128.141:9981/stream/channelid/2131125297?ticket=22C3EE925A336F6A78B01256A85B1826E84C4FB2&profile=pass
+#EXTINF:-1,New:  SBS Sports
+http://175.195.128.141:9981/stream/channelid/1743632804?ticket=D3DC4EB4D370F73C515795CBF6EB1B1F14B5BD03&profile=pass
+#EXTINF:-1,New:  MBC SPORT+
+http://175.195.128.141:9981/stream/channelid/375657830?ticket=08BCD38D49CC0D6EED994DB1C2DFD6DCF3479C69&profile=pass
+#EXTINF:-1,New:  中天新聞
+http://60.199.188.61/HLS/WG_ETTV-N/index.m3u8
+#EXTINF:-1,New:  MTV Live
+http://91.149.172.100/channel?id=4&u=demo&p=demo
+#EXTINF:-1,New:  東森電影
+http://125.227.35.176:18080/ETChan/index.m3u8
+#EXTINF:-1,New:  CCTV5+
+http://39.134.52.161/hwottcdn.ln.chinamobile.com/PLTV/88888890/224/3221225496/index.m3u8
+#EXTINF:-1,New:  CCTV5
+http://223.110.242.130:6610/gitv/live1/G_CCTV-5-HQ/1.m3u8
+#EXTINF:-1,New:  Weather Nation
+http://cdnapi.kaltura.com/p/931702/sp/93170200/playManifest/entryId/1_oorxcge2/format/applehttp/protocol/http/uiConfId/28428751/a.m3u8
+#EXTINF:-1,New:  Company TV
+http://wma10.fluidstream.net/CompanyTV/_definst_/mp4:livestream_720p/playlist.m3u8
+#EXTINF:-1,New:  Music Top
+http://live-edge01.telecentro.net.ar/live/msctphd-720/playlist.m3u8
+#EXTINF:-1,New:  上海星尚頻道
+http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/shss/700000/d1.m3u8
+#EXTINF:-1,New:  上海娛樂頻道
+http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/ylpd/700000/d1.m3u8
+#EXTINF:-1,New:  上海第一財經
+http://aliyunkknews-live.bestvcdn.com.cn/live/program/Dkankan.live.bestvcdn.com.cnD/_M_keyM_/live/dycj/700000/d1.m3u8
+#EXTINF:-1,New:  RU Football
+https://ivi-tv3-football.cdnvideo.ru/channel/Football/1080p.m3u8
+#EXTINF:-1,New:  天津體育
+http://live1.wisetv.com.cn/TJIPTV/TJTY.m3u8
+#EXTINF:-1,New:  IZ.RU
+http://hls-igi.cdnvideo.ru/igi/igi_hq/playlist.m3u8
+#EXTINF:-1,New:  FOX Comedy
+http://161.0.157.9/PLTV/88888888/224/3221226800/03.m3u8
+#EXTINF:-1,New:  WGN News Channel
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1,New:  都市戲場
+http://111.48.34.231/huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225754/3.m3u8?icpid=88888888&from=1&hms_devid=1463
+#EXTINF:-1,New:  湖南衛視 SD
+http://www.iptvlist.cn/daili/gdhj.php?id=hnws
+#EXTINF:-1,New:  廣東珠江頻道 SD
+http://www.iptvlist.cn/daili/gdhj.php?id=gdty
+#EXTINF:-1,New:  廣東公共頻道 SD
+http://www.iptvlist.cn/daili/gdhj.php?id=gdzj
+#EXTINF:-1,New:  廣東體育頻道 SD
+http://www.iptvlist.cn/daili/gdhj.php?id=gdtvs1
+#EXTINF:-1,New:  NewTV超級綜藝
+http://111.20.45.154/wh7f454c46tw3653946070_921258442/dbiptv.sn.chinamobile.com/PLTV/88888890/224/3221225546/index.m3u8?icpid=88888888&RTS=1534069195&from=1&hms_devid=583
+#EXTINF:-1,New:  HBO 2 (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/21
+#EXTINF:-1,New:  HBO 3 (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/22
+#EXTINF:-1,New:  Digi Sport 1 (RO)
+http://zzyiptv.tk:3000/stream/romania/40
+#EXTINF:-1,New:  Digi Sport 2 (RO)
+http://zzyiptv.tk:3000/stream/romania/41
+#EXTINF:-1,New:  Digi Sport 3 (RO)
+http://zzyiptv.tk:3000/stream/romania/42
+#EXTINF:-1,New:  Digi Sport 4 (RO)
+http://zzyiptv.tk:3000/stream/romania/43
+#EXTINF:-1,New:  Telekom Sport 1 (RO)
+http://zzyiptv.tk:3000/stream/romania/44
+#EXTINF:-1,New:  Telekom Sport 3 (RO)
+http://zzyiptv.tk:3000/stream/romania/46
+#EXTINF:-1,New:  Telekom Sport 4 (RO)
+http://zzyiptv.tk:3000/stream/romania/47
+#EXTINF:-1,New:  EuroSport 1 (RO)
+http://zzyiptv.tk:3000/stream/romania/48
+#EXTINF:-1,New:  EuroSport 2 (RO)
+http://zzyiptv.tk:3000/stream/romania/49
+#EXTINF:-1,New:  Animal Planet (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/53
+#EXTINF:-1,New:  History (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/54
+#EXTINF:-1,New:  Discovery (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/55
+#EXTINF:-1,New:  Discovery Science (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/56
+#EXTINF:-1,New:  National Geographic (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/57
+#EXTINF:-1,New:  National Geographic Wild (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/58
+#EXTINF:-1,New:  Crime Investigation (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/59
+#EXTINF:-1,New:  BBC Earth (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/67
+#EXTINF:-1,New:  Kiss TV (RO|Music)
+http://zzyiptv.tk:3000/stream/romania/83
+#EXTINF:-1,New:  Mooz Hits (RO|Music)
+http://zzyiptv.tk:3000/stream/romania/85
+#EXTINF:-1,New:  Mooz Dance (RO|Music)
+http://zzyiptv.tk:3000/stream/romania/87
+#EXTINF:-1,New:  Fashion TV (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/108
+#EXTINF:-1,New:  Fine Living (RO|ENG)
+http://zzyiptv.tk:3000/stream/romania/112
+#EXTINF:-1,New:  Jasmin TV (RO|ENG|18+)
+http://zzyiptv.tk:3000/stream/romania/187
+#EXTINF:-1,New:  NewTV愛情喜劇
+http://223.110.243.155:80/PLTV/3/224/3221225525/index.m3u8
+#EXTINF:-1,New:  NewTV古裝劇場
+http://223.110.243.155:80/PLTV/3/224/3221225527/index.m3u8
+#EXTINF:-1,New:  NewTV動作電影
+http://223.110.243.155:80/PLTV/3/224/3221225529/index.m3u8
+#EXTINF:-1,New:  NewTV明星大片
+http://223.110.243.155:80/PLTV/3/224/3221225535/index.m3u8
+#EXTINF:-1,New:  江西衛視
+http://223.110.243.155:80/PLTV/3/224/3221225536/index.m3u8
+#EXTINF:-1,New:  NewTV精品體育
+http://223.110.243.155:80/PLTV/3/224/3221225543/index.m3u8
+#EXTINF:-1,New:  浙江衛視
+http://223.110.243.155:80/PLTV/3/224/3221225544/index.m3u8
+#EXTINF:-1,New:  NewTV健康有約
+http://223.110.243.155:80/PLTV/3/224/3221225545/index.m3u8
+#EXTINF:-1,New:  NewTV海外劇場
+http://223.110.243.155:80/PLTV/3/224/3221225547/index.m3u8
+#EXTINF:-1,New:  NewTV家庭劇場
+http://223.110.243.155:80/PLTV/3/224/3221225549/index.m3u8
+#EXTINF:-1,New:  NewTV動畫王國
+http://223.110.243.155:80/PLTV/3/224/3221225555/index.m3u8
+#EXTINF:-1,New:  NewTV精品紀錄
+http://223.110.243.155:80/PLTV/3/224/3221225557/index.m3u8
+#EXTINF:-1,New:  東方衛視
+http://223.110.243.155:80/PLTV/3/224/3221225558/index.m3u8
+#EXTINF:-1,New:  NewTV金牌綜藝
+http://223.110.243.155:80/PLTV/3/224/3221225559/index.m3u8
+#EXTINF:-1,New:  NewTV驚悚懸疑
+http://223.110.243.155:80/PLTV/3/224/3221225561/index.m3u8
+#EXTINF:-1,New:  NewTV精品電影
+http://223.110.243.155:80/PLTV/3/224/3221225567/index.m3u8
+#EXTINF:-1,New:  CCTV音樂
+http://223.110.243.155:80/PLTV/3/224/3221225568/index.m3u8
+#EXTINF:-1,New:  NewTV精品大劇
+http://223.110.243.155:80/PLTV/3/224/3221225569/index.m3u8
+#EXTINF:-1,New:  深圳衛視
+http://223.110.243.155:80/PLTV/3/224/3221225582/index.m3u8
+#EXTINF:-1,New:  廣東衛視
+http://223.110.243.155:80/PLTV/3/224/3221225592/index.m3u8
+#EXTINF:-1,New:  紐西蘭freeview24中文電視
+http://live.936.nz:1935/live/ts.stream_720p/playlist.m3u8
+#EXTINF:-1,New:  湖南衛視
+http://223.110.243.149/PLTV/3/224/3221227220/.m3u8
+#EXTINF:-1,New:  Fashion TV 
+http://71ad2a18.iptvbot.ru/iptv/WF3VV8RHPCTBGB/1011/index.m3u8
+#EXTINF:-1,New:  Virgin TV
+http://wow01.105.net/live/virgin1/chunklist_w25732073.m3u8
+#EXTINF:-1,New:  WARNER TV
+http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/5697.m3u8
+#EXTINF:-1,New:  Star Movie HD
+http://premium-iptv.link:6969/live/iptvhenry/O1CPBlbZ6K/4371.m3u8
+#EXTINF:-1,New:  戰旗影視韓舞蹈
+http://alhls.cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8
+#EXTINF:-1,New:  戰旗影視韓舞蹈 (opt 1)
+http://alhls.cdn.zhanqi.tv/zqlive/246422_GSpB2.m3u8
+#EXTINF:-1,New:  江西衛視
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851529&file=.m3u8
+#EXTINF:-1,New:  勁爆體育
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851531&file=.m3u8
+#EXTINF:-1,New:  MAX極速汽車
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851532&file=.m3u8
+#EXTINF:-1,New:  歡笑劇場
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851536&file=.m3u8
+#EXTINF:-1,New:  生活時尚
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851537&file=.m3u8
+#EXTINF:-1,New:  魅力音樂
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851538&file=.m3u8
+#EXTINF:-1,New:  廣東衛視
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851541&file=.m3u8
+#EXTINF:-1,New:  北京衛視
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851542&file=.m3u8
+#EXTINF:-1,New:  東方衛視
+http://httpdvb.slave.pyitv.com//playurl?playtype=live&protocol=hls&accesstoken=R5B607210U31964108K7735A222ID9C61374PBM2FB13B7V10400Z6B731WDF167679101&playtoken=&programid=4200851543&file=.m3u8
+#EXTINF:-1,New:  民視HD
+http://125.227.35.176:18080/ftv/index.m3u8
+#EXTINF:-1,New:  台視HD
+http://125.227.35.176:18080/CTS/index.m3u8
+#EXTINF:-1,New:  三立台灣台
+http://125.227.35.176:18080/set/index.m3u8
+#EXTINF:-1,New:  天映頻道
+http://95.211.216.77:8278/Celestial/playlist.m3u8
+#EXTINF:-1,New:  WOWOW MOVIES (JPN|ENG)
+http://192.240.127.34:1935/live/cs27.stream/playlist.m3u8?wowzasessionid=1300220279
+#EXTINF:-1,New:  家庭劇場 (JPN)
+http://192.240.127.34:1935/live/cs11.stream/playlist.m3u8?wowzasessionid=2132394220
+#EXTINF:-1,New:  HISTORY (JPN|ENG)
+http://192.240.127.34:1935/live/cs14.stream/playlist.m3u8?wowzasessionid=1203854395
+#EXTINF:-1,New:  Japanet DX Channel (JPN)
+http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_600.m3u8
+#EXTINF:-1,New:  NTV News 24 (JPN)
+http://www.news24.jp/livestream/index.m3u8
+#EXTINF:-1,New:  Japan Cartoon (JPN)
+http://192.240.127.34:1935/live/cs19.stream/play.m3u8?wowzasessionid=708726640
+#EXTINF:-1,New:  朝日台 (JPN)
+http://192.240.127.34:1935/live/cs19.stream/playlist.m3u8?wowzasessionid=1566329228
+#EXTINF:-1,New:  衛星電視 (JPN|Chinese)
+http://192.240.127.34:1935/live/cs18.stream/playlist.m3u8?wowzasessionid=1009455217
+#EXTINF:-1,New:  寰宇地理
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225791/1.m3u8
+#EXTINF:-1,New:  Discovery HD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/03.m3u8
+#EXTINF:-1,New:  上海紀實頻道
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225769/1.m3u8
+#EXTINF:-1,New:  五星體育
+http://huaweicdn.hb.chinamobile.com/PLTV/88888888/224/3221225772/1.m3u8
+#EXTINF:-1,New:  ESPN (BR)
+http://216.155.157.180:80/live/3050/3050/36977.ts
+#EXTINF:-1,New:  ESPN+ (BR)
+http://216.155.157.180:80/live/3050/3050/36976.ts
+#EXTINF:-1,New:  FOX SPORT (BR)
+http://216.155.157.180:80/live/3050/3050/36970.ts
+#EXTINF:-1,New:  FOX SPORT 2 (BR)
+http://216.155.157.180:80/live/3050/3050/36971.ts
+
+#EXTINF:-1,New: Skynet 1
+http://izgemma.ddns.net:8000/live/ryan/ryan/36504.ts
+#EXTINF:-1,New: Skynet 2
+http://izgemma.ddns.net:8000/live/ryan/ryan/36503.ts
+#EXTINF:-1,New: Skynet 3
+http://izgemma.ddns.net:8000/live/ryan/ryan/36502.ts
+#EXTINF:-1,New: Skynet 4
+http://izgemma.ddns.net:8000/live/ryan/ryan/36501.ts
+#EXTINF:-1,New: Skynet 5
+http://izgemma.ddns.net:8000/live/ryan/ryan/36500.ts
+#EXTINF:-1,New: Skynet 6
+http://izgemma.ddns.net:8000/live/ryan/ryan/36499.ts
+#EXTINF:-1,New: MATCH!_HD
+http://193.93.236.121:9991/play/Match_HD/index.m3u8
+#EXTINF:-1,New: MATCH! ARENA_HD
+http://193.93.236.121:9991/play/Match_Arena_HD/index.m3u8
+#EXTINF:-1,New: MATCH! FOOTBALL 1 HD
+http://193.93.236.121:9991/play/Match_Footbal_1_HD/index.m3u8
+#EXTINF:-1,New: MATCH! FOOTBALL 2 HD
+http://193.93.236.121:9991/play/Match_Footbal_2_HD/index.m3u8
+#EXTINF:-1,New: MATCH! FOOTBALL 3 HD
+http://193.93.236.121:9991/play/Match_Footbal_3_HD/index.m3u8
+#EXTINF:-1,New: Astro Sport
+http://izgemma.ddns.net:8000/live/ryan/ryan/36505.ts
+#EXTINF:-1,New: Super Sport 1 HD
+http://195.154.107.246:1155/live/arous/arous1/49.ts
+#EXTINF:-1,New: Super Sport 2 HD
+http://195.154.107.246:1155/live/arous/arous1/53.ts
+#EXTINF:-1,New: Super Sport 3 HD
+http://195.154.107.246:1155/live/arous/arous1/149.ts
+#EXTINF:-1,New: HALLMARK MOVIES HD
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/5136.ts
+#EXTINF:-1,New: NBC Sport HD
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/914.ts
+#EXTINF:-1,New: HBO US HD
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/5135.ts
+#EXTINF:-1,New: HBO Family
+http://mancaveiptv.biz:8000/live/Mitchell/Mitchell/3684.ts
+#EXTINF:-1,Indo: NINMEDIA
+http://stream1.ninmedia.tv/live/nin-info.stream_nin/playlist.m3u8
+
+#EXTINF:-1,Indo: RCTI
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511532707866226/1024.m3u8
+#EXTINF:-1,Indo: MNC
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511111714365733/1024.m3u8
+#EXTINF:-1,Indo: INEWS
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511541532132975/1024.m3u8
+#EXTINF:-1,Indo: GLOBALTV
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511505498448705/1024.m3u8
+#EXTINF:-1,Indo: SCTV
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15010918464887721048/1024.m3u8
+#EXTINF:-1,Indo: INDOSIAR
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch15051810235326945512/1024.m3u8
+#EXTINF:-1,Indo: TRANS TV
+http://202.80.222.6/mnt/tmpfs/hls/001/001/ch14041511552652254306/1024.m3u8
+#EXTINF:-1,Indo: TRANS 7
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14041511545447343123/1024.m3u8
+#EXTINF:-1,Indo: ANTV
+http://210.210.155.35/qwr9ew/s/s07/index1.m3u8
+#EXTINF:-1,Indo: NET
+http://lihattv.com/?play=43396
+#EXTINF:-1,Indo: NET HD
+http://boosstalive1-a.akamaihd.net/f894a6ebf56c4569bea516042afd1d55/ap-southeast-1/5664852414001/profile_0/chunklist.m3u8
+#EXTINF:-1,Indo: KOMPAS TV
+http://210.210.155.35/qwr9ew/s/s09/index1.m3u8
+#EXTINF:-1,Indo: TVONE
+http://202.80.222.4/mnt/tmpfs/hls/001/001/ch14061215030555428637/1024.m3u8
+#EXTINF:-1,Indo: TVRI
+http://ott.tvri.co.id/Content/HLS/Live/Channel(TVRInasional)/Stream(03)/index.m3u8
+#EXTINF:-1,Indo: METRO TV
+http://210.210.155.35/qwr9ew/s/s49/index1.m3u8
+#EXTINF:-1,Indo: CNN_INDONESIA
+http://live.cnnindonesia.com/livecnn/smil:cnntv.smil/chunklist_w2069650134_b280000_sleng.m3u8
+#EXTINF:-1,Indo: BERITA_SATU_HD
+http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsnew/playlist.m3u8
+#EXTINF:-1,ASEAN: MNC
+http://185.21.216.166:8554/whale/mnctv/playlist.m3u8
+#EXTINF:-1,ASEAN: RCTI
+http://185.21.216.166:8554/whale/rcti/playlist.m3u8
+#EXTINF:-1,ASEAN: Global TV
+http://185.21.216.166:8554/whale/globaltv/playlist.m3u8
+#EXTINF:-1,ASEAN: INDOSIAR
+http://185.21.216.166:8554/whale/indonesiar/playlist.m3u8
+#EXTINF:-1,ASEAN: SCTV
+http://185.21.216.166:8554/whale/sctv/playlist.m3u8
+#EXTINF:-1,ASEAN: ANTV
+http://185.21.216.166:8554/whale/antv/playlist.m3u8
+#EXTINF:-1,ASEAN: TRANS 7
+http://185.21.216.166:8554/whale/trans7/playlist.m3u8
+#EXTINF:-1,ASEAN: TRANS TV
+http://185.21.216.166:8554/whale/transtv/playlist.m3u8
+#EXTINF:-1,ASEAN: iNews
+http://185.21.216.166:8554/whale/inewstv/playlist.m3u8
+#EXTINF:-1,ASEAN: RTM1
+http://rtm-live.glueapi.io/smil:rtmch001.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,ASEAN: RTM2
+http://rtm-live.glueapi.io/smil:rtmch002/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,ASEAN: TV3
+http://103.242.13.90:5555/udp/239.4.1.214:10000
+#EXTINF:-1,ASEAN: ASTRO ARENA
+http://playbackn5.aotg-video.astro.com.my/CH1/master_ARENA_8.m3u8
+#EXTINF:-1,ASEAN: TV Okey
+http://rtm-live.glueapi.io/smil:rtmch003.smil/chunklist_b1064000_sleng.m3u8
+#EXTINF:-1,ASEAN: AXN HD
+http://cshms4.airtel.tv/wh7f454c46tw2959729406_596421737/PLTV/88888888/224/3221226485/04.m3u8
+#EXTINF:-1,ASEAN: ASTRO GO SHOP
+http://playback01.aotg-video.astro.com.my/AOTGHLS/master_AGSS_04.m3u8
+#EXTINF:-1,ASEAN: SURIA
+https://d11h6a6nhl9kj9.cloudfront.net/hls/suriapcweb/prog_index.m3u8
+#EXTINF:-1,ASEAN: CHANNEL 5
+https://dlau142f16b92.cloudfront.net/hls/ch5pcweb/prog_index.m3u8
+#EXTINF:-1,ASEAN: CHANNEL NEWS ASIA
+https://d2ko4czujk9652.cloudfront.net/hls/cnaspcweb/prog_index.m3u8
+#EXTINF:-1,ASEAN: OKTO
+https://ddftztnzt6o79.cloudfront.net/hls/oktopcweb/prog_index.m3u8
+#EXTINF:-1,ASEAN: RT HD
+http://103.242.13.90:5555/udp/239.4.1.98:10000
+#EXTINF:-1,ASEAN: ASTRO AWANI
+http://lihattv.com/?play=43295
+#EXTINF:-1,ASEAN: TV9
+http://lihattv.com/?play=43128
+#EXTINF:-1,ASEAN: TV5_MONDE
+http://lihattv.com/?play=43408
+#EXTINF:-1,ASEAN: SETANTA
+http://103.242.13.90:5555/udp/239.4.1.132:10000
+
+
+#EXTINF:-1,GEO: DISCOVERY HD WORLD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226205/index.m3u8
+#EXTINF:-1,GEO: ANIMAL PLANET HD WORLD
+http://mhms5.airtel.tv/PLTV/88888888/224/3221226201/index.m3u8
+#EXTINF:-1,GEO: ANIMAL PLANET SOUTH EAST ASIA
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/15.m3u8
+#EXTINF:-1,GEO: DISCOVERY TURBO
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225782/index.m3u8
+#EXTINF:-1,GEO: DISCOVERY SCEINCE
+http://cshms3.airtel.tv/wh7f454c46tw4163224253_611767333/PLTV/88888888/224/3221225778/index.m3u8
+#EXTINF:-1,GEO: INVESTIGATION DISCOVERY
+https://content-ausw3.uplynk.com/channel/a6fe2dd55b3149a6a59154a93e348012/h.m3u8?pbs=a089fc6c8ffc42d081b85ba79b60ab56
+#EXTINF:-1,GEO: SONY BBC EARTH HINDI
+http://mhms9.airtel.tv/wh7f454c46tw133991019_1870526460/PLTV/88888888/224/3221226280/index.m3u8
+#EXTINF:-1,GEO: BBC EARTH
+http://103.253.75.90:25461/live/thflixCH/L0ujk6zZ7N/18.m3u8
+#EXTINF:-1,GEO: CRIME + INVESTIGATION
+http://iliketot.dyndns.tv/9961a963920f45f4bc0d81c3e478b334.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni82LzIwMTggMzoxNDozNiBBTSZoYXNoX3ZhbHVlPU1RR0FLaEZQN2ZnMVhRbkhtRnd5Zmc9PSZ2YWxpZG1pbnV0ZXM9MSZpZD1zazJrNGJwfDgwN3x1cGxheXwxNTI4MjU0ODc2fDIwMi4yOC40MS4xNDQ=
+#EXTINF:-1,GEO: CGTN DOCUMENTARY
+http://live.cgtn.com/cctv-d.m3u8
+#EXTINF:-1,GEO: RT DOCUMENTARY
+https://secure-streams.akamaized.net/rt-doc/index.m3u8
+#EXTINF:-1,GEO: HISTORY CHANNEL
+http://wowza2.mysoltv.com:1992/UK_ENG_history/index.m3u8
+#EXTINF:-1,GEO: H2
+http://wowza2.mysoltv.com:1992/UK_ENG_history2/index.m3u8
+#EXTINF:-1,GEO: TRAVEL XP
+http://cshms4.airtel.tv/PLTV/88888888/224/3221225813/index.m3u8
+#EXTINF:-1,GEO: TRAVEL CHANNEL
+https://ovh.easyview.eu/hls/travelchannel.m3u8
+#EXTINF:-1,GEO: TLC HD WORLD
+http://mhms9.airtel.tv/wh7f454c46taw1033387593_346937752/PLTV/88888888/224/3221226279/index.m3u8
+
+#EXTINF:-1,---SKY_UK_CHANNEL--
+http://leon-iptv.ddns.net:1155/live/test1/test2/1003.ts
+#EXTINF:-1,UK:Movies-Action-HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1005.ts
+#EXTINF:-1,UK:Movies_Comedy.HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1008.ts
+#EXTINF:-1,UK:Movies-Drama.HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1007.ts
+#EXTINF:-1,UK:Sky-Movies-Family-HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1006.ts
+#EXTINF:-1,UK:Sky-Movies-PremiereHD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1004.ts
+#EXTINF:-1,UK:Sky-Movies-Select
+http://leon-iptv.ddns.net:1155/live/test1/test2/2275.ts
+#EXTINF:-1,UK: Sky Sports Premier League HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2276.ts
+#EXTINF:-1,UK:Sky-Thriller-Movies
+http://leon-iptv.ddns.net:1155/live/test1/test2/2274.ts
+#EXTINF:-1,Sky Cinema Premiere HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1010.ts
+#EXTINF:-1,UK:Sky_Atlantic
+http://leon-iptv.ddns.net:1155/live/test1/test2/1420.ts
+#EXTINF:-1,UK-SKY-MOVIES-DISNEY
+http://leon-iptv.ddns.net:1155/live/test1/test2/1419.ts
+#EXTINF:-1,UK:Horror-Channel-UK
+http://leon-iptv.ddns.net:1155/live/test1/test2/2283.ts
+#EXTINF:-1,UK:SyFy-HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2280.ts
+#EXTINF:-1,UK:Crime-Investigation
+http://leon-iptv.ddns.net:1155/live/test1/test2/2021.ts
+#EXTINF:-1,UK:Comedy-Central-HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2022.ts
+#EXTINF:-1,UK:_Movies_Thriller
+http://leon-iptv.ddns.net:1155/live/test1/test2/1418.ts
+#EXTINF:-1,[UK] TRUE MOVIES 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2928.ts
+#EXTINF:-1,[UK] TRUE MOVIES 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2929.ts
+#EXTINF:-1,[UK] DAVE HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2932.ts
+#EXTINF:-1,[UK] DMAX HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2934.ts
+#EXTINF:-1,[UK] FILMS 4HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2933.ts
+#EXTINF:-1,[UK] FOX HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2930.ts
+#EXTINF:-1,[UK] MORE 4HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2935.ts
+#EXTINF:-1,[UK] MOVIES 4 Men
+http://leon-iptv.ddns.net:1155/live/test1/test2/2936.ts
+#EXTINF:-1,[UK] RTE 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2938.ts
+#EXTINF:-1,[UK] RTE 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2937.ts
+#EXTINF:-1,[UK] BBC NEWS HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2945.ts
+#EXTINF:-1,UK:CBS_Action_HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2922.ts
+#EXTINF:-1,UK:Racing UK
+http://leon-iptv.ddns.net:1155/live/test1/test2/2923.ts
+#EXTINF:-1,[UK] CBS REALLITY HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2931.ts
+#EXTINF:-1,UK:BBC-1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1014.ts
+#EXTINF:-1,UK:BBC-2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1013.ts
+#EXTINF:-1,UK:BBC-3HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1012.ts
+#EXTINF:-1,[UK] BBC 4HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2944.ts
+#EXTINF:-1,[UK] At The Races
+http://leon-iptv.ddns.net:1155/live/test1/test2/2939.ts
+#EXTINF:-1,[UK] ITV 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2943.ts
+#EXTINF:-1,[UK] ITV 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2942.ts
+#EXTINF:-1,[UK] ITV 3HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2941.ts
+#EXTINF:-1,[UK] ITV 4HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2940.ts
+#EXTINF:-1,UK:Discovery-Turbo
+http://leon-iptv.ddns.net:1155/live/test1/test2/2269.ts
+#EXTINF:-1,[UK] ANIMAL PLANNET
+http://leon-iptv.ddns.net:1155/live/test1/test2/2927.ts
+#EXTINF:-1,UK:Nat-GeoWild-HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2279.ts
+#EXTINF:-1,UK:Discovery-Shed-UK
+http://leon-iptv.ddns.net:1155/live/test1/test2/2270.ts
+#EXTINF:-1,UK:Crime&Investigation
+http://leon-iptv.ddns.net:1155/live/test1/test2/2267.ts
+#EXTINF:-1,UK:National-Geographic-HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2273.ts
+#EXTINF:-1,UK:History
+http://leon-iptv.ddns.net:1155/live/test1/test2/2272.ts
+#EXTINF:-1,UK:Discovery-History
+http://leon-iptv.ddns.net:1155/live/test1/test2/2271.ts
+#EXTINF:-1,[UK] DISNEY CHANNEL HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2925.ts
+#EXTINF:-1,UK:Disney_XD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2924.ts
+#EXTINF:-1,[UK] DISNEY JUNIOR HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2926.ts
+#EXTINF:-1,UK:Disney_junior
+http://leon-iptv.ddns.net:1155/live/test1/test2/2268.ts
+#EXTINF:-1,---SKY_UK_SPORT----
+http://leon-iptv.ddns.net:1155/live/test1/test2/1015.ts
+#EXTINF:-1,UK:Sky-Sports-1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1016.ts
+#EXTINF:-1,UK-SKY SPORT-2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1017.ts
+#EXTINF:-1,UK-SKY SPORT-3HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1018.ts
+#EXTINF:-1,UK:Sky-Sports-4HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1019.ts
+#EXTINF:-1,[UK] SKY SPORT 5HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/56.ts
+#EXTINF:-1,UK:-BT-Sport1
+http://leon-iptv.ddns.net:1155/live/test1/test2/1011.ts
+#EXTINF:-1,UK:BT-Sport-2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1020.ts
+#EXTINF:-1,[UK] BT SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2948.ts
+#EXTINF:-1,[UK] BT SPORT .2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2947.ts
+#EXTINF:-1,[UK] BT SPORT ESPN
+http://leon-iptv.ddns.net:1155/live/test1/test2/2946.ts
+#EXTINF:-1,[UK] CITY
+http://leon-iptv.ddns.net:1155/live/test1/test2/83.ts
+#EXTINF:-1,UK:Sports-Night
+http://leon-iptv.ddns.net:1155/live/test1/test2/159.ts
+#EXTINF:-1,UK: Comedy Central
+http://leon-iptv.ddns.net:1155/live/test1/test2/158.ts
+
+#EXTINF:-1,|USA|  HBO
+http://leon-iptv.ddns.net:1155/live/test1/test2/2192.ts
+#EXTINF:-1,|USA|  HBO Zone
+http://leon-iptv.ddns.net:1155/live/test1/test2/2987.ts
+#EXTINF:-1,|USA| HBO Comedy
+http://leon-iptv.ddns.net:1155/live/test1/test2/2989.ts
+#EXTINF:-1,|USA| HBO Signature
+http://leon-iptv.ddns.net:1155/live/test1/test2/2988.ts
+#EXTINF:-1,|USA| HALLMARK
+http://leon-iptv.ddns.net:1155/live/test1/test2/2196.ts
+#EXTINF:-1,|USA| CBS_ACTION_HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2331.ts
+#EXTINF:-1,|USA| FX_HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2195.ts
+#EXTINF:-1,|USA| SYFY HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2328.ts
+#EXTINF:-1,|USA|  TBS HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2994.ts
+#EXTINF:-1,|USA|  AFN MOVIE
+http://leon-iptv.ddns.net:1155/live/test1/test2/2997.ts
+#EXTINF:-1,|USA| Discovery_Investigation_ID
+http://leon-iptv.ddns.net:1155/live/test1/test2/2191.ts
+#EXTINF:-1,|USA|  ANIMAL PLANET HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2996.ts
+#EXTINF:-1,|USA|  DISCOVERY HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2993.ts
+#EXTINF:-1,|USA|  Discovery Investigation ID
+http://leon-iptv.ddns.net:1155/live/test1/test2/2990.ts
+#EXTINF:-1,|USA|  DISCOVERY Science HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2992.ts
+#EXTINF:-1,|USA|  Discovery Showcase
+http://leon-iptv.ddns.net:1155/live/test1/test2/2991.ts
+#EXTINF:-1,|USA| National Geographic HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1765.ts
+#EXTINF:-1,|USA| A&E TV HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1458.ts
+#EXTINF:-1,|USA| Food-Network-HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1461.ts
+#EXTINF:-1,|USA|  CNN HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2995.ts
+#EXTINF:-1,USA:CNBC_HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2330.ts
+#EXTINF:-1,|USA| Willow Cricket HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2986.ts
+#EXTINF:-1,|USA| BOOMBERANG
+http://leon-iptv.ddns.net:1155/live/test1/test2/2190.ts
+#EXTINF:-1,|USA| TSN 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1460.ts
+#EXTINF:-1,|USA| TSN 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1459.ts
+#EXTINF:-1,|USA| TSN 3HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1456.ts
+#EXTINF:-1,|USA| TSN 4HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1455.ts
+#EXTINF:-1,|USA| TSN 5HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1454.ts
+#EXTINF:-1,[USA] SUPER SPORT 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/49.ts
+#EXTINF:-1,[USA] SUPER SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/53.ts
+#EXTINF:-1,[USA] SUPER SPORT 3HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/149.ts
+#EXTINF:-1,|USA| Bein_Sports_USA_HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2329.ts
+#EXTINF:-1,|USA|  C-SPAN1
+http://leon-iptv.ddns.net:1155/live/test1/test2/3000.ts
+#EXTINF:-1,[AR] AL NAHAR DRAMA HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1447.ts
+#EXTINF:-1,|USA| TNT.HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2999.ts
+#EXTINF:-1,|USA| C-SPAN3
+http://leon-iptv.ddns.net:1155/live/test1/test2/2998.ts
+#EXTINF:-1,USA:PAC_12_Net_Los Angeles
+http://leon-iptv.ddns.net:1155/live/test1/test2/2189.ts
+#EXTINF:-1,USA:ESPN-1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1457.ts
+#EXTINF:-1,|USA| ESPN 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1948.ts
+#EXTINF:-1,USA:PAC-12_Network_Live
+http://leon-iptv.ddns.net:1155/live/test1/test2/1770.ts
+#EXTINF:-1,|USA| PAC-12_Net_Arizona
+http://leon-iptv.ddns.net:1155/live/test1/test2/1767.ts
+
+#EXTINF:-1,|RU| Futbol
+http://leon-iptv.ddns.net:1155/live/test1/test2/3713.ts
+#EXTINF:-1,|RU| Animal Planet HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/3714.ts
+#EXTINF:-1,|RU| kino
+http://leon-iptv.ddns.net:1155/live/test1/test2/3723.ts
+#EXTINF:-1,|RU| Kino Media
+http://leon-iptv.ddns.net:1155/live/test1/test2/3720.ts
+#EXTINF:-1,|RU| Mash Futbol
+http://leon-iptv.ddns.net:1155/live/test1/test2/3735.ts
+#EXTINF:-1,|RU| Match FUTBOL 1
+http://leon-iptv.ddns.net:1155/live/test1/test2/3712.ts
+#EXTINF:-1,|RU| Match FUTBOL 2
+http://leon-iptv.ddns.net:1155/live/test1/test2/3711.ts
+#EXTINF:-1,|RU| Match FUTBOL 3
+http://leon-iptv.ddns.net:1155/live/test1/test2/3710.ts
+
+#EXTINF:-1,[IT] RETE 4HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/209.ts
+#EXTINF:-1,[IT] CANAL 5HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/210.ts
+#EXTINF:-1,[IT] ITALIA 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/211.ts
+#EXTINF:-1,[IT] SKY CINIMA 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/677.ts
+#EXTINF:-1,[IT] SKY CINEMA +1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/743.ts
+#EXTINF:-1,[IT] SKY CINIMA COMEDY HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/680.ts
+#EXTINF:-1,[IT] SKY CINIMA HITS HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/679.ts
+#EXTINF:-1,[IT] SKY CINIMA MAX HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/678.ts
+#EXTINF:-1,[IT] SKY CINEMA MAX +1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/745.ts
+#EXTINF:-1,[IT] SKY CINEMA PASSION HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/681.ts
+#EXTINF:-1,[IT] SKY CINEMA 24HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/683.ts
+#EXTINF:-1,[IT] SKY CINEMA CLASSICS HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/684.ts
+#EXTINF:-1,[IT] SKY CINEMA FAMILY HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/682.ts
+#EXTINF:-1,[IT] SKY ATLANTIC HD 
+http://leon-iptv.ddns.net:1155/live/test1/test2/1399.ts
+#EXTINF:-1,[IT] SKY CINIMA CULT HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1398.ts
+#EXTINF:-1,===RAI_CHANNEL===
+http://leon-iptv.ddns.net:1155/live/test1/test2/1493.ts
+#EXTINF:-1,[IT] RAI 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1494.ts
+#EXTINF:-1,[IT] RAI 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1495.ts
+#EXTINF:-1,[IT] RAI 3HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1496.ts
+#EXTINF:-1,[IT] RAI 4HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1497.ts
+#EXTINF:-1,[IT] RAI PREMUIM HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1498.ts
+#EXTINF:-1,•●★Premium_IT_Cinema ★●•
+http://leon-iptv.ddns.net:1155/live/test1/test2/685.ts
+#EXTINF:-1,[IT] PREMUIM CINEMA HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/686.ts
+#EXTINF:-1,[IT] PREMUIM ACTION HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/688.ts
+#EXTINF:-1,[IT] PREMUIM CINIMA 24HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/751.ts
+#EXTINF:-1,[IT] PREMUIM ACTION 24HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1344.ts
+#EXTINF:-1,[IT] PREMUIM CINIMA 24HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1341.ts
+#EXTINF:-1,[IT] PREMUIM CINIMA 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1340.ts
+#EXTINF:-1,[IT] PREMUIM CINIMA COMEDY HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1347.ts
+#EXTINF:-1,[IT] PREMUIM CINIMA EMOTION HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1345.ts
+#EXTINF:-1,[IT] PREMUIM CINIMA ENERGY HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1346.ts
+#EXTINF:-1,[IT] PREMUIM CRIME HD 
+http://leon-iptv.ddns.net:1155/live/test1/test2/1343.ts
+#EXTINF:-1,[IT] PREMUIM CINIMA +24HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1342.ts
+#EXTINF:-1,[IT] RSi LA 1
+http://leon-iptv.ddns.net:1155/live/test1/test2/2150.ts
+#EXTINF:-1,[IT] RSI LA 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/190.ts
+#EXTINF:-1,[IT] SKY CINIMA Uno HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/219.ts
+#EXTINF:-1,[IT] ALTO ADIGE TV HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/217.ts
+#EXTINF:-1,[IT] CANALE 7HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/220.ts
+#EXTINF:-1,[IT] Sky HISTORY HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1092.ts
+#EXTINF:-1,[IT] SKY SPORT 24HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/153.ts
+#EXTINF:-1,[IT] PREMUIM CALCIO 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/753.ts
+#EXTINF:-1,[IT] PREMUIM SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1400.ts
+#EXTINF:-1,[IT] SKY SPORT 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1350.ts
+#EXTINF:-1,[IT] SKY SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1351.ts
+#EXTINF:-1,[IT] SKY SPORT 3HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1352.ts
+#EXTINF:-1,[IT] SKY CALCIO 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1353.ts
+#EXTINF:-1,[IT] SKY CALCIO 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2687.ts
+#EXTINF:-1,[IT] SKY CALCIO 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1354.ts
+#EXTINF:-1,[IT] SKY CALCIO 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2688.ts
+#EXTINF:-1,[IT] SKY CALCIO 4HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2681.ts
+#EXTINF:-1,[IT] SKY CALCIO 3HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2083.ts
+#EXTINF:-1,[IT] SKY SPORT GP HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1348.ts
+#EXTINF:-1,[IT] SKY SPORT F1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1349.ts
+#EXTINF:-1,[IT] JUVENTUS CHANNEL HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2689.ts
+#EXTINF:-1,[IT] RAI SPORT 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2674.ts
+#EXTINF:-1,[IT] RAI SPORT 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2678.ts
+#EXTINF:-1,[IT] PREMUIM CALCIO 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2676.ts
+#EXTINF:-1,[IT] PREMUIM CALCIO 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2675.ts
+#EXTINF:-1,[IT] PREMUIM CALCIO HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2684.ts
+#EXTINF:-1,[IT] PREMUIM SPORT HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2682.ts
+#EXTINF:-1,[IT] PREMUIM SPORT 2HD
+
+http://leon-iptv.ddns.net:1155/live/test1/test2/2683.ts
+#EXTINF:-1,•●★--PRIMA_FILA----★●•
+http://leon-iptv.ddns.net:1155/live/test1/test2/620.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1379.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1380.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 3HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1381.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 4HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1382.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 5HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1383.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 6HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1384.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 7HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1385.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 8HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1386.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 9HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1387.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 10HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1388.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 11HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1474.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 12HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1473.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 13HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1470.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 14HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1469.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 10HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1484.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 16HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1466.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 17HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1464.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 18HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1463.ts
+#EXTINF:-1,[IT] SKY PRIMA FILA 19HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1587.ts
+
+#EXTINF:-1,TR:  BeIN Box Office 1 HD
+http://212.8.248.197:8080/live/amal/amal1/2167.ts
+#EXTINF:-1,TR:  BeIN Box Office 2 HD
+http://212.8.248.197:8080/live/amal/amal1/2175.ts
+#EXTINF:-1,TR:  BeIN Box Office 3 HD
+http://212.8.248.197:8080/live/amal/amal1/2176.ts
+#EXTINF:-1,TR:  Star Cine+ 1 HD
+http://212.8.248.197:8080/live/amal/amal1/1941.ts
+#EXTINF:-1,TR:  Star Cine+ 2 HD
+http://212.8.248.197:8080/live/amal/amal1/1942.ts
+#EXTINF:-1,TR:  Star Cine+ 3 HD
+http://212.8.248.197:8080/live/amal/amal1/1943.ts
+#EXTINF:-1,TR:  Star Cine+ 4 HD
+http://212.8.248.197:8080/live/amal/amal1/2003.ts
+#EXTINF:-1,TR: Star Cine+ 6 HD
+http://212.8.248.197:8080/live/amal/amal1/1964.ts
+#EXTINF:-1,TR: Star Cine+ 5 HD
+http://212.8.248.197:8080/live/amal/amal1/1948.ts
+#EXTINF:-1,TR: Star Cine+ 7 HD
+http://212.8.248.197:8080/live/amal/amal1/2186.ts
+#EXTINF:-1,TR:  BeIN Movies Famly HD
+http://212.8.248.197:8080/live/amal/amal1/2020.ts
+#EXTINF:-1,TR:  BeIN Movies Premier HD
+http://212.8.248.197:8080/live/amal/amal1/2159.ts
+#EXTINF:-1,TR:   Bein Sport 1 HD
+http://212.8.248.197:8080/live/amal/amal1/2002.ts
+#EXTINF:-1,TR:  Bein Sport 2 HD
+http://212.8.248.197:8080/live/amal/amal1/2001.ts
+#EXTINF:-1,TR:  Bein Sport 3 HD
+http://212.8.248.197:8080/live/amal/amal1/2000.ts
+
+#EXTINF:-1,[AR] BEIN SPORT NEWS HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1327.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/5209.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/3879.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.1.sd
+http://leon-iptv.ddns.net:1155/live/test1/test2/3880.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/3881.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.2.sd
+http://leon-iptv.ddns.net:1155/live/test1/test2/3882.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_3HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/3883.ts
+#EXTINF:-1,[AR]BEIN-SPORTS.3.sd
+http://leon-iptv.ddns.net:1155/live/test1/test2/3884.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_4HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/3885.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.4.sd
+http://leon-iptv.ddns.net:1155/live/test1/test2/3886.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_5HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/3887.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.5.sd
+http://leon-iptv.ddns.net:1155/live/test1/test2/3888.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_6HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/3889.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.6.sd
+http://leon-iptv.ddns.net:1155/live/test1/test2/3890.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_7HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/3891.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.7.sd
+http://leon-iptv.ddns.net:1155/live/test1/test2/3892.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_8HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/3893.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.8.sd
+http://leon-iptv.ddns.net:1155/live/test1/test2/3894.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_9HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/3895.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.9.sd
+http://leon-iptv.ddns.net:1155/live/test1/test2/3896.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_10HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/3897.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-.10.sd
+http://leon-iptv.ddns.net:1155/live/test1/test2/3898.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_11HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/3899.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_12HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/3900.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_13HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/4675.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_14HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/4665.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_15HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/4664.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_16HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/4663.ts
+#EXTINF:-1,[AR]BEIN_SPORTS-_17HD ES
+http://leon-iptv.ddns.net:1155/live/test1/test2/4662.ts
+
+#EXTINF:-1,[NL] SBS 6 HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/5613.ts
+#EXTINF:-1,[NL] SBS 9 HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/5612.ts
+#EXTINF:-1,[NL]...SPORT...[NL]
+http://leon-iptv.ddns.net:1155/live/test1/test2/5611.ts
+#EXTINF:-1,|NL| Fox Sports HD 1*LOCAL*
+http://leon-iptv.ddns.net:1155/live/test1/test2/5610.ts
+#EXTINF:-1,[NL] Fox Sports HD 2
+http://leon-iptv.ddns.net:1155/live/test1/test2/5609.ts
+#EXTINF:-1,|NL| Fox Sports HD 3*LOCAL*
+http://leon-iptv.ddns.net:1155/live/test1/test2/5608.ts
+#EXTINF:-1,|NL| Fox Sports HD 4*LOCAL*
+http://leon-iptv.ddns.net:1155/live/test1/test2/5607.ts
+#EXTINF:-1,|NL| Fox Sports HD 5*LOCAL*
+http://leon-iptv.ddns.net:1155/live/test1/test2/5606.ts
+#EXTINF:-1,|NL| Fox Sports HD 6*LOCAL*
+http://leon-iptv.ddns.net:1155/live/test1/test2/5605.ts
+#EXTINF:-1,|NL| |NL| Extreme Sports *LOCAL*
+http://leon-iptv.ddns.net:1155/live/test1/test2/5604.ts
+#EXTINF:-1,|NL|....CULTURE...|NL|
+http://leon-iptv.ddns.net:1155/live/test1/test2/5603.ts
+#EXTINF:-1,[NL] Discovery Showcase HD *
+http://leon-iptv.ddns.net:1155/live/test1/test2/5601.ts
+#EXTINF:-1,|NL| |NL| DISCOVERY HD *LOCAL*
+http://leon-iptv.ddns.net:1155/live/test1/test2/5602.ts
+#EXTINF:-1,[NL] DISCO INVESTIGATION HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/5600.ts
+#EXTINF:-1,[NL] NATIONAL GEO HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/5599.ts
+#EXTINF:-1,[NL] NATIONAL GEO WILD HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/5598.ts
+#EXTINF:-1,[NL] ANIMAL PLANNET HD 
+http://leon-iptv.ddns.net:1155/live/test1/test2/5596.ts
+#EXTINF:-1,[NL] HISTORY CHANNEL HD 
+http://leon-iptv.ddns.net:1155/live/test1/test2/5595.ts
+#EXTINF:-1,[NL] TRAVEL CHANNEL HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/5597.ts
+#EXTINF:-1,[NL]....KINO...[NL]
+http://leon-iptv.ddns.net:1155/live/test1/test2/5594.ts
+#EXTINF:-1,[NL] Film 1 Action HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/5593.ts
+#EXTINF:-1,[NL] Film 1 Premiere HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/5592.ts
+#EXTINF:-1,[NL] Film1 Family HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/5591.ts
+#EXTINF:-1,[NL] Film1 SUNDANCE HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/5590.ts
+#EXTINF:-1,[NL] HBO 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/5589.ts
+#EXTINF:-1,[NL] HBO 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/5588.ts
+#EXTINF:-1,[NL] HBO 3HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/5587.ts
+
+#EXTINF:-1,[PT] TV CINE 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1523.ts
+#EXTINF:-1,[PT] TV CINE 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1524.ts
+#EXTINF:-1,[PT] TV CINE 3HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1525.ts
+#EXTINF:-1,[PT] TV CINE 4HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1526.ts
+#EXTINF:-1,[PT] HOLLYWOOD HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2120.ts
+#EXTINF:-1,[PT] TV SERIES HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2117.ts
+#EXTINF:-1,[PT] AXN HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2130.ts
+#EXTINF:-1,[PT] AXN BLACK HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2131.ts
+#EXTINF:-1,[PT] AXN WHITE HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2129.ts
+#EXTINF:-1,[PT] FOX MOVIES HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2140.ts
+#EXTINF:-1,[PT] FOX CRIME HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2128.ts
+#EXTINF:-1,[PT] FOX HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2127.ts
+#EXTINF:-1,[PT] FOX LIFE HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2126.ts
+#EXTINF:-1,[PT] FOX MOVIES HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2133.ts
+#EXTINF:-1,[PT] FOX CRIME HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2137.ts
+#EXTINF:-1,[PT] FOX COMEDY HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2135.ts
+#EXTINF:-1,[PT] SYFY HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2142.ts
+#EXTINF:-1,[PT] TLC
+http://leon-iptv.ddns.net:1155/live/test1/test2/2484.ts
+#EXTINF:-1,[PT] TVC2 HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2483.ts
+#EXTINF:-1,[PT] NATIONAL GEO
+http://leon-iptv.ddns.net:1155/live/test1/test2/2123.ts
+#EXTINF:-1,[PT] DISCOVERY HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2125.ts
+#EXTINF:-1,[PT] NAT GEO WILD HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2479.ts
+#EXTINF:-1,[PT] Nickelodeon HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2477.ts
+#EXTINF:-1,[PT] DISCOVERY SHOW CAST
+http://leon-iptv.ddns.net:1155/live/test1/test2/2124.ts
+#EXTINF:-1,[PT] CARTOON NETWORK HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2136.ts
+#EXTINF:-1,[PT] DISNEY CHANNEL HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2139.ts
+#EXTINF:-1,[PT] DISNEY JUNIOR HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2138.ts
+#EXTINF:-1,[PT] JIM JAM HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2478.ts
+#EXTINF:-1,[PT] VH1 HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2481.ts
+#EXTINF:-1,[PT] MCM POP HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2480.ts
+#EXTINF:-1,[PT] ODISSEA HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2122.ts
+#EXTINF:-1,[PT] PORTO CANAL HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2156.ts
+#EXTINF:-1,[PT] CANAL PANDA HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2155.ts
+#EXTINF:-1,[PT] MOTOR TV HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2141.ts
+#EXTINF:-1,[PT] RTP 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2152.ts
+#EXTINF:-1,[PT] RTP 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2494.ts
+#EXTINF:-1,[PT] RTP 3HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2493.ts
+#EXTINF:-1,[PT] RTP ACORES HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2492.ts
+#EXTINF:-1,[PT] RTP AFRICA HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2491.ts
+#EXTINF:-1,[PT] RTP ACORES HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2490.ts
+#EXTINF:-1,[PT] RTP MADEIRA HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2489.ts
+#EXTINF:-1,[PT] SIC HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2488.ts
+#EXTINF:-1,[PT] SIC MULHER HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2487.ts
+#EXTINF:-1,[PT] SIC OTICIAS
+http://leon-iptv.ddns.net:1155/live/test1/test2/2486.ts
+#EXTINF:-1,[PT] RTP MEMORIA HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2485.ts
+#EXTINF:-1,=====PORTUGUES_SPORT=====
+http://leon-iptv.ddns.net:1155/live/test1/test2/1530.ts
+#EXTINF:-1,[PT] SPORT TV 1HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1531.ts
+#EXTINF:-1,[PT] SPORT TV 2HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1532.ts
+#EXTINF:-1,[PT] SPORT TV 3HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1533.ts
+#EXTINF:-1,[PT] SPORT TV 4HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1534.ts
+#EXTINF:-1,[PT] SPORT TV 5HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1535.ts
+#EXTINF:-1,[PT] PORTO CANAL HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2482.ts
+#EXTINF:-1,[PT] BENIFICA TV HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/1536.ts
+#EXTINF:-1,[PT] MOTORS TV HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2476.ts
+#EXTINF:-1,[PT]  MOTORVISION HD
+http://leon-iptv.ddns.net:1155/live/test1/test2/2475.ts
+#EXTM3U
+#EXTINF:-1, ## SULUK IPTV 4K ##
+https://s20.postimg.cc/ydeutauwd/IPTV_LOGOKU.png
+#EXTINF:-1, Suluk A&E 4K
+http://gearsreloaded.org:2086/live/polen/polen/145.m3u8
+#EXTINF:-1, Suluk ABC LA 4K
+http://gearsreloaded.org:2086/live/polen/polen/121.m3u8
+#EXTINF:-1, Suluk ABC NY 4K
+http://gearsreloaded.org:2086/live/polen/polen/122.m3u8
+#EXTINF:-1, Suluk ABC PHILLY 4K
+http://gearsreloaded.org:2086/live/polen/polen/123.m3u8
+#EXTINF:-1, Suluk AMC 4K
+http://gearsreloaded.org:2086/live/polen/polen/149.m3u8
+#EXTINF:-1, Suluk AMERICAN HEROES CHANNEL 4K
+http://gearsreloaded.org:2086/live/polen/polen/185.m3u8
+#EXTINF:-1, Suluk ANIMAL PLANET 4K
+http://gearsreloaded.org:2086/live/polen/polen/210.m3u8
+#EXTINF:-1, Suluk ANTENNA TV 4K
+http://gearsreloaded.org:2086/live/polen/polen/237.m3u8
+#EXTINF:-1, Suluk ASPIRE 4K
+http://gearsreloaded.org:2086/live/polen/polen/667.m3u8
+#EXTINF:-1, Suluk AUDIENCE NETWORK 4K
+http://gearsreloaded.org:2086/live/polen/polen/228.m3u8
+#EXTINF:-1, Suluk AWE 4K
+http://gearsreloaded.org:2086/live/polen/polen/91.m3u8
+#EXTINF:-1, Suluk AXS TV 4K
+http://gearsreloaded.org:2086/live/polen/polen/250.m3u8
+#EXTINF:-1, Suluk AZTECA 4K
+http://gearsreloaded.org:2086/live/polen/polen/669.m3u8
+#EXTINF:-1, Suluk BABY FIRST 4K
+http://gearsreloaded.org:2086/live/polen/polen/89.m3u8
+#EXTINF:-1, Suluk BBC AMERICA 4K
+http://gearsreloaded.org:2086/live/polen/polen/193.m3u8
+#EXTINF:-1, Suluk BEIN SPORTS 4K
+http://gearsreloaded.org:2086/live/polen/polen/222.m3u8
+#EXTINF:-1, Suluk BEIN SPORTS ESPANOL 4K
+http://gearsreloaded.org:2086/live/polen/polen/231.m3u8
+#EXTINF:-1, Suluk BET 4K
+http://gearsreloaded.org:2086/live/polen/polen/202.m3u8
+#EXTINF:-1, Suluk BET JAMZ 4K
+http://gearsreloaded.org:2086/live/polen/polen/241.m3u8
+#EXTINF:-1, Suluk BET SOUL 4K
+http://gearsreloaded.org:2086/live/polen/polen/227.m3u8
+#EXTINF:-1, Suluk BIG TEN NETWORK 4K
+http://gearsreloaded.org:2086/live/polen/polen/116.m3u8
+#EXTINF:-1, Suluk BOOMERANG 4K
+http://gearsreloaded.org:2086/live/polen/polen/184.m3u8
+#EXTINF:-1, Suluk BOUNCE 4K
+http://gearsreloaded.org:2086/live/polen/polen/239.m3u8
+#EXTINF:-1, Suluk BRAVO 4K
+http://gearsreloaded.org:2086/live/polen/polen/146.m3u8
+#EXTINF:-1, Suluk BUZZR 4K
+http://gearsreloaded.org:2086/live/polen/polen/547.m3u8
+#EXTINF:-1, Suluk CARS TV 4K
+http://gearsreloaded.org:2086/live/polen/polen/88.m3u8
+#EXTINF:-1, Suluk CARTOON NETWORK 4K
+http://gearsreloaded.org:2086/live/polen/polen/203.m3u8
+#EXTINF:-1, Suluk CBS LA 4K
+http://gearsreloaded.org:2086/live/polen/polen/135.m3u8
+#EXTINF:-1, Suluk CBS NY 4K
+http://gearsreloaded.org:2086/live/polen/polen/136.m3u8
+#EXTINF:-1, Suluk CBS PHILLY 4K
+http://gearsreloaded.org:2086/live/polen/polen/133.m3u8
+#EXTINF:-1, Suluk CBS SPORTS NETWORK 4K
+http://gearsreloaded.org:2086/live/polen/polen/134.m3u8
+#EXTINF:-1, Suluk BET HER 4K
+http://gearsreloaded.org:2086/live/polen/polen/5.m3u8
+#EXTINF:-1, Suluk CINEMAX 4K
+http://gearsreloaded.org:2086/live/polen/polen/271.m3u8
+#EXTINF:-1, Suluk CINEMAX 5STAR MAX 4K
+http://gearsreloaded.org:2086/live/polen/polen/273.m3u8
+#EXTINF:-1, Suluk CINEMAX ACTION MAX 4K
+http://gearsreloaded.org:2086/live/polen/polen/276.m3u8
+#EXTINF:-1, Suluk CINEMAX LATINO 4K
+http://gearsreloaded.org:2086/live/polen/polen/275.m3u8
+#EXTINF:-1, Suluk CINEMAX MOREMAX 4K
+http://gearsreloaded.org:2086/live/polen/polen/274.m3u8
+#EXTINF:-1, Suluk CINEMAX OUTERMAX 4K
+http://gearsreloaded.org:2086/live/polen/polen/663.m3u8
+#EXTINF:-1, Suluk CINEMAX THRILLER MAX 4K
+http://gearsreloaded.org:2086/live/polen/polen/272.m3u8
+#EXTINF:-1, Suluk CMT 4K
+http://gearsreloaded.org:2086/live/polen/polen/183.m3u8
+#EXTINF:-1, Suluk CMT MUSIC 4K
+http://gearsreloaded.org:2086/live/polen/polen/666.m3u8
+#EXTINF:-1, Suluk CNBC 4K
+http://gearsreloaded.org:2086/live/polen/polen/158.m3u8
+#EXTINF:-1, Suluk CNN 4K
+http://gearsreloaded.org:2086/live/polen/polen/108.m3u8
+#EXTINF:-1, Suluk CNN HD
+http://gearsreloaded.org:2086/live/polen/polen/109.m3u8
+#EXTINF:-1, Suluk COMEDY CENTRAL 4K
+http://gearsreloaded.org:2086/live/polen/polen/180.m3u8
+#EXTINF:-1, Suluk COMEDY TV 4K
+http://gearsreloaded.org:2086/live/polen/polen/87.m3u8
+#EXTINF:-1, Suluk COOKING CHANNEL 4K
+http://gearsreloaded.org:2086/live/polen/polen/181.m3u8
+#EXTINF:-1, Suluk COZI TV 4K
+http://gearsreloaded.org:2086/live/polen/polen/236.m3u8
+#EXTINF:-1, Suluk CRIME AND INVESTIGATION 4K
+http://gearsreloaded.org:2086/live/polen/polen/195.m3u8
+#EXTINF:-1, Suluk CSN PHILLY 4K
+http://gearsreloaded.org:2086/live/polen/polen/117.m3u8
+#EXTINF:-1, Suluk CSN PHILLY HD
+http://gearsreloaded.org:2086/live/polen/polen/118.m3u8
+#EXTINF:-1, Suluk CW PHILLY 4K
+http://gearsreloaded.org:2086/live/polen/polen/225.m3u8
+#EXTINF:-1, Suluk DESTINATION AMERICA 4K
+http://gearsreloaded.org:2086/live/polen/polen/171.m3u8
+#EXTINF:-1, Suluk DISCOVERY 4K
+http://gearsreloaded.org:2086/live/polen/polen/160.m3u8
+#EXTINF:-1, Suluk DISCOVERY FAMILY 4K
+http://gearsreloaded.org:2086/live/polen/polen/209.m3u8
+#EXTINF:-1, Suluk DISCOVERY LIFE 4K
+http://gearsreloaded.org:2086/live/polen/polen/234.m3u8
+#EXTINF:-1, Suluk DISCOVERY SCIENCE 4K
+http://gearsreloaded.org:2086/live/polen/polen/162.m3u8
+#EXTINF:-1, Suluk DISNEY 4K
+http://gearsreloaded.org:2086/live/polen/polen/150.m3u8
+#EXTINF:-1, Suluk DISNEY JR 4K
+http://gearsreloaded.org:2086/live/polen/polen/151.m3u8
+#EXTINF:-1, Suluk DISNEY XD 4K
+http://gearsreloaded.org:2086/live/polen/polen/152.m3u8
+#EXTINF:-1, Suluk DIY 4K
+http://gearsreloaded.org:2086/live/polen/polen/157.m3u8
+#EXTINF:-1, Suluk E! 4K
+http://gearsreloaded.org:2086/live/polen/polen/172.m3u8
+#EXTINF:-1, Suluk EL REY NETWORK 4K
+http://gearsreloaded.org:2086/live/polen/polen/199.m3u8
+#EXTINF:-1, Suluk ENCORE ACTION 4K
+http://gearsreloaded.org:2086/live/polen/polen/226.m3u8
+#EXTINF:-1, Suluk ENCORE SUSPENSE 4K
+http://gearsreloaded.org:2086/live/polen/polen/664.m3u8
+#EXTINF:-1, Suluk EPIX 4K
+http://gearsreloaded.org:2086/live/polen/polen/216.m3u8
+#EXTINF:-1, Suluk EPIX 2 4K
+http://gearsreloaded.org:2086/live/polen/polen/223.m3u8
+#EXTINF:-1, Suluk ESPN 4K
+http://gearsreloaded.org:2086/live/polen/polen/96.m3u8
+#EXTINF:-1, Suluk ESPN HD
+http://gearsreloaded.org:2086/live/polen/polen/97.m3u8
+#EXTINF:-1, Suluk ESPN 2 4K
+http://gearsreloaded.org:2086/live/polen/polen/98.m3u8
+#EXTINF:-1, Suluk ESPN 2 HD
+http://gearsreloaded.org:2086/live/polen/polen/99.m3u8
+#EXTINF:-1, Suluk ESPN CLASSICS 4K
+http://gearsreloaded.org:2086/live/polen/polen/103.m3u8
+#EXTINF:-1, Suluk ESPN DEPORTES 4K
+http://gearsreloaded.org:2086/live/polen/polen/3.m3u8
+#EXTINF:-1, Suluk ESPN NEWS 4K
+http://gearsreloaded.org:2086/live/polen/polen/102.m3u8
+#EXTINF:-1, Suluk ESPN U 4K
+http://gearsreloaded.org:2086/live/polen/polen/100.m3u8
+#EXTINF:-1, Suluk ESPN U HD
+http://gearsreloaded.org:2086/live/polen/polen/101.m3u8
+#EXTINF:-1, Suluk FLIX 4K
+http://gearsreloaded.org:2086/live/polen/polen/86.m3u8
+#EXTINF:-1, Suluk FOOD NETWORK 4K
+http://gearsreloaded.org:2086/live/polen/polen/178.m3u8
+#EXTINF:-1, Suluk FOX BUSINESS 4K
+http://gearsreloaded.org:2086/live/polen/polen/131.m3u8
+#EXTINF:-1, Suluk FOX DEPORTES 4K
+http://gearsreloaded.org:2086/live/polen/polen/132.m3u8
+#EXTINF:-1, Suluk FOX LA 4K
+http://gearsreloaded.org:2086/live/polen/polen/130.m3u8
+#EXTINF:-1, Suluk FOX NEWS 4K
+http://gearsreloaded.org:2086/live/polen/polen/107.m3u8
+#EXTINF:-1, Suluk FOX NY 4K
+http://gearsreloaded.org:2086/live/polen/polen/128.m3u8
+#EXTINF:-1, Suluk FOX PHILLY 4K
+http://gearsreloaded.org:2086/live/polen/polen/124.m3u8
+#EXTINF:-1, Suluk FOX SOCCER PLUS 4K
+http://gearsreloaded.org:2086/live/polen/polen/129.m3u8
+#EXTINF:-1, Suluk FOX SPORTS 1 4K
+http://gearsreloaded.org:2086/live/polen/polen/104.m3u8
+#EXTINF:-1, Suluk FOX SPORTS 2 4K
+http://gearsreloaded.org:2086/live/polen/polen/105.m3u8
+#EXTINF:-1, Suluk FOX SPORTS 2 HD
+http://gearsreloaded.org:2086/live/polen/polen/106.m3u8
+#EXTINF:-1, Suluk FOX SPORTS WEST 4K
+http://gearsreloaded.org:2086/live/polen/polen/127.m3u8
+#EXTINF:-1, Suluk FREEFORM 4K
+http://gearsreloaded.org:2086/live/polen/polen/214.m3u8
+#EXTINF:-1, Suluk FUSE 4K
+http://gearsreloaded.org:2086/live/polen/polen/92.m3u8
+#EXTINF:-1, Suluk FUSION 4K
+http://gearsreloaded.org:2086/live/polen/polen/85.m3u8
+#EXTINF:-1, Suluk FX 4K
+http://gearsreloaded.org:2086/live/polen/polen/200.m3u8
+#EXTINF:-1, Suluk FX MOVIES 4K
+http://gearsreloaded.org:2086/live/polen/polen/1.m3u8
+#EXTINF:-1, Suluk FXX 4K
+http://gearsreloaded.org:2086/live/polen/polen/215.m3u8
+#EXTINF:-1, Suluk FYI 4K
+http://gearsreloaded.org:2086/live/polen/polen/186.m3u8
+#EXTINF:-1, Suluk GOLF CHANNEL 4K
+http://gearsreloaded.org:2086/live/polen/polen/551.m3u8
+#EXTINF:-1, Suluk GREAT AMERICAN COUNTRY 4K
+http://gearsreloaded.org:2086/live/polen/polen/84.m3u8
+#EXTINF:-1, Suluk GSN 4K
+http://gearsreloaded.org:2086/live/polen/polen/206.m3u8
+#EXTINF:-1, Suluk HALLMARK 4K
+http://gearsreloaded.org:2086/live/polen/polen/169.m3u8
+#EXTINF:-1, Suluk HALLMARK MOVIES & MYSTERIES 4K
+http://gearsreloaded.org:2086/live/polen/polen/170.m3u8
+#EXTINF:-1, Suluk HBO 4K
+http://gearsreloaded.org:2086/live/polen/polen/261.m3u8
+#EXTINF:-1, Suluk HBO 2 4K
+http://gearsreloaded.org:2086/live/polen/polen/263.m3u8
+#EXTINF:-1, Suluk HBO COMEDY 4K
+http://gearsreloaded.org:2086/live/polen/polen/262.m3u8
+#EXTINF:-1, Suluk HBO FAMILY 4K
+http://gearsreloaded.org:2086/live/polen/polen/266.m3u8
+#EXTINF:-1, Suluk HBO LATINO 4K
+http://gearsreloaded.org:2086/live/polen/polen/267.m3u8
+#EXTINF:-1, Suluk HBO SIGNATURE 4K
+http://gearsreloaded.org:2086/live/polen/polen/264.m3u8
+#EXTINF:-1, Suluk HBO ZONE 4K
+http://gearsreloaded.org:2086/live/polen/polen/265.m3u8
+#EXTINF:-1, Suluk HGTV 4K
+http://gearsreloaded.org:2086/live/polen/polen/147.m3u8
+#EXTINF:-1, Suluk HGTV HD
+http://gearsreloaded.org:2086/live/polen/polen/148.m3u8
+#EXTINF:-1, Suluk HISTORY 4K
+http://gearsreloaded.org:2086/live/polen/polen/156.m3u8
+#EXTINF:-1, Suluk HLN 4K
+http://gearsreloaded.org:2086/live/polen/polen/244.m3u8
+#EXTINF:-1, Suluk ID 4K
+http://gearsreloaded.org:2086/live/polen/polen/161.m3u8
+#EXTINF:-1, Suluk IFC 4K
+http://gearsreloaded.org:2086/live/polen/polen/173.m3u8
+#EXTINF:-1, Suluk ION 4K
+http://gearsreloaded.org:2086/live/polen/polen/662.m3u8
+#EXTINF:-1, Suluk ION LIFE 4K
+http://gearsreloaded.org:2086/live/polen/polen/661.m3u8
+#EXTINF:-1, Suluk KTLA 4K
+http://gearsreloaded.org:2086/live/polen/polen/95.m3u8
+#EXTINF:-1, Suluk LIFETIME 4K
+http://gearsreloaded.org:2086/live/polen/polen/191.m3u8
+#EXTINF:-1, Suluk LMN 4K
+http://gearsreloaded.org:2086/live/polen/polen/192.m3u8
+#EXTINF:-1, Suluk LOGO 4K
+http://gearsreloaded.org:2086/live/polen/polen/252.m3u8
+#EXTINF:-1, Suluk MAV TV 4K
+http://gearsreloaded.org:2086/live/polen/polen/233.m3u8
+#EXTINF:-1, Suluk ME TV 4K
+http://gearsreloaded.org:2086/live/polen/polen/673.m3u8
+#EXTINF:-1, Suluk MGM 4K
+http://gearsreloaded.org:2086/live/polen/polen/83.m3u8
+#EXTINF:-1, Suluk MILITARY HISTORY 4K
+http://gearsreloaded.org:2086/live/polen/polen/197.m3u8
+#EXTINF:-1, Suluk MLB NETWORK 4K
+http://gearsreloaded.org:2086/live/polen/polen/114.m3u8
+#EXTINF:-1, Suluk MLB NETWORK HD
+http://gearsreloaded.org:2086/live/polen/polen/115.m3u8
+#EXTINF:-1, Suluk MOVIES! 4K
+http://gearsreloaded.org:2086/live/polen/polen/672.m3u8
+#EXTINF:-1, Suluk MSG 4K
+http://gearsreloaded.org:2086/live/polen/polen/246.m3u8
+#EXTINF:-1, Suluk MSNBC 4K
+http://gearsreloaded.org:2086/live/polen/polen/138.m3u8
+#EXTINF:-1, Suluk MTV 2 4K
+http://gearsreloaded.org:2086/live/polen/polen/165.m3u8
+#EXTINF:-1, Suluk MTV CLASSIC 4K
+http://gearsreloaded.org:2086/live/polen/polen/167.m3u8
+#EXTINF:-1, Suluk MTV CLASSIC
+http://gearsreloaded.org:2086/live/polen/polen/440.m3u8
+#EXTINF:-1, Suluk MTV LIVE 4K
+http://gearsreloaded.org:2086/live/polen/polen/164.m3u8
+#EXTINF:-1, Suluk MTV TR3S 4K
+http://gearsreloaded.org:2086/live/polen/polen/168.m3u8
+#EXTINF:-1, Suluk MTV U 4K
+http://gearsreloaded.org:2086/live/polen/polen/166.m3u8
+#EXTINF:-1, Suluk MY TV PHILLY 4K
+http://gearsreloaded.org:2086/live/polen/polen/238.m3u8
+#EXTINF:-1, Suluk NAT GEO WILD 4K
+http://gearsreloaded.org:2086/live/polen/polen/219.m3u8
+#EXTINF:-1, Suluk NATIONAL GEOGRAPHIC 4K
+http://gearsreloaded.org:2086/live/polen/polen/188.m3u8
+#EXTINF:-1, Suluk NBA TV 4K
+http://gearsreloaded.org:2086/live/polen/polen/112.m3u8
+#EXTINF:-1, Suluk NBA TV HD
+http://gearsreloaded.org:2086/live/polen/polen/113.m3u8
+#EXTINF:-1, Suluk NBC LA 4K
+http://gearsreloaded.org:2086/live/polen/polen/139.m3u8
+#EXTINF:-1, Suluk NBC NY 4K
+http://gearsreloaded.org:2086/live/polen/polen/142.m3u8
+#EXTINF:-1, Suluk NBC PHILLY 4K
+http://gearsreloaded.org:2086/live/polen/polen/140.m3u8
+#EXTINF:-1, Suluk NBC SPORTS NETWORK 4K
+http://gearsreloaded.org:2086/live/polen/polen/137.m3u8
+#EXTINF:-1, Suluk NBC UNIVERSO 4K
+http://gearsreloaded.org:2086/live/polen/polen/141.m3u8
+#EXTINF:-1, Suluk NFL NETWORK 4K
+http://gearsreloaded.org:2086/live/polen/polen/110.m3u8
+#EXTINF:-1, Suluk NFL NETWORK HD
+http://gearsreloaded.org:2086/live/polen/polen/111.m3u8
+#EXTINF:-1, Suluk NHL NETWORK 4K
+http://gearsreloaded.org:2086/live/polen/polen/218.m3u8
+#EXTINF:-1, Suluk NICK 2 4K
+http://gearsreloaded.org:2086/live/polen/polen/82.m3u8
+#EXTINF:-1, Suluk NICK JR 4K
+http://gearsreloaded.org:2086/live/polen/polen/154.m3u8
+#EXTINF:-1, Suluk NICK MUSIC 4K
+http://gearsreloaded.org:2086/live/polen/polen/81.m3u8
+#EXTINF:-1, Suluk NICKELODEON 4K
+http://gearsreloaded.org:2086/live/polen/polen/153.m3u8
+#EXTINF:-1, Suluk NICKTOONS 4K
+http://gearsreloaded.org:2086/live/polen/polen/221.m3u8
+#EXTINF:-1, Suluk ONE AMERICA NEWS 4K
+http://gearsreloaded.org:2086/live/polen/polen/90.m3u8
+#EXTINF:-1, Suluk OUTDOOR 4K
+http://gearsreloaded.org:2086/live/polen/polen/207.m3u8
+#EXTINF:-1, Suluk OVATION 4K
+http://gearsreloaded.org:2086/live/polen/polen/665.m3u8
+#EXTINF:-1, Suluk OWN 4K
+http://gearsreloaded.org:2086/live/polen/polen/208.m3u8
+#EXTINF:-1, Suluk OXYGEN 4K
+http://gearsreloaded.org:2086/live/polen/polen/251.m3u8
+#EXTINF:-1, Suluk PAC 12 ARIZONA 4K
+http://gearsreloaded.org:2086/live/polen/polen/552.m3u8
+#EXTINF:-1, Suluk PAC 12 BAY AREA 4K
+http://gearsreloaded.org:2086/live/polen/polen/553.m3u8
+#EXTINF:-1, Suluk PAC 12 LA 4K
+http://gearsreloaded.org:2086/live/polen/polen/554.m3u8
+#EXTINF:-1, Suluk PAC 12 MOUNTAIN 4K
+http://gearsreloaded.org:2086/live/polen/polen/555.m3u8
+#EXTINF:-1, Suluk PAC 12 NATIONAL 4K
+http://gearsreloaded.org:2086/live/polen/polen/556.m3u8
+#EXTINF:-1, Suluk PAC 12 OREGON 4K
+http://gearsreloaded.org:2086/live/polen/polen/557.m3u8
+#EXTINF:-1, Suluk PAC 12 WASHINGTON 4K
+http://gearsreloaded.org:2086/live/polen/polen/558.m3u8
+#EXTINF:-1, Suluk PBS 4K
+http://gearsreloaded.org:2086/live/polen/polen/660.m3u8
+#EXTINF:-1, Suluk PBS KIDS 4K
+http://gearsreloaded.org:2086/live/polen/polen/671.m3u8
+#EXTINF:-1, Suluk PIX 11 NY 4K
+http://gearsreloaded.org:2086/live/polen/polen/242.m3u8
+#EXTINF:-1, Suluk POP 4K
+http://gearsreloaded.org:2086/live/polen/polen/253.m3u8
+#EXTINF:-1, Suluk QUBO 4K
+http://gearsreloaded.org:2086/live/polen/polen/659.m3u8
+#EXTINF:-1, Suluk REELZ 4K
+http://gearsreloaded.org:2086/live/polen/polen/80.m3u8
+#EXTINF:-1, Suluk REVOLT 4K
+http://gearsreloaded.org:2086/live/polen/polen/204.m3u8
+#EXTINF:-1, Suluk SEC 4K
+http://gearsreloaded.org:2086/live/polen/polen/217.m3u8
+#EXTINF:-1, Suluk SHOWTIME 4K
+http://gearsreloaded.org:2086/live/polen/polen/256.m3u8
+#EXTINF:-1, Suluk SHOWTIME 2 4K
+http://gearsreloaded.org:2086/live/polen/polen/260.m3u8
+#EXTINF:-1, Suluk SHOWTIME BEYOND 4K
+http://gearsreloaded.org:2086/live/polen/polen/257.m3u8
+#EXTINF:-1, Suluk SHOWTIME EXTREME 4K
+http://gearsreloaded.org:2086/live/polen/polen/259.m3u8
+#EXTINF:-1, Suluk SHOWTIME SHOWCASE 4K
+http://gearsreloaded.org:2086/live/polen/polen/258.m3u8
+#EXTINF:-1, Suluk SHOWTIME WOMEN 4K
+http://gearsreloaded.org:2086/live/polen/polen/255.m3u8
+#EXTINF:-1, Suluk SMITHSONIAN 4K
+http://gearsreloaded.org:2086/live/polen/polen/198.m3u8
+#EXTINF:-1, Suluk SNY 4K
+http://gearsreloaded.org:2086/live/polen/polen/247.m3u8
+#EXTINF:-1, Suluk SPIKE 4K
+http://gearsreloaded.org:2086/live/polen/polen/174.m3u8
+#EXTINF:-1, Suluk SPORTSMAN 4K
+http://gearsreloaded.org:2086/live/polen/polen/240.m3u8
+#EXTINF:-1, Suluk SPORTSNET LA DODGERS 4K
+http://gearsreloaded.org:2086/live/polen/polen/144.m3u8
+#EXTINF:-1, Suluk SPORTSNET LA LAKERS 4K
+http://gearsreloaded.org:2086/live/polen/polen/143.m3u8
+#EXTINF:-1, Suluk SPROUT 4K
+http://gearsreloaded.org:2086/live/polen/polen/249.m3u8
+#EXTINF:-1, Suluk STARZ 4K
+http://gearsreloaded.org:2086/live/polen/polen/270.m3u8
+#EXTINF:-1, Suluk STARZ COMEDY 4K
+http://gearsreloaded.org:2086/live/polen/polen/278.m3u8
+#EXTINF:-1, Suluk STARZ ENCORE 4K
+http://gearsreloaded.org:2086/live/polen/polen/268.m3u8
+#EXTINF:-1, Suluk STARZ ENCORE WESTERNS 4K
+http://gearsreloaded.org:2086/live/polen/polen/269.m3u8
+#EXTINF:-1, Suluk STARZ IN BLACK 4K
+http://gearsreloaded.org:2086/live/polen/polen/279.m3u8
+#EXTINF:-1, Suluk STARZ KIDS 4K
+http://gearsreloaded.org:2086/live/polen/polen/277.m3u8
+#EXTINF:-1, Suluk SUNDANCE 4K
+http://gearsreloaded.org:2086/live/polen/polen/224.m3u8
+#EXTINF:-1, Suluk SYFY 4K
+http://gearsreloaded.org:2086/live/polen/polen/212.m3u8
+#EXTINF:-1, Suluk TBS 4K
+http://gearsreloaded.org:2086/live/polen/polen/175.m3u8
+#EXTINF:-1, Suluk TCM 4K
+http://gearsreloaded.org:2086/live/polen/polen/79.m3u8
+#EXTINF:-1, Suluk TEEN NICK 4K
+http://gearsreloaded.org:2086/live/polen/polen/254.m3u8
+#EXTINF:-1, Suluk TELEMUNDO 4K
+http://gearsreloaded.org:2086/live/polen/polen/196.m3u8
+#EXTINF:-1, Suluk TELEVISION DOMINICANA 4K
+http://gearsreloaded.org:2086/live/polen/polen/668.m3u8
+#EXTINF:-1, Suluk TENNIS 4K
+http://gearsreloaded.org:2086/live/polen/polen/194.m3u8
+#EXTINF:-1, Suluk THE COMCAST NETWORK 4K
+http://gearsreloaded.org:2086/live/polen/polen/670.m3u8
+#EXTINF:-1, Suluk THE WEATHER CHANNEL 4K
+http://gearsreloaded.org:2086/live/polen/polen/94.m3u8
+#EXTINF:-1, Suluk TLC 4K
+http://gearsreloaded.org:2086/live/polen/polen/159.m3u8
+#EXTINF:-1, Suluk TMC 4K
+http://gearsreloaded.org:2086/live/polen/polen/78.m3u8
+#EXTINF:-1, Suluk TMC EXTRA 4K
+http://gearsreloaded.org:2086/live/polen/polen/77.m3u8
+#EXTINF:-1, Suluk TNT 4K
+http://gearsreloaded.org:2086/live/polen/polen/179.m3u8
+#EXTINF:-1, Suluk TRAVEL CHANNEL 4K
+http://gearsreloaded.org:2086/live/polen/polen/187.m3u8
+#EXTINF:-1, Suluk TRU TV 4K
+http://gearsreloaded.org:2086/live/polen/polen/176.m3u8
+#EXTINF:-1, Suluk TV LAND 4K
+http://gearsreloaded.org:2086/live/polen/polen/213.m3u8
+#EXTINF:-1, Suluk TV ONE 4K
+http://gearsreloaded.org:2086/live/polen/polen/205.m3u8
+#EXTINF:-1, Suluk UNIMAS 4K
+http://gearsreloaded.org:2086/live/polen/polen/190.m3u8
+#EXTINF:-1, Suluk UNIVISION 4K
+http://gearsreloaded.org:2086/live/polen/polen/189.m3u8
+#EXTINF:-1, Suluk UNIVISION TDN 4K
+http://gearsreloaded.org:2086/live/polen/polen/232.m3u8
+#EXTINF:-1, Suluk UP 4K
+http://gearsreloaded.org:2086/live/polen/polen/74.m3u8
+#EXTINF:-1, Suluk USA NETWORK 4K
+http://gearsreloaded.org:2086/live/polen/polen/182.m3u8
+#EXTINF:-1, Suluk VELOCITY 4K
+http://gearsreloaded.org:2086/live/polen/polen/220.m3u8
+#EXTINF:-1, Suluk VH1 4K
+http://gearsreloaded.org:2086/live/polen/polen/155.m3u8
+#EXTINF:-1, Suluk VICELAND 4K
+http://gearsreloaded.org:2086/live/polen/polen/177.m3u8
+#EXTINF:-1, Suluk WAPA AMERICA 4K
+http://gearsreloaded.org:2086/live/polen/polen/243.m3u8
+#EXTINF:-1, Suluk WE TV 4K
+http://gearsreloaded.org:2086/live/polen/polen/211.m3u8
+#EXTINF:-1, Suluk WGN AMERICA 4K
+http://gearsreloaded.org:2086/live/polen/polen/245.m3u8
+#EXTINF:-1, Suluk WGN NEWS CHICAGO 4K
+http://wgntribune-lh.akamaihd.net/i/WGNPrimary_1@304622/master.m3u8
+#EXTINF:-1, Suluk WILLOW 4K
+http://gearsreloaded.org:2086/live/polen/polen/229.m3u8
+#EXTINF:-1, Suluk WILLOW HD
+http://gearsreloaded.org:2086/live/polen/polen/230.m3u8
+#EXTINF:-1, Suluk WWE 4K
+http://gearsreloaded.org:2086/live/polen/polen/119.m3u8
+#EXTINF:-1, Suluk WWE HD
+http://gearsreloaded.org:2086/live/polen/polen/120.m3u8
+#EXTINF:-1, Suluk YES NETWORK 4K
+http://gearsreloaded.org:2086/live/polen/polen/248.m3u8
+#EXTINF:-1, Suluk 5STAR
+http://gearsreloaded.org:2086/live/polen/polen/481.m3u8
+#EXTINF:-1, Suluk 90'S
+http://gearsreloaded.org:2086/live/polen/polen/534.m3u8
+#EXTINF:-1, Suluk ALIBI 4K
+http://gearsreloaded.org:2086/live/polen/polen/480.m3u8
+#EXTINF:-1, Suluk ALTERNATIVE
+http://gearsreloaded.org:2086/live/polen/polen/520.m3u8
+#EXTINF:-1, Suluk ANIMAL PLANET UK 4K
+http://gearsreloaded.org:2086/live/polen/polen/479.m3u8
+#EXTINF:-1, Suluk BBC 1 4K
+http://gearsreloaded.org:2086/live/polen/polen/478.m3u8
+#EXTINF:-1, Suluk BBC 2 4K
+http://gearsreloaded.org:2086/live/polen/polen/477.m3u8
+#EXTINF:-1, Suluk BBC 4 / CBEEBIES 4K
+http://gearsreloaded.org:2086/live/polen/polen/476.m3u8
+#EXTINF:-1, Suluk BBC NEWS 4K
+http://gearsreloaded.org:2086/live/polen/polen/475.m3u8
+#EXTINF:-1, Suluk BOXNATION
+http://gearsreloaded.org:2086/live/polen/polen/474.m3u8
+#EXTINF:-1, Suluk BRITISH HITS
+http://gearsreloaded.org:2086/live/polen/polen/519.m3u8
+#EXTINF:-1, Suluk BT SPORTS 1 4K
+http://gearsreloaded.org:2086/live/polen/polen/473.m3u8
+#EXTINF:-1, Suluk BT SPORTS 2 4K
+http://gearsreloaded.org:2086/live/polen/polen/472.m3u8
+#EXTINF:-1, Suluk BT SPORTS 3 4K
+http://gearsreloaded.org:2086/live/polen/polen/471.m3u8
+#EXTINF:-1, Suluk BT SPORTS ESPN 4K
+http://gearsreloaded.org:2086/live/polen/polen/470.m3u8
+#EXTINF:-1, Suluk CARTOONITO
+http://gearsreloaded.org:2086/live/polen/polen/469.m3u8
+#EXTINF:-1, Suluk CASH MONEY RECORDS
+http://gearsreloaded.org:2086/live/polen/polen/544.m3u8
+#EXTINF:-1, Suluk CBC CA 4K
+http://gearsreloaded.org:2086/live/polen/polen/502.m3u8
+#EXTINF:-1, Suluk CBS ACTION
+http://gearsreloaded.org:2086/live/polen/polen/468.m3u8
+#EXTINF:-1, Suluk CBS REALITY
+http://gearsreloaded.org:2086/live/polen/polen/467.m3u8
+#EXTINF:-1, Suluk CHANNEL 4 4K
+http://gearsreloaded.org:2086/live/polen/polen/466.m3u8
+#EXTINF:-1, Suluk CHANNEL 5 4K
+http://gearsreloaded.org:2086/live/polen/polen/465.m3u8
+#EXTINF:-1, Suluk CITY 4K
+http://gearsreloaded.org:2086/live/polen/polen/501.m3u8
+#EXTINF:-1, Suluk COMEDY CENTRAL UK 4K
+http://gearsreloaded.org:2086/live/polen/polen/464.m3u8
+#EXTINF:-1, Suluk CP 24 4K
+http://gearsreloaded.org:2086/live/polen/polen/500.m3u8
+#EXTINF:-1, Suluk CTV 4K
+http://gearsreloaded.org:2086/live/polen/polen/499.m3u8
+#EXTINF:-1, Suluk DANCE/EDM
+http://gearsreloaded.org:2086/live/polen/polen/521.m3u8
+#EXTINF:-1, Suluk DAVE 4K
+http://gearsreloaded.org:2086/live/polen/polen/463.m3u8
+#EXTINF:-1, Suluk DISCOVERY HISTORY
+http://gearsreloaded.org:2086/live/polen/polen/462.m3u8
+#EXTINF:-1, Suluk DISCOVERY SCIENCE UK
+http://gearsreloaded.org:2086/live/polen/polen/461.m3u8
+#EXTINF:-1, Suluk DISCOVERY TURBO
+http://gearsreloaded.org:2086/live/polen/polen/460.m3u8
+#EXTINF:-1, Suluk DISCOVERY UK 4K
+http://gearsreloaded.org:2086/live/polen/polen/459.m3u8
+#EXTINF:-1, Suluk DRAMA
+http://gearsreloaded.org:2086/live/polen/polen/458.m3u8
+#EXTINF:-1, Suluk E4 4K
+http://gearsreloaded.org:2086/live/polen/polen/457.m3u8
+#EXTINF:-1, Suluk EDEN 4K
+http://gearsreloaded.org:2086/live/polen/polen/456.m3u8
+#EXTINF:-1, Suluk EURO SPORTS 1 4K
+http://gearsreloaded.org:2086/live/polen/polen/455.m3u8
+#EXTINF:-1, Suluk EURO SPORTS 2 4K
+http://gearsreloaded.org:2086/live/polen/polen/454.m3u8
+#EXTINF:-1, Suluk FILM 4 4K
+http://gearsreloaded.org:2086/live/polen/polen/453.m3u8
+#EXTINF:-1, Suluk FOX UK 4K
+http://gearsreloaded.org:2086/live/polen/polen/452.m3u8
+#EXTINF:-1, Suluk GLOBAL 4K
+http://gearsreloaded.org:2086/live/polen/polen/498.m3u8
+#EXTINF:-1, Suluk GOLD
+http://gearsreloaded.org:2086/live/polen/polen/451.m3u8
+#EXTINF:-1, Suluk HIP HOP & R&B
+http://gearsreloaded.org:2086/live/polen/polen/522.m3u8
+#EXTINF:-1, Suluk HIT LIST
+http://gearsreloaded.org:2086/live/polen/polen/523.m3u8
+#EXTINF:-1, Suluk HORROR CHANNEL
+http://gearsreloaded.org:2086/live/polen/polen/450.m3u8
+#EXTINF:-1, Suluk ID UK
+http://gearsreloaded.org:2086/live/polen/polen/449.m3u8
+#EXTINF:-1, Suluk INDIE
+http://gearsreloaded.org:2086/live/polen/polen/524.m3u8
+#EXTINF:-1, Suluk ITV 1 4K
+http://gearsreloaded.org:2086/live/polen/polen/448.m3u8
+#EXTINF:-1, Suluk ITV 2 4K
+http://gearsreloaded.org:2086/live/polen/polen/447.m3u8
+#EXTINF:-1, Suluk ITV 3 4K
+http://gearsreloaded.org:2086/live/polen/polen/446.m3u8
+#EXTINF:-1, Suluk ITV 4 4K
+http://gearsreloaded.org:2086/live/polen/polen/445.m3u8
+#EXTINF:-1, Suluk ITV BE 4K
+http://gearsreloaded.org:2086/live/polen/polen/444.m3u8
+#EXTINF:-1, Suluk KIDS ONLY
+http://gearsreloaded.org:2086/live/polen/polen/541.m3u8
+#EXTINF:-1, Suluk MC PLAY
+http://gearsreloaded.org:2086/live/polen/polen/543.m3u8
+#EXTINF:-1, Suluk METAL
+http://gearsreloaded.org:2086/live/polen/polen/525.m3u8
+#EXTINF:-1, Suluk MEXICANA
+http://gearsreloaded.org:2086/live/polen/polen/537.m3u8
+#EXTINF:-1, Suluk MIO Stadium 102 4K
+http://gearsreloaded.org:2086/live/polen/polen/508.m3u8
+#EXTINF:-1, Suluk MIO Stadium 103 4K
+http://gearsreloaded.org:2086/live/polen/polen/507.m3u8
+#EXTINF:-1, Suluk MTV 4K
+http://gearsreloaded.org:2086/live/polen/polen/163.m3u8
+#EXTINF:-1, Suluk MIO Stadium 104 4K
+http://gearsreloaded.org:2086/live/polen/polen/506.m3u8
+#EXTINF:-1, Suluk MIO Stadium 105 4K
+http://gearsreloaded.org:2086/live/polen/polen/505.m3u8
+#EXTINF:-1, Suluk MIO Stadium 106 4K
+http://gearsreloaded.org:2086/live/polen/polen/504.m3u8
+#EXTINF:-1, Suluk MIO Stadium 107 4K
+http://gearsreloaded.org:2086/live/polen/polen/503.m3u8
+#EXTINF:-1, Suluk MORE 4 4K
+http://gearsreloaded.org:2086/live/polen/polen/443.m3u8
+#EXTINF:-1, Suluk MOVIES 24
+http://gearsreloaded.org:2086/live/polen/polen/442.m3u8
+#EXTINF:-1, Suluk MOVIES 4 MEN
+http://gearsreloaded.org:2086/live/polen/polen/441.m3u8
+#EXTINF:-1, Suluk MTV UK 4K
+http://gearsreloaded.org:2086/live/polen/polen/439.m3u8
+#EXTINF:-1, Suluk MUSICA URBANA
+http://gearsreloaded.org:2086/live/polen/polen/538.m3u8
+#EXTINF:-1, Suluk NAT GEO UK 4K
+http://gearsreloaded.org:2086/live/polen/polen/438.m3u8
+#EXTINF:-1, Suluk NAT GEO WILD UK 4K
+http://gearsreloaded.org:2086/live/polen/polen/437.m3u8
+#EXTINF:-1, Suluk NBC EXTRA TIME 1 4K
+http://gearsreloaded.org:2086/live/polen/polen/515.m3u8
+#EXTINF:-1, Suluk NBC EXTRA TIME 2 4K
+http://gearsreloaded.org:2086/live/polen/polen/514.m3u8
+#EXTINF:-1, Suluk NBC EXTRA TIME 3 4K
+http://gearsreloaded.org:2086/live/polen/polen/513.m3u8
+#EXTINF:-1, Suluk NBC EXTRA TIME 4 4K
+http://gearsreloaded.org:2086/live/polen/polen/512.m3u8
+#EXTINF:-1, Suluk NBC EXTRA TIME 5 4K
+http://gearsreloaded.org:2086/live/polen/polen/511.m3u8
+#EXTINF:-1, Suluk NBC EXTRA TIME 6 4K
+http://gearsreloaded.org:2086/live/polen/polen/510.m3u8
+#EXTINF:-1, Suluk NBC EXTRA TIME 7 4K
+http://gearsreloaded.org:2086/live/polen/polen/509.m3u8
+#EXTINF:-1, Suluk NICK JR TOO
+http://gearsreloaded.org:2086/live/polen/polen/436.m3u8
+#EXTINF:-1, Suluk NICK JR UK
+http://gearsreloaded.org:2086/live/polen/polen/435.m3u8
+#EXTINF:-1, Suluk PICK TV
+http://gearsreloaded.org:2086/live/polen/polen/434.m3u8
+#EXTINF:-1, Suluk POP & COUNTRY
+http://gearsreloaded.org:2086/live/polen/polen/526.m3u8
+#EXTINF:-1, Suluk POP HITS
+http://gearsreloaded.org:2086/live/polen/polen/527.m3u8
+#EXTINF:-1, Suluk POP LATINO
+http://gearsreloaded.org:2086/live/polen/polen/539.m3u8
+#EXTINF:-1, Suluk PREMIER SPORTS 4K
+http://gearsreloaded.org:2086/live/polen/polen/433.m3u8
+#EXTINF:-1, Suluk QUEST
+http://gearsreloaded.org:2086/live/polen/polen/432.m3u8
+#EXTINF:-1, Suluk R&B SOUL
+http://gearsreloaded.org:2086/live/polen/polen/528.m3u8
+#EXTINF:-1, Suluk RAP 00'S
+http://gearsreloaded.org:2086/live/polen/polen/530.m3u8
+#EXTINF:-1, Suluk RAP
+http://gearsreloaded.org:2086/live/polen/polen/529.m3u8
+#EXTINF:-1, Suluk REALLY
+http://gearsreloaded.org:2086/live/polen/polen/431.m3u8
+#EXTINF:-1, Suluk ROCK
+http://gearsreloaded.org:2086/live/polen/polen/531.m3u8
+#EXTINF:-1, Suluk SHOWCASE 4K
+http://gearsreloaded.org:2086/live/polen/polen/497.m3u8
+#EXTINF:-1, Suluk SKY 1 4K
+http://gearsreloaded.org:2086/live/polen/polen/430.m3u8
+#EXTINF:-1, Suluk SKY ATLANTIC
+http://gearsreloaded.org:2086/live/polen/polen/429.m3u8
+#EXTINF:-1, Suluk SKY LIVING 4K
+http://gearsreloaded.org:2086/live/polen/polen/428.m3u8
+#EXTINF:-1, Suluk SKY MOVIES ACTION 4K
+http://gearsreloaded.org:2086/live/polen/polen/409.m3u8
+#EXTINF:-1, Suluk SKY MOVIES COMEDY 4K
+http://gearsreloaded.org:2086/live/polen/polen/408.m3u8
+#EXTINF:-1, Suluk SKY MOVIES DISNEY 4K
+http://gearsreloaded.org:2086/live/polen/polen/407.m3u8
+#EXTINF:-1, Suluk SKY MOVIES DRAMA & ROMANCE 4K
+http://gearsreloaded.org:2086/live/polen/polen/406.m3u8
+#EXTINF:-1, Suluk SKY MOVIES FAMILY 4K
+http://gearsreloaded.org:2086/live/polen/polen/405.m3u8
+#EXTINF:-1, Suluk SKY MOVIES GREATS 4K
+http://gearsreloaded.org:2086/live/polen/polen/404.m3u8
+#EXTINF:-1, Suluk SKY MOVIES PREMIER 4K
+http://gearsreloaded.org:2086/live/polen/polen/402.m3u8
+#EXTINF:-1, Suluk SKY MOVIES SCI-FI/HORROR 4K
+http://gearsreloaded.org:2086/live/polen/polen/401.m3u8
+#EXTINF:-1, Suluk SKY MOVIES SELECT 4K
+http://gearsreloaded.org:2086/live/polen/polen/400.m3u8
+#EXTINF:-1, Suluk SKY MOVIES SHOWCASE 4K
+http://gearsreloaded.org:2086/live/polen/polen/403.m3u8
+#EXTINF:-1, Suluk SKY MOVIES THRILLER 4K
+http://gearsreloaded.org:2086/live/polen/polen/399.m3u8
+#EXTINF:-1, Suluk SKY SPORTS BOX OFFICE PPV
+http://gearsreloaded.org:2086/live/polen/polen/422.m3u8
+#EXTINF:-1, Suluk SKY SPORTS F1 4K
+http://gearsreloaded.org:2086/live/polen/polen/421.m3u8
+#EXTINF:-1, Suluk SKY SPORTS MIX 4K
+http://gearsreloaded.org:2086/live/polen/polen/420.m3u8
+#EXTINF:-1, Suluk SKY SPORTS NEWS 4K
+http://gearsreloaded.org:2086/live/polen/polen/419.m3u8
+#EXTINF:-1, Suluk SLICE 4K
+http://gearsreloaded.org:2086/live/polen/polen/496.m3u8
+#EXTINF:-1, Suluk SPIKE UK
+http://gearsreloaded.org:2086/live/polen/polen/418.m3u8
+#EXTINF:-1, Suluk SPORTS NET 360 4K
+http://gearsreloaded.org:2086/live/polen/polen/495.m3u8
+#EXTINF:-1, Suluk SPORTS NET EAST 4K
+http://gearsreloaded.org:2086/live/polen/polen/494.m3u8
+#EXTINF:-1, Suluk SPORTS NET ONE 4K
+http://gearsreloaded.org:2086/live/polen/polen/493.m3u8
+#EXTINF:-1, Suluk SPORTS NET ONTARIO 4K
+http://gearsreloaded.org:2086/live/polen/polen/492.m3u8
+#EXTINF:-1, Suluk SPORTS NET PACIFIC 4K
+http://gearsreloaded.org:2086/live/polen/polen/491.m3u8
+#EXTINF:-1, Suluk SPORTS NET WEST 4K
+http://gearsreloaded.org:2086/live/polen/polen/490.m3u8
+#EXTINF:-1, Suluk SPORTS NET WORLD 4K
+http://gearsreloaded.org:2086/live/polen/polen/489.m3u8
+#EXTINF:-1, Suluk STAR PLUS
+http://gearsreloaded.org:2086/live/polen/polen/417.m3u8
+#EXTINF:-1, Suluk Sky Sports Action 4K
+http://gearsreloaded.org:2086/live/polen/polen/425.m3u8
+#EXTINF:-1, Suluk Sky Sports Cricket 4K
+http://gearsreloaded.org:2086/live/polen/polen/426.m3u8
+#EXTINF:-1, Suluk Sky Sports Golf 4K
+http://gearsreloaded.org:2086/live/polen/polen/424.m3u8
+#EXTINF:-1, Suluk Sky Sports Main Event 4K
+http://gearsreloaded.org:2086/live/polen/polen/427.m3u8
+#EXTINF:-1, Suluk Sky Sports Premier League 4K
+http://gearsreloaded.org:2086/live/polen/polen/423.m3u8
+#EXTINF:-1, Suluk TEEN BEATS
+http://gearsreloaded.org:2086/live/polen/polen/532.m3u8
+#EXTINF:-1, Suluk THROWBACK JAMS
+http://gearsreloaded.org:2086/live/polen/polen/535.m3u8
+#EXTINF:-1, Suluk TODAY'S COUNTRY
+http://gearsreloaded.org:2086/live/polen/polen/533.m3u8
+#EXTINF:-1, Suluk TODDLER TUNES
+http://gearsreloaded.org:2086/live/polen/polen/542.m3u8
+#EXTINF:-1, Suluk TROPICALES
+http://gearsreloaded.org:2086/live/polen/polen/540.m3u8
+#EXTINF:-1, Suluk TRUE CRIME
+http://gearsreloaded.org:2086/live/polen/polen/416.m3u8
+#EXTINF:-1, Suluk TRUE ENTERTAINMENT
+http://gearsreloaded.org:2086/live/polen/polen/415.m3u8
+#EXTINF:-1, Suluk TRUE MOVIES 1
+http://gearsreloaded.org:2086/live/polen/polen/414.m3u8
+#EXTINF:-1, Suluk TRUE MOVIES 2
+http://gearsreloaded.org:2086/live/polen/polen/413.m3u8
+#EXTINF:-1, Suluk TSN 1 4K
+http://gearsreloaded.org:2086/live/polen/polen/488.m3u8
+#EXTINF:-1, Suluk TSN 2 4K
+http://gearsreloaded.org:2086/live/polen/polen/487.m3u8
+#EXTINF:-1, Suluk TSN 3 4K
+http://gearsreloaded.org:2086/live/polen/polen/486.m3u8
+#EXTINF:-1, Suluk TSN 4 4K
+http://gearsreloaded.org:2086/live/polen/polen/485.m3u8
+#EXTINF:-1, Suluk TSN 5 4K
+http://gearsreloaded.org:2086/live/polen/polen/484.m3u8
+#EXTINF:-1, Suluk UNIVERSAL UK 4K
+http://gearsreloaded.org:2086/live/polen/polen/412.m3u8
+#EXTINF:-1, Suluk W 4K
+http://gearsreloaded.org:2086/live/polen/polen/411.m3u8
+#EXTINF:-1, Suluk WORLD 4K
+http://gearsreloaded.org:2086/live/polen/polen/483.m3u8
+#EXTINF:-1, Suluk Y2K
+http://gearsreloaded.org:2086/live/polen/polen/536.m3u8
+#EXTINF:-1, Suluk YESTERDAY
+http://gearsreloaded.org:2086/live/polen/polen/410.m3u8
+#EXTINF:-1, Suluk 4SEVEN
+http://gearsreloaded.org:2086/live/polen/polen/482.m3u8
+#EXTINF:-1, Suluk Jasmin TV HD
+http://gearsreloaded.org:2086/live/polen/polen/65.m3u8
