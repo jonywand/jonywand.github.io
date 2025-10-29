@@ -1,0 +1,460 @@
+<!DOCTYPE html>
+<html lang="zh-CN">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>联系人名片 (最终稳定版 - 字体已优化)</title>
+    <style>
+        :root {
+            /* 关键颜色变量 */
+            --glass-blur-bg: 15px; 
+            --glass-blur-card: 45px;
+            --glass-opacity: 0.10;
+            --glass-modal-blur: 35px; 
+            --glass-modal-opacity: 0.15;
+            --glass-border: rgba(255, 255, 255, 0.25);
+            --glass-shadow: rgba(0, 0, 0, 0.6);
+            --text-color: #f0f0f5; 
+            --accent-color: #0a84ff; /* 标准 iOS 蓝 */
+            --segment-bg: rgba(255, 255, 255, 0.15); 
+        }
+        
+        body {
+            /* 【字体优化】：替换为中国大陆主流系统字体栈 */
+            font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", "PingFang SC", "Hiragino Sans GB", "Microsoft YaHei", "Helvetica Neue", Helvetica, Arial, sans-serif;
+            margin: 0; min-height: 100vh; display: flex; align-items: flex-start;
+            justify-content: center; color: var(--text-color); background-color: #1c1c1e; 
+            position: relative; overflow-y: auto; z-index: 1; padding-bottom: 50px;
+        }
+
+        /* 背景和叠加层 */
+        body::before {
+            content: ''; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background-image: url('https://jony.wang/img/hailang.jpg');
+            background-size: cover; background-position: center; background-repeat: no-repeat;
+            filter: blur(var(--glass-blur-bg)) brightness(0.7) saturate(1.2); 
+            transform: scale(1.05); opacity: 0.85; z-index: -1; 
+        }
+        body::after {
+            content: ''; position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background: linear-gradient(180deg, rgba(0,0,0,0.4) 0%, rgba(0,0,0,0.6) 100%);
+            z-index: -1; 
+        }
+
+        /* 主卡片和头像样式 */
+        .vcard-container {
+            max-width: 400px; width: 100%; padding-top: 50px; text-align: center;
+            background-color: rgba(255, 255, 255, var(--glass-opacity));
+            backdrop-filter: blur(var(--glass-blur-card)); -webkit-backdrop-filter: blur(var(--glass-blur-card));
+            border-radius: 35px; border: 1px solid var(--glass-border);
+            box-shadow: 0 15px 70px var(--glass-shadow);
+            margin: 50px 0; overflow: hidden; position: relative; z-index: 2; 
+        }
+        .profile-icon {
+            width: 100px; height: 100px; margin: 0 auto 12px; border-radius: 50%;
+            overflow: hidden; background-color: #333; 
+            border: 3px solid rgba(255, 255, 255, 0.6);
+            box-shadow: 0 0 15px rgba(56, 200, 255, 0.5), inset 0 0 10px rgba(0, 0, 0, 0.5); 
+        }
+        #profile-image { 
+            display: block; width: 100%; height: 100%; 
+            object-fit: cover; 
+            max-width: 100%; max-height: 100%;
+        }
+        .header { padding-bottom: 30px; }
+        .full-name { font-size: 30px; font-weight: 660; color: var(--text-color); margin-bottom: 4px; }
+        .contact-title { font-size: 16px; color: rgba(255, 255, 255, 0.7); margin: 0; }
+        
+        /* 信息列表和横线对齐 */
+        .info-group {
+            background-color: rgba(255, 255, 255, var(--glass-opacity)); 
+            backdrop-filter: blur(15px); -webkit-backdrop-filter: blur(15px);
+            border-radius: 25px; margin: 25px 20px; overflow: hidden;
+        }
+        .info-list { list-style: none; padding: 0; margin: 0; text-align: left; }
+        .info-item {
+            display: block; padding: 0; font-size: 17px; color: var(--text-color);
+            position: relative; 
+        }
+        .info-item:not(:last-child)::after {
+            content: ''; position: absolute;
+            left: 15px; /* 精确左对齐 */
+            right: 0; bottom: 0; height: 1px;
+            background-color: rgba(255, 255, 255, 0.1);
+        }
+        .info-item:last-child::after { content: none; }
+
+        .info-content-wrap {
+            display: flex; justify-content: space-between; align-items: center;
+            width: 100%; padding: 14px 20px; box-sizing: border-box;
+        }
+        .label { 
+            color: rgba(255, 255, 255, 0.6); flex-shrink: 0; 
+            margin-right: 20px; font-weight: 400; 
+        }
+        .value {
+            flex-grow: 1; text-align: right; font-weight: 500; word-break: break-all;
+        }
+        .value a {
+            color: #5ac8fa; text-decoration: none; font-weight: 500;
+            transition: color 0.2s, text-decoration 0.2s;
+        }
+        .value a:hover {
+            color: var(--accent-color); text-decoration: underline; 
+        }
+        
+        /* Action Button Group */
+        .action-container { 
+            padding: 10px 20px 40px; display: flex;
+            flex-direction: column; gap: 15px; 
+        }
+        #showModalBtn, #showVideoModalBtn {
+            width: 100%; padding: 15px; background-color: var(--accent-color); 
+            color: white; border: none; border-radius: 30px; 
+            cursor: pointer; font-size: 17px; font-weight: 660;
+            transition: all 0.2s ease-out; box-shadow: 0 4px 20px rgba(10, 132, 255, 0.5); 
+        }
+        #showModalBtn:active, #showVideoModalBtn:active { 
+            transform: scale(0.98); box-shadow: 0 2px 5px rgba(10, 132, 255, 0.2); 
+            background-color: #0077e6; 
+        }
+        #showVideoModalBtn {
+            background-color: #ff9500; box-shadow: 0 4px 20px rgba(255, 149, 0, 0.5);
+        }
+        #showVideoModalBtn:active {
+            background-color: #cc7a00;
+        }
+
+        /* 通用模态窗口样式 (Liquid Glass) */
+        .modal-overlay {
+            position: fixed; top: 0; left: 0; width: 100%; height: 100%;
+            background-color: rgba(0, 0, 0, 0.5); 
+            backdrop-filter: blur(12px); -webkit-backdrop-filter: blur(12px);
+            display: none; align-items: center; justify-content: center; z-index: 1000;
+        }
+        .modal-content {
+            width: 90%; max-width: 450px;
+            background-color: rgba(255, 255, 255, var(--glass-modal-opacity));
+            backdrop-filter: blur(var(--glass-modal-blur)); -webkit-backdrop-filter: blur(var(--glass-modal-blur));
+            border-radius: 30px; border: 1px solid rgba(255, 255, 255, 0.4); 
+            box-shadow: 0 10px 50px var(--glass-shadow);
+            overflow: hidden; color: var(--text-color); position: relative;
+        }
+        .modal-header {
+            padding: 20px 20px 10px; font-size: 20px; font-weight: 660; text-align: center;
+        }
+        .modal-body {
+            padding: 0 20px; max-height: 70vh; overflow-y: auto;
+        }
+        .modal-footer {
+            padding: 10px 20px 20px; border-top: 1px solid rgba(255, 255, 255, 0.15);
+        }
+        #exportVcfInModal {
+            width: 100%; padding: 15px; background-color: var(--accent-color); 
+            color: white; border: none; border-radius: 30px; 
+            cursor: pointer; font-size: 17px; font-weight: 660;
+            transition: all 0.2s ease-out; box-shadow: 0 4px 15px rgba(10, 132, 255, 0.5); 
+        }
+        #exportVcfInModal:active { transform: scale(0.98); background-color: #0077e6; }
+        
+        /* 模态窗口 Tab 样式 */
+        .segmented-control {
+            display: flex; margin: 10px 0 20px; background-color: var(--segment-bg);
+            border-radius: 12px; padding: 4px; user-select: none; position: relative;
+            backdrop-filter: blur(8px); -webkit-backdrop-filter: blur(8px); border: 1px solid rgba(255, 255, 255, 0.15);
+        }
+        .segmented-item { flex-grow: 1; padding: 10px 5px; text-align: center; font-size: 15px; font-weight: 500; cursor: pointer; color: rgba(255, 255, 255, 0.8); transition: color 0.2s; position: relative; z-index: 2; }
+        .segment-active-bg { position: absolute; top: 4px; left: 4px; height: calc(100% - 8px); width: 50%; background-color: var(--accent-color); border-radius: 9px; transition: transform 0.3s cubic-bezier(0.25, 0.8, 0.5, 1); z-index: 1; box-shadow: 0 0 10px rgba(10, 132, 255, 0.8), inset 0 0 5px rgba(255, 255, 255, 0.4); }
+        .segmented-item.active { color: white; font-weight: 660; }
+        .tab-panel { display: none; padding-bottom: 10px; }
+        .tab-panel.active { display: block; }
+        .tab-panel ol { padding-left: 20px; font-size: 15px; line-height: 1.6; color: rgba(255, 255, 255, 0.8); }
+        .tab-panel h4 { font-size: 16px; font-weight: 600; margin-top: 0; margin-bottom: 8px; color: var(--text-color); }
+        .tab-panel li { margin-bottom: 10px; }
+
+        /* 视频样式 */
+        .video-container { position: relative; width: 100%; padding-bottom: 56.25%; height: 0; overflow: hidden; border-radius: 12px; margin: 15px 0; box-shadow: 0 5px 20px rgba(0, 0, 0, 0.5); }
+        .video-container iframe { position: absolute; top: 0; left: 0; width: 100%; height: 100%; border: none; }
+        .video-description { font-size: 15px; line-height: 1.6; color: rgba(255, 255, 255, 0.9); padding: 10px 0 20px; }
+        #closeVideoModalBtn { width: 100%; padding: 15px; background-color: #5856d6; color: white; border: none; border-radius: 30px; cursor: pointer; font-size: 17px; font-weight: 660; transition: all 0.2s ease-out; box-shadow: 0 4px 15px rgba(88, 86, 214, 0.5); }
+        #closeVideoModalBtn:active { transform: scale(0.98); background-color: #4442a8;}
+
+        /* 自适应优化 (保持一致) */
+        @media (max-width: 480px) {
+            .vcard-container { width: 100%; max-width: none; border-radius: 0; border-left: none; border-right: none; box-shadow: none; margin: 0; padding-top: 40px; }
+            .info-group { border-radius: 12px; margin: 15px; }
+            .modal-content { width: 100%; height: 100%; max-width: none; border-radius: 0; box-shadow: none; border: none; }
+            .segmented-control { margin-left: 10px; margin-right: 10px; }
+            .modal-body { padding: 0 10px; max-height: calc(100vh - 150px); }
+            .video-container { margin: 10px 0; }
+        }
+
+    </style>
+</head>
+<body>
+
+<div class="vcard-container">
+    <div class="header">
+        <div class="profile-icon">
+            <img id="profile-image" src="" alt="Profile Picture">
+        </div>
+        <div class="full-name" id="name-display"></div>
+        <p class="contact-title" id="title-display"></p>
+    </div>
+
+    <div class="info-group">
+        <ul class="info-list">
+            <li class="info-item">
+                <div class="info-content-wrap">
+                    <span class="label">电话</span>
+                    <span class="value"><a id="tel-link" href="#"></a></span>
+                </div>
+            </li>
+            <li class="info-item">
+                <div class="info-content-wrap">
+                    <span class="label">邮箱</span>
+                    <span class="value"><a id="email-link" href="#"></a></span>
+                </div>
+            </li>
+        </ul>
+    </div>
+
+    <div class="info-group">
+        <ul class="info-list">
+            <li class="info-item">
+                <div class="info-content-wrap">
+                    <span class="label">公司</span>
+                    <span class="value" id="org-display"></span>
+                </div>
+            </li>
+            <li class="info-item">
+                <div class="info-content-wrap">
+                    <span class="label">地址</span>
+                    <span class="value" id="address-display"></span>
+                </div>
+            </li>
+            <li class="info-item">
+                <div class="info-content-wrap">
+                    <span class="label">网站</span>
+                    <span class="value"><a id="url-link" href="#" target="_blank" rel="noopener noreferrer"></a></span>
+                </div>
+            </li>
+        </ul>
+    </div>
+    
+    <div class="action-container">
+        <button id="showModalBtn">如何快速联系我们</button>
+        <button id="showVideoModalBtn">⏯️ 查看产品使用视频</button>
+    </div>
+</div>
+
+
+<div class="modal-overlay" id="exportModal">
+    <div class="modal-content">
+        <div class="modal-header">
+            如何保存联系人？
+        </div>
+        
+        <div class="modal-body">
+            <div class="segmented-control">
+                <div class="segment-active-bg" id="segment-bg"></div>
+                <div class="segmented-item active" data-tab="ios" id="ios-tab">
+                    <span style="color: var(--accent-color);">🍎</span> iOS 操作
+                </div>
+                <div class="segmented-item" data-tab="android" id="android-tab">
+                    <span style="color: #3DDC84;">🟢</span> Android 操作
+                </div>
+            </div>
+
+            <div id="ios-panel" class="tab-panel active">
+                <h4>iOS / 苹果操作示例 (推荐)</h4>
+                <ol>
+                    <li>点击底部的 **“立即导出”** 按钮，下载 **.vcf** 文件。</li>
+                    <li>在 **Safari 浏览器** 中，点击下载完成的文件，系统将自动识别为联系人。</li>
+                    <li>选择 **“创建新联系人”** 或 **“添加到现有联系人”**。</li>
+                    <li>如果系统未自动打开，请在 **“文件 App”** 或 **“下载”** 列表中找到 **.vcf** 文件，点击打开即可。</li>
+                </ol>
+            </div>
+            
+            <div id="android-panel" class="tab-panel">
+                <h4>Android / 谷歌通讯录操作示例</h4>
+                <ol>
+                    <li>点击底部的 **“立即导出”** 按钮，下载 **.vcf** 文件到手机存储。</li>
+                    <li>打开手机的 **通讯录 App** (或 Google Contacts)。</li>
+                    <li>在 App 菜单 (**...** 或设置) 中找到 **“导入/导出”** 或 **“导入联系人”** 选项。</li>
+                    <li>选择 **“从存储设备导入”**，找到并选择刚刚下载的 **.vcf** 文件。</li>
+                    <li>确认导入到指定账户/本地，联系人信息即可成功保存。</li>
+                </ol>
+            </div>
+            
+            <p style="text-align: center; margin-top: 25px; font-size: 14px; color: rgba(255, 255, 255, 0.5);">
+                * 大多数现代手机 App 会自动提示导入，请以您设备上的提示为准。
+            </p>
+        </div>
+
+        <div class="modal-footer">
+            <button id="exportVcfInModal">立即导出并下载联系人</button>
+        </div>
+    </div>
+</div>
+
+
+<div class="modal-overlay" id="videoModal">
+    <div class="modal-content">
+        <div class="modal-header">
+            名片效果视频演示
+        </div>
+        
+        <div class="modal-body" style="padding: 20px;">
+            <div class="video-container">
+                <iframe 
+                    id="introVideo" 
+                    src="https://www.youtube.com/embed/dQw4w9WgXcQ" 
+                    title="名片介绍视频" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
+                    allowfullscreen>
+                </iframe>
+            </div>
+
+            <div class="video-description">
+                <p>这段视频演示了本 Liquid Glass 风格名片在不同设备上的自适应效果，以及其独特的动态背景、玻璃模糊和 VCF 导出功能。</p>
+                <p>点击下方按钮关闭窗口。</p>
+            </div>
+        </div>
+
+        <div class="modal-footer">
+            <button id="closeVideoModalBtn">关闭视频演示</button>
+        </div>
+    </div>
+</div>
+
+
+<script>
+    // ----------------------------------------
+    // 数据中心：只需修改此对象
+    // ----------------------------------------
+    const contactData = {
+        name: "汐律科技", 
+        firstName: "科技", 
+        lastName: "汐律", 
+        organization: "深圳汐律科技有限责任公司", 
+        title: "相信科技的力量能够提升每一位水上运动参与者的体验。", 
+        phone: "+8613998765432", 
+        email: "work@xilv.com", 
+        addressVCF: ";;上海市浦东新区张江高科;;;中国", 
+        addressDisplay: "上海市浦东新区张江高科", 
+        url: "https://www.xilv.com", 
+        imageURL: "https://jony.wang/img/xilvtx.PNG"
+    };
+    // ----------------------------------------
+
+    function generateVCardText(data) {
+        return `BEGIN:VCARD\nVERSION:3.0\nN:${data.lastName};${data.firstName};;;\nFN:${data.name}\nORG:${data.organization}\nTITLE:${data.title}\nTEL;TYPE=WORK,VOICE:${data.phone}\nEMAIL;TYPE=PREF,INTERNET:${data.email}\nADR;TYPE=WORK:${data.addressVCF}\nURL:${data.url}\nEND:VCARD`;
+    }
+
+    // --- 导出模态窗口控制 ---
+    const exportModal = document.getElementById('exportModal');
+    function showExportModal() { exportModal.style.display = 'flex'; }
+    function closeExportModal() { exportModal.style.display = 'none'; }
+    exportModal.addEventListener('click', (e) => { if (e.target === exportModal) { closeExportModal(); } });
+
+    function exportVCF() {
+        const vcardText = generateVCardText(contactData);
+        const blob = new Blob([vcardText], { type: 'text/vcard;charset=utf-8' });
+        const a = document.createElement('a');
+        a.href = URL.createObjectURL(blob);
+        a.download = `${contactData.name}.vcf`; 
+        document.body.appendChild(a);
+        a.click();
+        document.body.removeChild(a);
+        URL.revokeObjectURL(a.href);
+        closeExportModal(); 
+    }
+    
+    // --- 视频模态窗口控制 ---
+    const videoModal = document.getElementById('videoModal');
+    const introVideo = document.getElementById('introVideo');
+
+    function showVideoModal() { 
+        videoModal.style.display = 'flex'; 
+        // 确保视频在打开时播放
+        introVideo.contentWindow.postMessage('{"event":"command","func":"playVideo","args":""}', '*');
+    }
+
+    function closeVideoModal() { 
+        videoModal.style.display = 'none'; 
+        // 确保视频在关闭时暂停
+        introVideo.contentWindow.postMessage('{"event":"command","func":"pauseVideo","args":""}', '*');
+    }
+    
+    videoModal.addEventListener('click', (e) => { 
+        if (e.target === videoModal) { closeVideoModal(); } 
+    });
+
+
+    // Tab 切换逻辑
+    const segmentedItems = document.querySelectorAll('.segmented-item');
+    const activeBg = document.getElementById('segment-bg');
+
+    function switchTab(targetTab) {
+        const isIOS = targetTab === 'ios';
+        activeBg.style.transform = isIOS ? 'translateX(0%)' : 'translateX(100%)';
+        segmentedItems.forEach(item => {
+            const tabId = item.getAttribute('data-tab');
+            const panel = document.getElementById(tabId + '-panel');
+            if (tabId === targetTab) {
+                item.classList.add('active');
+                panel.classList.add('active');
+            } else {
+                item.classList.remove('active');
+                panel.classList.remove('active');
+            }
+        });
+    }
+
+    // 事件绑定
+    document.getElementById('showModalBtn').addEventListener('click', showExportModal);
+    document.getElementById('exportVcfInModal').addEventListener('click', exportVCF);
+    document.getElementById('showVideoModalBtn').addEventListener('click', showVideoModal);
+    document.getElementById('closeVideoModalBtn').addEventListener('click', closeVideoModal);
+
+    segmentedItems.forEach(item => {
+        item.addEventListener('click', () => {
+            const targetTab = item.getAttribute('data-tab');
+            switchTab(targetTab);
+        });
+    });
+
+    // 统一数据绑定函数
+    function updateDisplay(data) {
+        // 1. 头像
+        document.getElementById('profile-image').src = data.imageURL; 
+
+        // 2. 姓名和职位
+        document.getElementById('name-display').textContent = data.name;
+        document.getElementById('title-display').textContent = `${data.title} @ ${data.organization}`;
+        
+        // 3. 电话
+        document.getElementById('tel-link').href = `tel:${data.phone}`;
+        document.getElementById('tel-link').textContent = data.phone.replace(/(\+86)(\d{3})(\d{4})(\d{4})/, '$1 $2 $3 $4'); 
+        
+        // 4. 邮箱
+        document.getElementById('email-link').href = `mailto:${data.email}`;
+        document.getElementById('email-link').textContent = data.email;
+        
+        // 5. 公司/地址/网站
+        document.getElementById('org-display').textContent = data.organization;
+        document.getElementById('address-display').textContent = data.addressDisplay;
+        document.getElementById('url-link').href = data.url;
+        document.getElementById('url-link').textContent = data.url.replace(/https?:\/\//, '').replace(/\/$/, '');
+    }
+
+    // 页面初始化
+    updateDisplay(contactData);
+    switchTab('ios');
+
+</script>
+
+</body>
+</html>
